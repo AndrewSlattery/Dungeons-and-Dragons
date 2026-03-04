@@ -86,7 +86,7 @@ window.CHARACTER_DATA = {
         { category: "Weapons",   value: "Simple, Martial" },
         { category: "Armour",    value: "Light, Medium, Shields" },
         { category: "Tools",     value: "Calligrapher's Supplies; Cartographer's Tools, Navigator's Tools" },
-        { category: "Languages", value: "Common; Gnomish, Halfling" }
+        { category: "Languages", value: "Common; Sign, Halfling" }
     ],
 
     // -- Attacks --

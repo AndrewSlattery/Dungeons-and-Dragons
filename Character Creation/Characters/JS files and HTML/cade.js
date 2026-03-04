@@ -34,7 +34,7 @@ window.CHARACTER_DATA = {
     name: "Cade",
     class: "Cleric",
     level: 1,
-    race: "Goliath (Storm Giant)",
+    race: "Goliath (Storm)",
     background: "Sailor",
     alignment: "LG",
     portrait: "../Headshots/cade-headshot.png",
@@ -102,7 +102,7 @@ window.CHARACTER_DATA = {
             name: "Dagger",
             hit: fmt(strMod + pb), 
             mastery: "",
-            properties: "Fin, Lgt, Thr (20/60)",
+            properties: "Fin, Lgt, Thr 20/60",
             modes: [
                 { label: "1H", damage: "1d4" + fmt(strMod) + " Pcg" },
                 { label: "Thr", damage: "1d4" + fmt(strMod) + " Pcg" }

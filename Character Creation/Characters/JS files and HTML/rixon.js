@@ -87,7 +87,7 @@ window.CHARACTER_DATA = {
         { category: "Weapons",   value: "Simple & Martial" },
         { category: "Armour",    value: "Light, Med, Heavy, Shields" },
         { category: "Tools",     value: "Knavebones (+PB, Adv)" },
-        { category: "Languages", value: "Common, Sign, Giant" }
+        { category: "Languages", value: "Common; Sign, Giant" }
     ],
 
     // -- Attacks --

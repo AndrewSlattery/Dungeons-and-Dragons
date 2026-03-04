@@ -90,7 +90,7 @@
 **Cartographer's Tools** *(Skilled)*
 **Navigator's Tools** *(Skilled)*
 
-**Languages:** Common, Gnomish, Halfling
+**Languages:** Common, Common Sign, Halfling
 
 ### Weapon & Armour Proficiencies
 

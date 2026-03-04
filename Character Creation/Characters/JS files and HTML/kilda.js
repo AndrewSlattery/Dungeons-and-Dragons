@@ -76,7 +76,7 @@ window.CHARACTER_DATA = {
         { category: "Weapons",   value: "Simple Weapons" },
         { category: "Armour",    value: "None" },
         { category: "Tools",     value: "Navigator's Tools" },
-        { category: "Languages", value: "Common, Dwarvish, Halfling" }
+        { category: "Languages", value: "Common; Dwarvish, Halfling" }
     ],
 
     attacks: [
