@@ -9,7 +9,7 @@
 | **Character Name** | Cade |
 | **Class & Level** | Cleric 1 |
 | **Experience Points (XP)** | 0 |
-| **Species** | Goliath (Medium, approx. 7'6") |
+| **Species** | Goliath (Medium, 8') |
 | **Background** | Sailor |
 | **Alignment** | Lawful Good |
 
@@ -210,7 +210,7 @@ A shimmering field appears and surrounds a creature of your choice within 60 ft,
 
 ## 8. Notes & Backstory
 
-Cade is a towering Goliath, standing well over seven and a half feet tall with the broad, barrel-chested build of a lifelong sailor and tavern brawler. His skin bears a stormy, tempest-grey hue, and his arms are thick with muscle and faded nautical tattoos. Despite his intimidating, rough-and-tumble exterior — often sporting a fresh split lip or a previously broken nose from a dockside scrap — his eyes hold a deep, contradictory calmness and warmth. He wears a sturdy chain shirt over his functional, salt-stained sailor's clothing, with his holy symbol prominently displayed. To look at him is to see the blending of a ruthless deck-enforcer and a gentle, devoted holy man.
+Cade is a towering Goliath, standing at eight feet tall with the broad, barrel-chested build of a lifelong sailor and tavern brawler. His skin bears a stormy, tempest-grey hue, and his arms are thick with muscle and faded nautical tattoos. Despite his intimidating, rough-and-tumble exterior — often sporting a fresh split lip or a previously broken nose from a dockside scrap — his eyes hold a deep, contradictory calmness and warmth. He wears a sturdy chain shirt over his functional, salt-stained sailor's clothing, with his holy symbol prominently displayed. To look at him is to see the blending of a ruthless deck-enforcer and a gentle, devoted holy man.
 
 ### Background
 

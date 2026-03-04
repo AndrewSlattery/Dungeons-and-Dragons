@@ -9,7 +9,7 @@
 | **Character Name** | Rixon |
 | **Class & Level** | Fighter 1 |
 | **Experience Points (XP)** | 0 |
-| **Species** | Human (Medium, 5'10") |
+| **Species** | Human (Medium, 5'9") |
 | **Background** | Guard |
 | **Alignment** | Neutral Good |
 
@@ -204,7 +204,7 @@ Free Cast: 1/LR
 
 ## 8. Notes & Backstory
 
-At 28 years old, Rixon is a swarthy, physically imposing human — built broad and sturdy even at 5'6" rather than sleek or graceful. Reflecting his lack of agility and immense physical power, he moves with a heavy, deliberate tread. His hands are thick and heavily calloused from his youth spent at a blacksmith's forge and his years in the city militia. His dark hair is trimmed rather short on the sides with loose curls on top, framing a face that naturally settles into the gruff, unbothered expression of a career tough guy — a look he gleefully cultivates. However, behind that theatrical henchman exterior, his eyes are sharp, betraying the keen intellect and practical imagination that keep him alive in the demimonde.
+At 28 years old, Rixon is a swarthy, physically imposing human — built broad and sturdy at 5'9" rather than sleek or graceful. Reflecting his lack of agility and immense physical power, he moves with a heavy, deliberate tread. His hands are thick and heavily calloused from his youth spent at a blacksmith's forge and his years in the city militia. His dark hair is trimmed rather short on the sides with loose curls on top, framing a face that naturally settles into the gruff, unbothered expression of a career tough guy — a look he gleefully cultivates. However, behind that theatrical henchman exterior, his eyes are sharp, betraying the keen intellect and practical imagination that keep him alive in the demimonde.
 
 ### Background
 

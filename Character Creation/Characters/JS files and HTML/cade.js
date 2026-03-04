@@ -37,7 +37,7 @@ window.CHARACTER_DATA = {
     race: "Goliath (Storm Giant)",
     background: "Sailor",
     alignment: "LG",
-    portrait: "cade-headshot.png",
+    portrait: "../Headshots/cade-headshot.png",
 
     // -- Core Stats --
     ac: 16, // Chain Shirt (13) + DEX (1) + Shield (2)
