@@ -90,7 +90,7 @@ Rixon adds his Proficiency Bonus (+2) to Initiative rolls, giving him +1 net (DE
 - **Hunter's Mark (Mall-Lowick):** Bonus Action, Concentration, free 2/LR. Extra 1d6 Force on all attacks against the marked target. Moving the mark to a new target costs another Bonus Action. Breaks if Mall-Lowick loses concentration.
 - **Entangle (Mall-Lowick):** Action, Concentration, STR save DC 12, 20 ft square. Sets up Advantage for all melee attackers against Restrained targets.
 - **Shield (Rixon):** Reaction, +5 AC and Magic Missile immunity until the start of his next turn. 1 free cast per Long Rest. Use *after* a hit is confirmed — not preemptively.
-- **Blade Ward (Rixon):** Concentration cantrip, Action. Attackers subtract 1d4 from attack rolls against him for 1 minute. Costs his action; best in static chokepoint situations. Concentration — cannot stack with Shield of Faith if Cade targets him (irrelevant for now, but track it).
+- **Blade Ward (Rixon):** Concentration cantrip, Action. Attackers subtract 1d4 from attack rolls against him for 1 minute. Costs his action; best in static chokepoint situations. Concentration — can stack with Shield of Faith if Cade targets him, since it's two different people concentrating.
 - **Mage Armour (Kilda):** 8-hour duration, AC 15. If Kilda is dropped to 0 HP and stabilised, this drops and must be recast. Check at the start of every encounter.
 
 ### Resources Per Long Rest

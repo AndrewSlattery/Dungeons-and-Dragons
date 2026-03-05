@@ -13,7 +13,8 @@
       "Bash(python dice.py check 4 12)",
       "Bash(python dice.py initiative 1)",
       "Bash(python dice.py initiative 2)",
-      "Bash(python dice.py initiative 3)"
+      "Bash(python dice.py initiative 3)",
+      "Bash(python3 -c \":*)"
     ]
   }
 }
