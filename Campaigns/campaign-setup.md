@@ -127,7 +127,7 @@ The party will work with local authority — constabulary, alderman, regional lo
 
 The specific stances by character:
 - **Cade:** Respects legitimate authority as the framework communities use to protect themselves. Will cooperate with local law. Will not follow an order he considers unjust. The distinction between these two categories is, for him, clear; others sometimes find it less so.
-- **Rixon:** Respects authority that has earned it and spent it correctly. Comfortable with military-adjacent structures (militia, guard companies). Deeply sceptical of bureaucratic authority that exists for its own perpetuation. Will work with a constable; will not be processed by a magistrate's office without a contract.
+- **Rixon:** Treats authority as a system to be navigated rather than respected. Knows exactly how law enforcement, guard companies, and militia structures operate — from the inside — and can perform the role of someone who belongs within them convincingly enough to pass. Whether he cooperates with a constable or works around one depends entirely on which produces the better outcome. He has no institutional loyalties and no friction about either approach.
 - **Kilda:** Treats authority as another counterparty. Complies when compliance is efficient; circumvents when it isn't; knows exactly which category applies in most situations before anyone else has finished reading the posted regulation.
 - **Mall-Lowick:** Will work within systems that serve their stated purpose. Ignores systems that do not. Does not find "but it's the law" a complete sentence.
 

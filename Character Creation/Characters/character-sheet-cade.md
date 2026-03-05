@@ -200,7 +200,7 @@ Create up to 10 gallons of clean water, or destroy up to 10 gallons of water/fog
 
 **Healing Word**
 *BA | V | Inst.*
-A creature of your choice that you can see within 60 ft regains HP equal to 1d4 + 3 (WIS mod).
+A creature of your choice that you can see within 60 ft regains HP equal to 2d4 + 3 (WIS mod).
 
 **Shield of Faith**
 *BA | V, S, M | Conc, 10 min.*

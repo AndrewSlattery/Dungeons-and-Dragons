@@ -125,7 +125,7 @@ window.CHARACTER_DATA = {
             { name: "Word of Radiance", type: "Cnp", casting: "Act", duration: "Inst", desc: "Creatures within 5 ft succeed CON save or take 1d6 Rad dmg." },
             { name: "Command", type: "Lvl 1", casting: "Act", duration: "1 rd", desc: "One-word command; target must succeed WIS save or obey." },
             { name: "Create or Destroy Water", type: "Lvl 1", casting: "Act", duration: "Inst", desc: "Create/destroy 10 gallons of water or fog in a 30-foot cube." },
-            { name: "Healing Word", type: "Lvl 1", casting: "BA", duration: "Inst", desc: "Creature within 60 ft regains 1d4" + fmt(wisMod) + " HP." },
+            { name: "Healing Word", type: "Lvl 1", casting: "BA", duration: "Inst", desc: "Creature within 60 ft regains 2d4" + fmt(wisMod) + " HP." },
             { name: "Shield of Faith", type: "Lvl 1", casting: "BA", duration: "Conc, 10 min", desc: "Creature within 60 ft gains a +2 bonus to AC." }
         ]
     },

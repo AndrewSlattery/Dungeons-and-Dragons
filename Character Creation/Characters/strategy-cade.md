@@ -18,7 +18,7 @@ Cade's Bonus Action is his most contested and valuable resource. Decide what to 
 
 | Priority | Bonus Action | When |
 |---|---|---|
-| 1 | **Healing Word** (1d4+3 HP, 60 ft range) | When an ally is down or critically low |
+| 1 | **Healing Word** (2d4+3 HP, 60 ft range) | When an ally is down or critically low |
 | 2 | **Shield of Faith** (+2 AC, Concentration) | Round one, before Rixon takes damage |
 | 3 | **Tavern Brawler Push** (after Unarmed Strike) | When repositioning an enemy matters |
 

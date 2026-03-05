@@ -73,7 +73,7 @@ Self-heal (Bonus Action, 1d10+1 HP) with 2 uses per Long Rest, recovering 1 use 
 
 **History +4:** Rixon is the party's institutional memory, particularly for military, political, and regional knowledge. He and Kilda together cover most knowledge domains — he handles historical fact and social context; she handles arcane theory and investigation. Ask him first about who these people are, what this city has been through, and what this faction wants.
 
-**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency means he can switch up the persona he projects in specific situations, too. Paired with Kilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
+**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency extends further: he can inhabit a range of personas entirely convincingly — the legitimate guard, the respectable escort, the bored municipal heavy — wearing whatever face the situation calls for and discarding it when it has served its purpose. Paired with Kilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
 
 **Knavebones (Gaming Set):** A social tool, not just a pastime. Gambling is how Rixon gets into conversations, into trust, into back rooms. DC 20 INT to win, DC 15 WIS to spot cheating, with Advantage and Proficiency from his Proficiency with the set — he is competent but not unbeatable. The real value is the context: people talk at a gaming table in ways they don't in a tavern common room.
 
@@ -88,7 +88,7 @@ Self-heal (Bonus Action, 1d10+1 HP) with 2 uses per Long Rest, recovering 1 use 
 - Absorbing damage while the rest of the party operates safely behind him
 - Applying consistent Sap-debuffed pressure every round, reducing incoming damage to himself
 - Controlling initiative flow for the whole party via Alert's swap — a near-zero-cost tactical advantage
-- Urban environments: Guard background gives him credibility with law enforcement and underworld alike
+- Urban environments: a fluent performer across social registers — Guard, operator, hired muscle, respectable escort — he moves through city environments with the ease of someone who belongs in all of them and has allegiance to none
 - Physical challenges: Athletics +5 solves many practical problems without magic
 - Social encounters involving intimidation, underworld contacts, historical knowledge, or a bluff
 
@@ -106,6 +106,6 @@ Self-heal (Bonus Action, 1d10+1 HP) with 2 uses per Long Rest, recovering 1 use 
 
 Rixon is intelligent and emotionally perceptive behind a carefully cultivated exterior. He projects the image of the battered bruiser — deliberate, physical, direct — because it is professionally useful. People underestimate him, treat him as a blunt instrument, and talk freely around him. The sharp eyes behind the theatrics are always cataloguing.
 
-His Neutral Good alignment means he genuinely wants good outcomes and will occasionally inconvenience himself to achieve them — but he is flexible about methods in a way that Cade is not. He will deal with unsavoury people, use morally ambiguous means, and bend rules that he considers arbitrary. He will not let innocents be harmed if he can stop it, and he will not work for people he has identified as genuinely bad, though his threshold for "genuinely bad" is calibrated to his experience of the demimonde rather than Cade's standards.
+His Neutral Good alignment means he genuinely wants good outcomes and will occasionally inconvenience himself to achieve them — but he is flexible about methods in a way that Cade is not. Rules, permissions, and official channels are working assumptions at best, obstacles at worst; he left that concern behind when he left the militia, and he navigates around them with the ease of long practice. He will deal with unsavoury people, use morally ambiguous means, and move through whatever social register the situation demands, wearing the appropriate face without discomfort. He will not let innocents be harmed if he can stop it, and he will not work for people he has identified as genuinely bad, though his threshold for "genuinely bad" is calibrated to his experience of the demimonde rather than Cade's standards.
 
 The tension between his cultivated cynicism and his actual decency is his core character dynamic. He has Heroic Inspiration every morning for a reason — he keeps finding himself caring more than is strictly profitable.
