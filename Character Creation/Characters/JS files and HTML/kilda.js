@@ -31,7 +31,7 @@ window.CHARACTER_DATA = {
     race: "Dwarf",
     background: "Merchant",
     alignment: "N",
-    portrait: "../Headshots/kilda-headshot.png",
+    portrait: "../Headshots/portrait-kilda.png",
 
     ac: 12, // 10 + DEX, or 15 with Mage Armour
     hpMax: 8, // Wizard d6 (6) + CON (1) + Dwarf Toughness (1)

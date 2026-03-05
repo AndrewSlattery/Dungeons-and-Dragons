@@ -5,7 +5,15 @@
       "Bash(ls \"/c/Users/Andrew/Documents/GitHub/Dungeons-and-Dragons/Character Creation/Dossiers/Spells/\"*.md)",
       "Bash(ls \"/c/Users/Andrew/Documents/GitHub/Dungeons-and-Dragons/Character Creation/Dossiers/Spells/Spell Descriptions/\"*.md)",
       "Bash(ls \"/c/Users/Andrew/Documents/GitHub/Dungeons-and-Dragons/Character Creation/Dossiers/\"*.md)",
-      "WebFetch(domain:www.dndbeyond.com)"
+      "WebFetch(domain:www.dndbeyond.com)",
+      "Bash(python dice.py check 2 12)",
+      "Bash(python dice.py check 3 12)",
+      "Bash(python dice.py check 0 12)",
+      "Bash(python dice.py check 5 10)",
+      "Bash(python dice.py check 4 12)",
+      "Bash(python dice.py initiative 1)",
+      "Bash(python dice.py initiative 2)",
+      "Bash(python dice.py initiative 3)"
     ]
   }
 }

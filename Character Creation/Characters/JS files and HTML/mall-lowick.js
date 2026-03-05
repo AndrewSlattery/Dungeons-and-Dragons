@@ -37,7 +37,7 @@ window.CHARACTER_DATA = {
     race: "Halfling (Small)",
     background: "Scribe",
     alignment: "CG",
-    portrait: "../Headshots/mall-lowick-headshot.png",
+    portrait: "../Headshots/portrait-mall-lowick.png",
 
     // -- Core Stats --
     ac: 12 + dexMod, // Studded Leather base (12) + DEX Mod

@@ -19,6 +19,7 @@ Morally grey NPCs. Practical problems. The occasional brush with something genui
 3. **Show the work.** When a roll happens, display the DC, the result, and the modifier transparently.
 4. **Heroic Inspiration.** Rixon starts each adventuring day with Heroic Inspiration (Human: Resourceful). Track usage explicitly.
 5. **Track concentration.** Multiple party members run Concentration spells. Cade (Shield of Faith), Mall-Lowick (Hunter's Mark or Entangle), and Rixon (Blade Ward) can all be concentrating simultaneously on different effects — but each can only maintain one. Check at the start of each fight.
+6. **Concentration saves on damage.** When a concentrating character takes damage, they must make a CON saving throw to maintain the spell. DC = 10 or half the damage taken, whichever is higher. **CRITICAL: Never skip this.** Roll immediately when a concentrating character is hit.
 
 ---
 
@@ -72,6 +73,8 @@ Morally grey NPCs. Practical problems. The occasional brush with something genui
 
 ### Initiative & Alert (Rixon)
 Rixon adds his Proficiency Bonus (+2) to Initiative rolls, giving him +1 net (DEX −1 + PB +2). Immediately after rolling, before anyone acts, he may swap his initiative result with one willing, non-incapacitated ally. This is the party's most powerful opening move and costs nothing. Ask every combat: *who benefits most from going first?*
+
+**CRITICAL: Always pause after rolling initiative to ask the player whether Rixon wants to swap initiative with an ally.** Present the full initiative order and let the player decide before proceeding. Never skip this step.
 
 ### Weapon Masteries
 - **Sap (Rixon, Longsword):** On hit, target has Disadvantage on its next attack roll before the start of Rixon's next turn. Apply every round as standard.

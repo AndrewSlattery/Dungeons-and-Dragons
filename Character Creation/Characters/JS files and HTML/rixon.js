@@ -38,7 +38,7 @@ window.CHARACTER_DATA = {
     race: "Human",
     background: "Guard",
     alignment: "NG",
-    portrait: "../Headshots/rixon-headshot.png",
+    portrait: "../Headshots/portrait-rixon.png",
 
     // -- Core Stats (Programmatically Calculated) --
     ac: 18, // Chain Mail (16) + Shield (2); Heavy armor does not add DEX
