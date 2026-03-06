@@ -14,7 +14,6 @@ Choose a class. Then record the following — some will be finalised now, others
 - Hit Die (used to calculate HP at Step 4)
 - Primary Ability
 - Saving Throw Proficiencies
-- Skill Proficiencies — choose from your class's list
 - Weapon Proficiencies
 - Armour Training
 - All Level 1 Features, noting any deferred choices:
@@ -31,6 +30,9 @@ Choose a class. Then record the following — some will be finalised now, others
 - Number of prepared Level 1 spells
 - Number of Level 1 spell slots
 - Wizard: note that your Spellbook starts with 6 Level 1 spells of your choice (separate from your 4 prepared spells)
+
+**Defer until after Step 2 and Step 3:**
+- Skill Proficiencies — choose from your class's list *after* selecting your Background and Species, so you can see all proficiencies available to you at once and avoid accidentally duplicating. This is always the better order, even though classes list their skill options first.
 
 **Record for later (Step 7):**
 - Starting Equipment options (Option A specific gear vs Option B gold value)
@@ -82,6 +84,14 @@ Choose a species. Then resolve:
 **Now make your 2 Language choices** (from your Background) — pick from the Standard Languages table, informed by your species, your background flavour, and the campaign setting.
 
 > **Species no longer grants bonus languages in 2024.** All language choices come from your Background.
+
+---
+
+## Step 3b: Class Skill Proficiencies
+
+Now that you have your Background and Species in front of you, finalise your **class skill choices**. Cross-reference the skills already granted by your Background and eliminate any duplicates from your class's available list before choosing. This ensures you're never wasting a proficiency slot.
+
+> **Rogue:** Also finalise your Expertise choices now, drawing from the full combined pool of class and background skill proficiencies.
 
 ---
 
