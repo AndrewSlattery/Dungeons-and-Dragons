@@ -1,0 +1,232 @@
+{
+  "artisansTools": [
+    {
+      "name": "Alchemist's Supplies",
+      "costGP": 50,
+      "weightLbs": 8,
+      "ability": "INT",
+      "utilizeEffect": "Identify a substance (DC 15), or start a fire (DC 15)",
+      "crafts": ["Acid", "Alchemist's Fire", "Component Pouch", "Oil", "Paper", "Perfume"]
+    },
+    {
+      "name": "Brewer's Supplies",
+      "costGP": 20,
+      "weightLbs": 9,
+      "ability": "INT",
+      "utilizeEffect": "Detect a poisoned drink (DC 15), or identify alcohol (DC 10)",
+      "crafts": ["Antitoxin"]
+    },
+    {
+      "name": "Calligrapher's Supplies",
+      "costGP": 10,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Write with impressive flourishes that guard against forgery (DC 15)",
+      "crafts": ["Ink", "Spell Scroll (Cantrip)", "Spell Scroll (Level 1)"]
+    },
+    {
+      "name": "Carpenter's Tools",
+      "costGP": 8,
+      "weightLbs": 6,
+      "ability": "STR",
+      "utilizeEffect": "Seal or pry open a door or container (DC 20)",
+      "crafts": ["Club", "Greatclub", "Quarterstaff", "Barrel", "Chest", "Ladder (10 ft.)", "Pole (10 ft.)", "Ram, Portable", "Torch"]
+    },
+    {
+      "name": "Cartographer's Tools",
+      "costGP": 15,
+      "weightLbs": 6,
+      "ability": "WIS",
+      "utilizeEffect": "Draft a map of a small area (DC 15)",
+      "crafts": ["Map"]
+    },
+    {
+      "name": "Cobbler's Tools",
+      "costGP": 5,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)",
+      "crafts": ["Climber's Kit"]
+    },
+    {
+      "name": "Cook's Utensils",
+      "costGP": 1,
+      "weightLbs": 8,
+      "ability": "WIS",
+      "utilizeEffect": "Improve food flavor (DC 10), or detect spoiled or poisoned food (DC 15)",
+      "crafts": ["Rations (1 day)"]
+    },
+    {
+      "name": "Glassblower's Tools",
+      "costGP": 30,
+      "weightLbs": 5,
+      "ability": "INT",
+      "utilizeEffect": "Discern what a glass object held in the past 24 hours (DC 15)",
+      "crafts": ["Bottle, Glass", "Magnifying Glass", "Spyglass", "Vial"]
+    },
+    {
+      "name": "Jeweler's Tools",
+      "costGP": 25,
+      "weightLbs": 2,
+      "ability": "INT",
+      "utilizeEffect": "Discern the value of a gem (DC 15)",
+      "crafts": ["Arcane Focus", "Holy Symbol"]
+    },
+    {
+      "name": "Leatherworker's Tools",
+      "costGP": 5,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Add a design to a leather item (DC 10)",
+      "crafts": ["Sling", "Whip", "Leather Armor", "Padded Armor", "Studded Leather Armor", "Backpack", "Case, Crossbow Bolt", "Case, Map or Scroll", "Parchment", "Pouch", "Quiver", "Waterskin"]
+    },
+    {
+      "name": "Mason's Tools",
+      "costGP": 10,
+      "weightLbs": 8,
+      "ability": "STR",
+      "utilizeEffect": "Chisel a symbol or hole in stone (DC 10)",
+      "crafts": ["Block and Tackle"]
+    },
+    {
+      "name": "Painter's Supplies",
+      "costGP": 10,
+      "weightLbs": 5,
+      "ability": "WIS",
+      "utilizeEffect": "Paint a recognizable image of something you've seen (DC 10)",
+      "crafts": ["Druidic Focus", "Holy Symbol"]
+    },
+    {
+      "name": "Potter's Tools",
+      "costGP": 10,
+      "weightLbs": 3,
+      "ability": "INT",
+      "utilizeEffect": "Discern what a ceramic object held in the past 24 hours (DC 15)",
+      "crafts": ["Jug", "Lamp"]
+    },
+    {
+      "name": "Smith's Tools",
+      "costGP": 20,
+      "weightLbs": 8,
+      "ability": "STR",
+      "utilizeEffect": "Pry open a door or container (DC 20)",
+      "crafts": ["Battleaxe", "Flail", "Glaive", "Greataxe", "Greatsword", "Halberd", "Lance", "Longsword", "Maul", "Morningstar", "Pike", "Rapier", "Scimitar", "Shortsword", "Trident", "War Pick", "Warhammer", "Chain Mail", "Half Plate Armor", "Plate Armor", "Ring Mail", "Scale Mail", "Splint Armor", "Ball Bearings", "Bucket", "Caltrops", "Chain", "Crowbar", "Bullets, Firearm", "Bullets, Sling", "Grappling Hook", "Iron Pot", "Iron Spikes (10)", "Shovel"]
+    },
+    {
+      "name": "Tinker's Tools",
+      "costGP": 50,
+      "weightLbs": 10,
+      "ability": "DEX",
+      "utilizeEffect": "Assemble a Tiny item from scrap that falls apart in 1 minute (DC 20)",
+      "crafts": ["Musket", "Pistol", "Bell", "Lantern, Bullseye", "Flask", "Lantern, Hooded", "Hunting Trap", "Lock", "Manacles", "Mirror", "Shovel", "Signal Whistle", "Tinderbox"]
+    },
+    {
+      "name": "Weaver's Tools",
+      "costGP": 1,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)",
+      "crafts": ["Padded Armor", "Basket", "Bedroll", "Blanket", "Clothes, Fine", "Net", "Robe", "Rope (50 ft.)", "Sack", "String (10 ft.)", "Tent (2-person)", "Clothes, Traveler's"]
+    },
+    {
+      "name": "Woodcarver's Tools",
+      "costGP": 1,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Carve a pattern in wood (DC 10)",
+      "crafts": ["Club", "Greatclub", "Quarterstaff", "Blowgun", "Hand Crossbow", "Heavy Crossbow", "Longbow", "Shortbow", "Arcane Focus", "Arrows", "Bolts", "Druidic Focus", "Ink Pen", "Needles"]
+    }
+  ],
+  "otherTools": [
+    {
+      "name": "Disguise Kit",
+      "costGP": 25,
+      "weightLbs": 3,
+      "ability": "CHA",
+      "utilizeEffect": "Apply makeup (DC 10)",
+      "crafts": ["Costume"]
+    },
+    {
+      "name": "Forgery Kit",
+      "costGP": 15,
+      "weightLbs": 5,
+      "ability": "DEX",
+      "utilizeEffect": "Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)",
+      "crafts": []
+    },
+    {
+      "name": "Herbalism Kit",
+      "costGP": 5,
+      "weightLbs": 3,
+      "ability": "INT",
+      "utilizeEffect": "Identify a plant (DC 10)",
+      "crafts": ["Antitoxin", "Candle", "Healer's Kit", "Potion of Healing"]
+    },
+    {
+      "name": "Navigator's Tools",
+      "costGP": 25,
+      "weightLbs": 2,
+      "ability": "WIS",
+      "utilizeEffect": "Plot a course (DC 10), or determine position by stargazing (DC 15)",
+      "crafts": []
+    },
+    {
+      "name": "Poisoner's Kit",
+      "costGP": 50,
+      "weightLbs": 2,
+      "ability": "INT",
+      "utilizeEffect": "Detect a poisoned object (DC 10)",
+      "crafts": ["Poison, Basic"]
+    },
+    {
+      "name": "Thieves' Tools",
+      "costGP": 25,
+      "weightLbs": 1,
+      "ability": "DEX",
+      "utilizeEffect": "Pick a lock (DC 15), or disarm a trap (DC 15)",
+      "crafts": []
+    }
+  ],
+  "gamingSets": [
+    {
+      "name": "Dice Set",
+      "costGP": 0.1,
+      "weightLbs": null,
+      "ability": "WIS",
+      "utilizeEffect": "Discern if someone is cheating (DC 10), or win the game (DC 20)"
+    },
+    {
+      "name": "Dragonchess Set",
+      "costGP": 1,
+      "weightLbs": null,
+      "ability": "WIS",
+      "utilizeEffect": "Discern if someone is cheating (DC 10), or win the game (DC 20)"
+    },
+    {
+      "name": "Playing Card Set",
+      "costGP": 0.5,
+      "weightLbs": null,
+      "ability": "WIS",
+      "utilizeEffect": "Discern if someone is cheating (DC 10), or win the game (DC 20)"
+    },
+    {
+      "name": "Three-Dragon Ante",
+      "costGP": 1,
+      "weightLbs": null,
+      "ability": "WIS",
+      "utilizeEffect": "Discern if someone is cheating (DC 10), or win the game (DC 20)"
+    }
+  ],
+  "musicalInstruments": [
+    { "name": "Bagpipes",   "costGP": 30,  "weightLbs": 6,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Drum",       "costGP": 6,   "weightLbs": 3,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Dulcimer",   "costGP": 25,  "weightLbs": 10,   "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Flute",      "costGP": 2,   "weightLbs": 1,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Horn",       "costGP": 3,   "weightLbs": 2,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Lute",       "costGP": 35,  "weightLbs": 2,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Lyre",       "costGP": 30,  "weightLbs": 2,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Pan Flute",  "costGP": 12,  "weightLbs": 2,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Shawm",      "costGP": 2,   "weightLbs": 1,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" },
+    { "name": "Viol",       "costGP": 30,  "weightLbs": 1,    "ability": "CHA", "utilizeEffect": "Play a known tune (DC 10), or improvise a song (DC 15)" }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "note": "Optional tables from PHB Ch. 2 for suggesting appearance and personality descriptors. Roll 1d4 on the relevant table, or pick freely. 'High' means the ability score is 14 or above; 'Low' means 9 or below.",
+  "abilityDescriptors": [
+    {
+      "ability": "Strength",
+      "abbreviation": "STR",
+      "high": ["Muscular", "Sinewy", "Protective", "Direct"],
+      "low":  ["Weak", "Slight", "Self-conscious", "Indirect"]
+    },
+    {
+      "ability": "Dexterity",
+      "abbreviation": "DEX",
+      "high": ["Lithe", "Dynamic", "Fidgety", "Poised"],
+      "low":  ["Jittery", "Clumsy", "Hesitant", "Unsteady"]
+    },
+    {
+      "ability": "Constitution",
+      "abbreviation": "CON",
+      "high": ["Energetic", "Hale", "Hearty", "Stable"],
+      "low":  ["Frail", "Squeamish", "Lethargic", "Fragile"]
+    },
+    {
+      "ability": "Intelligence",
+      "abbreviation": "INT",
+      "high": ["Decisive", "Logical", "Informative", "Curious"],
+      "low":  ["Artless", "Illogical", "Uninformed", "Frivolous"]
+    },
+    {
+      "ability": "Wisdom",
+      "abbreviation": "WIS",
+      "high": ["Serene", "Considerate", "Attentive", "Wary"],
+      "low":  ["Rash", "Distracted", "Oblivious", "Naive"]
+    },
+    {
+      "ability": "Charisma",
+      "abbreviation": "CHA",
+      "high": ["Charming", "Commanding", "Hilarious", "Inspiring"],
+      "low":  ["Pedantic", "Humorless", "Reserved", "Tactless"]
+    }
+  ],
+  "alignmentTraits": [
+    {
+      "axis": "Chaotic",
+      "traits": ["Boastful", "Impulsive", "Rebellious", "Self-absorbed"]
+    },
+    {
+      "axis": "Good",
+      "traits": ["Compassionate", "Helpful", "Honest", "Kind"]
+    },
+    {
+      "axis": "Evil",
+      "traits": ["Dishonest", "Vengeful", "Cruel", "Greedy"]
+    },
+    {
+      "axis": "Lawful",
+      "traits": ["Cooperative", "Loyal", "Judgmental", "Methodical"]
+    },
+    {
+      "axis": "Neutral",
+      "traits": ["Selfish", "Disinterested", "Laconic", "Pragmatic"]
+    }
+  ]
+}

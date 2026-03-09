@@ -1,0 +1,568 @@
+[
+  {
+    "class": "Barbarian",
+    "features": [
+      {
+        "name": "Rage",
+        "description": "You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.\n\nWhile your Rage is active, you gain the following benefits:\n\nDamage Bonus. When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a bonus to the damage that increases as you gain Barbarian levels, as shown in the Rage Damage column of the Barbarian Features table (+2 at levels 1–8, +3 at levels 9–15, +4 at levels 16–20).\n\nResistance. You have Resistance to Bludgeoning, Piercing, and Slashing damage.\n\nStrength Advantage. You have Advantage on Strength checks and Strength saving throws.\n\nYour Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following: making an attack roll against an enemy, forcing an enemy to make a saving throw, or taking a Bonus Action to extend your Rage.\n\nOnce you have used your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table, you must finish a Long Rest before you can use it again. You regain one expended use when you finish a Short Rest.\n\nWhile Raging, you can't cast spells or concentrate on them.",
+        "effects": {
+          "resource": {
+            "uses": 2,
+            "recovery": "Long Rest (regain 1 on Short Rest)",
+            "action": "Bonus Action",
+            "requirement": "Not wearing Heavy armor"
+          },
+          "damageBonus": {
+            "condition": "Strength-based attacks and Unarmed Strikes",
+            "levels1to8": "+2",
+            "levels9to15": "+3",
+            "levels16to20": "+4"
+          },
+          "damageResistances": ["Bludgeoning", "Piercing", "Slashing"],
+          "advantage": [
+            { "on": "Strength checks and Strength saving throws" }
+          ],
+          "restrictions": [
+            "Cannot cast spells",
+            "Cannot concentrate on spells",
+            "Cannot wear Heavy armor"
+          ],
+          "duration": "Until end of next turn; extended by attacking an enemy, forcing a saving throw, or Bonus Action each turn"
+        }
+      },
+      {
+        "name": "Unarmored Defense",
+        "description": "While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.",
+        "effects": {
+          "acFormula": {
+            "condition": "Not wearing armor",
+            "formula": "10 + DEX modifier + CON modifier",
+            "shieldAllowed": true
+          }
+        }
+      },
+      {
+        "name": "Weapon Mastery",
+        "description": "Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can change the kinds of weapons you chose.",
+        "effects": {
+          "weaponMastery": {
+            "count": 2,
+            "eligibleWeapons": "Simple or Martial Melee",
+            "changeOn": "Long Rest"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Bard",
+    "features": [
+      {
+        "name": "Bardic Inspiration",
+        "description": "You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.\n\nUsing Bardic Inspiration. As a Bonus Action, you can inspire another creature within 60 feet of you who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.\n\nOnce within the next hour when the creature fails a D20 Test, it can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.\n\nNumber of Uses. A Bardic Inspiration die is expended when it's rolled. You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.\n\nAt Higher Levels. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.",
+        "effects": {
+          "resource": {
+            "uses": "CHA modifier (minimum 1)",
+            "recovery": "Long Rest",
+            "action": "Bonus Action",
+            "range": "60 feet"
+          },
+          "die": {
+            "levels1to4": "d6",
+            "levels5to9": "d8",
+            "levels10to14": "d10",
+            "levels15to20": "d12"
+          },
+          "effect": "Target adds die result to a failed D20 Test within 1 hour"
+        }
+      },
+      {
+        "name": "Spellcasting",
+        "description": "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Charisma",
+            "focus": "Musical Instrument",
+            "level1": {
+              "cantripsKnown": 2,
+              "preparedSpells": 4,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "Prepared spells list: number increases with Bard level. Can change one prepared spell per Long Rest."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Cleric",
+    "features": [
+      {
+        "name": "Spellcasting",
+        "description": "You have learned to cast spells through prayer, meditation, and devotion. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Wisdom",
+            "focus": "Holy Symbol",
+            "level1": {
+              "cantripsKnown": 3,
+              "preparedSpells": 4,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "Prepared spells list: number increases with Cleric level. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Divine Order",
+        "description": "You have dedicated yourself to one of the following sacred roles of your choice.",
+        "characterCreationChoice": {
+          "label": "Divine Order",
+          "options": [
+            {
+              "name": "Protector",
+              "description": "Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.",
+              "effects": {
+                "proficiencies": {
+                  "weapons": ["Martial"],
+                  "armorTraining": ["Heavy"]
+                }
+              }
+            },
+            {
+              "name": "Thaumaturge",
+              "description": "You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Arcana or Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).",
+              "effects": {
+                "cantrips": [{ "count": 1, "source": "Cleric spell list", "note": "1 additional cantrip" }],
+                "skillBonus": {
+                  "skills": ["Arcana", "Religion"],
+                  "bonus": "WIS modifier (minimum +1)",
+                  "abilityCheckType": "Intelligence"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "features": [
+      {
+        "name": "Spellcasting",
+        "description": "Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Wisdom",
+            "focus": "Druidic Focus",
+            "level1": {
+              "cantripsKnown": 2,
+              "preparedSpells": 4,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "Prepared spells list: number increases with Druid level. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Druidic",
+        "description": "You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of speaking with animals; you always have the Speak with Animals spell prepared.\n\nYou can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.",
+        "effects": {
+          "languages": ["Druidic"],
+          "spellsPrepared": [
+            { "spell": "Speak with Animals", "alwaysPrepared": true }
+          ]
+        }
+      },
+      {
+        "name": "Primal Order",
+        "description": "You have dedicated yourself to one of the following sacred roles of your choice.",
+        "characterCreationChoice": {
+          "label": "Primal Order",
+          "options": [
+            {
+              "name": "Magician",
+              "description": "You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum of +1).",
+              "effects": {
+                "cantrips": [{ "count": 1, "source": "Druid spell list", "note": "1 additional cantrip" }],
+                "skillBonus": {
+                  "skills": ["Arcana", "Nature"],
+                  "bonus": "WIS modifier (minimum +1)",
+                  "abilityCheckType": "Intelligence"
+                }
+              }
+            },
+            {
+              "name": "Warden",
+              "description": "Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.",
+              "effects": {
+                "proficiencies": {
+                  "weapons": ["Martial"],
+                  "armorTraining": ["Medium"]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "class": "Fighter",
+    "features": [
+      {
+        "name": "Fighting Style",
+        "description": "You have honed your martial prowess and gain a Fighting Style feat of your choice (see chapter 5 for feats). Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.",
+        "characterCreationChoice": {
+          "label": "Fighting Style feat",
+          "options": "any Fighting Style feat (see Applet/feats/fighting-styles.json)"
+        },
+        "effects": {
+          "feat": "Fighting Style feat of choice",
+          "changeOn": "Fighter level-up"
+        }
+      },
+      {
+        "name": "Second Wind",
+        "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.",
+        "effects": {
+          "resource": {
+            "uses": 2,
+            "recovery": "Long Rest (regain 1 on Short Rest)",
+            "action": "Bonus Action"
+          },
+          "healing": "1d10 + Fighter level"
+        }
+      },
+      {
+        "name": "Weapon Mastery",
+        "description": "Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can change one of the weapon types to another eligible weapon type.",
+        "effects": {
+          "weaponMastery": {
+            "count": 3,
+            "eligibleWeapons": "Simple or Martial",
+            "changeOn": "Long Rest (1 weapon)"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Monk",
+    "features": [
+      {
+        "name": "Martial Arts",
+        "description": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are Simple Melee weapons and weapons with the Light property.\n\nYou gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield:\n\nBonus Unarmed Strike. You can make an Unarmed Strike as a Bonus Action.\n\nDexterity. You can use Dexterity instead of Strength for the attack and damage rolls of your Unarmed Strikes and Monk weapons. You can also use Dexterity instead of Strength when making a Strength (Athletics) check to grapple or shove a creature, and when determining the DC for a creature to escape a grapple you initiate.\n\nMartial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels: d6 at levels 1–4, d8 at levels 5–8, d10 at levels 9–12, d12 at levels 13–16, d12 at levels 17–20 (but see note—the Monk Features table shows it as 2d6 at level 17).",
+        "effects": {
+          "martialArtsDie": {
+            "levels1to4": "d6",
+            "levels5to8": "d8",
+            "levels9to12": "d10",
+            "levels13to16": "d12",
+            "levels17to20": "2d6"
+          },
+          "requirement": "Unarmed or Monk weapons only, no armor, no shield",
+          "bonusUnarmedStrike": true,
+          "dexForAttacks": "Can use Dexterity for Unarmed Strike and Monk weapon attack and damage rolls"
+        }
+      },
+      {
+        "name": "Unarmored Defense",
+        "description": "While you aren't wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.",
+        "effects": {
+          "acFormula": {
+            "condition": "Not wearing armor and not wielding a Shield",
+            "formula": "10 + DEX modifier + WIS modifier",
+            "shieldAllowed": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Paladin",
+    "features": [
+      {
+        "name": "Lay On Hands",
+        "description": "Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level (5 HP at level 1).\n\nAs a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.\n\nYou can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.",
+        "effects": {
+          "resource": {
+            "pool": "5 × Paladin level (5 HP at level 1)",
+            "recovery": "Long Rest",
+            "action": "Bonus Action"
+          },
+          "healing": "Up to pool maximum per use",
+          "special": "Expend 5 HP from pool to remove Poisoned condition (doesn't also restore HP)"
+        }
+      },
+      {
+        "name": "Spellcasting",
+        "description": "You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Paladin spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Charisma",
+            "focus": "Holy Symbol",
+            "level1": {
+              "cantripsKnown": 0,
+              "preparedSpells": 2,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "No cantrips. Prepared spells list increases with Paladin level. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Weapon Mastery",
+        "description": "Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins. Whenever you finish a Long Rest, you can change the kinds of weapons you chose.",
+        "effects": {
+          "weaponMastery": {
+            "count": 2,
+            "eligibleWeapons": "any with proficiency",
+            "changeOn": "Long Rest"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Ranger",
+    "features": [
+      {
+        "name": "Spellcasting",
+        "description": "You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Wisdom",
+            "focus": "Druidic Focus",
+            "level1": {
+              "cantripsKnown": 0,
+              "preparedSpells": 2,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "No cantrips. Prepared spells list increases with Ranger level. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Favored Enemy",
+        "description": "You always have the Hunter's Mark spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.\n\nThe number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels: 2 free casts at levels 1–4, 3 at levels 5–8, 4 at levels 9–12, 5 at levels 13–16, 6 at levels 17–20.",
+        "effects": {
+          "spellsPrepared": [
+            { "spell": "Hunter's Mark", "alwaysPrepared": true }
+          ],
+          "resource": {
+            "spell": "Hunter's Mark",
+            "freeCasts": {
+              "levels1to4": 2,
+              "levels5to8": 3,
+              "levels9to12": 4,
+              "levels13to16": 5,
+              "levels17to20": 6
+            },
+            "recovery": "Long Rest"
+          }
+        }
+      },
+      {
+        "name": "Weapon Mastery",
+        "description": "Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords. Whenever you finish a Long Rest, you can change the kinds of weapons you chose.",
+        "effects": {
+          "weaponMastery": {
+            "count": 2,
+            "eligibleWeapons": "any with proficiency",
+            "changeOn": "Long Rest"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Rogue",
+    "features": [
+      {
+        "name": "Expertise",
+        "description": "You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in those skills.\n\nAt level 6, you gain Expertise in two more of your skill proficiencies.",
+        "characterCreationChoice": {
+          "label": "Expertise skills (choose 2 from your skill proficiencies)",
+          "count": 2,
+          "from": "your skill proficiencies"
+        },
+        "effects": {
+          "expertise": {
+            "count": 2,
+            "effect": "Double Proficiency Bonus on chosen skill checks"
+          }
+        }
+      },
+      {
+        "name": "Sneak Attack",
+        "description": "You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's damage type.\n\nYou don't need Advantage if another enemy of the target is within 5 feet of it, that enemy doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.\n\nThe extra damage increases as you gain Rogue levels: 1d6 at levels 1–2, 2d6 at levels 3–4, 3d6 at levels 5–6, etc. (increases by 1d6 every 2 Rogue levels).",
+        "effects": {
+          "damage": {
+            "levels1to2": "1d6",
+            "levels3to4": "2d6",
+            "levels5to6": "3d6",
+            "levels7to8": "4d6",
+            "levels9to10": "5d6",
+            "levels11to12": "6d6",
+            "levels13to14": "7d6",
+            "levels15to16": "8d6",
+            "levels17to18": "9d6",
+            "levels19to20": "10d6"
+          },
+          "frequency": "Once per turn",
+          "requirement": "Finesse or Ranged weapon",
+          "condition": "Advantage on attack roll, OR an ally is within 5 feet of target (ally not Incapacitated, you have no Disadvantage)"
+        }
+      },
+      {
+        "name": "Thieves' Cant",
+        "description": "You picked up various languages in the communities where you plied your trade. You know Thieves' Cant and one additional language of your choice. Thieves' Cant is a secret mixture of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation.",
+        "characterCreationChoice": {
+          "label": "Bonus language",
+          "options": "any language"
+        },
+        "effects": {
+          "languages": ["Thieves' Cant", "chosen: any language"]
+        }
+      },
+      {
+        "name": "Weapon Mastery",
+        "description": "Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows. Whenever you finish a Long Rest, you can change one of the weapon types to another eligible weapon type.",
+        "effects": {
+          "weaponMastery": {
+            "count": 2,
+            "eligibleWeapons": "any with proficiency",
+            "changeOn": "Long Rest"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Sorcerer",
+    "features": [
+      {
+        "name": "Spellcasting",
+        "description": "Drawing on the magical power that flows through you, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Charisma",
+            "focus": "Arcane Focus",
+            "level1": {
+              "cantripsKnown": 4,
+              "preparedSpells": 2,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "Prepared spells list increases with Sorcerer level. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Innate Sorcery",
+        "description": "An event in your past left an indelible mark on you, infusing you with a simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:\n\n• The spell save DC of your Sorcerer spells increases by 1.\n• You have Advantage on the attack rolls of Sorcerer spells you cast.\n\nYou can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.",
+        "effects": {
+          "resource": {
+            "uses": 2,
+            "recovery": "Long Rest",
+            "action": "Bonus Action"
+          },
+          "duration": "1 minute",
+          "bonuses": [
+            "+1 to Sorcerer spell save DC",
+            "Advantage on Sorcerer spell attack rolls"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "class": "Warlock",
+    "features": [
+      {
+        "name": "Eldritch Invocations",
+        "description": "You have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability or other lessons.\n\nYou gain one Eldritch Invocation of your choice. Invocations are described in the \"Eldritch Invocation Options\" section later in this class's description. The prerequisites listed in an invocation must be met to choose it. If an invocation has a Warlock level prerequisite, you must be that level in this class to choose it.\n\nWhenever you gain a Warlock level, you can replace one of your invocations with another for which you qualify. Whenever you finish a Long Rest, you can also replace one of your invocations with another for which you qualify.",
+        "characterCreationChoice": {
+          "label": "Eldritch Invocation (choose 1 with no level prerequisite)",
+          "count": 1,
+          "from": "Eldritch Invocations with no level prerequisite"
+        },
+        "effects": {
+          "invocationsKnown": 1,
+          "changeOn": "Warlock level-up or Long Rest (replace 1)"
+        }
+      },
+      {
+        "name": "Pact Magic",
+        "description": "Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is your Warlock patron. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells.\n\nPact Magic differs from standard spellcasting: all your spell slots are the same level, and you regain all expended Pact Magic spell slots when you finish a Short or Long Rest.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Charisma",
+            "focus": "Arcane Focus",
+            "type": "Pact Magic",
+            "level1": {
+              "cantripsKnown": 2,
+              "preparedSpells": 2,
+              "slots": { "count": 1, "slotLevel": 1 }
+            },
+            "recovery": "Short or Long Rest",
+            "notes": "All Pact Magic slots are the same level (slot level increases with Warlock level). Regained on Short OR Long Rest."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "class": "Wizard",
+    "features": [
+      {
+        "name": "Spellcasting",
+        "description": "As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells.\n\nSpellbook. At level 1, your spellbook contains six level 1 Wizard spells of your choice. Your spellbook is the repository of the Wizard spells you know, except your cantrips, which are fixed in your mind.\n\nPrepared Spells. You prepare the list of level 1+ Wizard spells available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots. The number of spells on your list increases as you gain Wizard levels.\n\nChanging Your Prepared Spells. Whenever you finish a Long Rest, you can replace one spell on your list with another from your spellbook for which you have spell slots.\n\nSpellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.\n\nSpellcasting Focus. You can use an Arcane Focus or your Spellbook as a Spellcasting Focus for your Wizard spells.",
+        "effects": {
+          "spellcasting": {
+            "ability": "Intelligence",
+            "focus": "Arcane Focus or Spellbook",
+            "level1": {
+              "cantripsKnown": 3,
+              "spellbook": { "spells": 6, "level": 1, "note": "Gain more on leveling up and by copying spells" },
+              "preparedSpells": 4,
+              "slots": { "level1": 2 }
+            },
+            "recovery": "Long Rest",
+            "notes": "Cantrips can be replaced on Long Rest. Prepared spells chosen from spellbook. Can change one prepared spell per Long Rest."
+          }
+        }
+      },
+      {
+        "name": "Ritual Adept",
+        "description": "You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.",
+        "effects": {
+          "special": "Cast Ritual-tagged spells from spellbook without preparing them; must read from spellbook"
+        }
+      },
+      {
+        "name": "Arcane Recovery",
+        "description": "You have learned to regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (rounded up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots. Once you use this feature, you can't do so again until you finish a Long Rest.",
+        "effects": {
+          "resource": {
+            "uses": 1,
+            "recovery": "Long Rest",
+            "trigger": "Short Rest"
+          },
+          "slotsRecovered": {
+            "combinedLevelMax": "half Wizard level (rounded up)",
+            "slotLevelMax": 5,
+            "level1example": "Recover up to 1 level-1 spell slot per Short Rest"
+          }
+        }
+      }
+    ]
+  }
+]

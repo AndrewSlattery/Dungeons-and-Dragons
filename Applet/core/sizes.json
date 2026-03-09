@@ -1,0 +1,8 @@
+[
+  { "name": "Tiny",       "spaceOccupied": "2½ by 2½ ft." },
+  { "name": "Small",      "spaceOccupied": "5 by 5 ft."   },
+  { "name": "Medium",     "spaceOccupied": "5 by 5 ft."   },
+  { "name": "Large",      "spaceOccupied": "10 by 10 ft." },
+  { "name": "Huge",       "spaceOccupied": "15 by 15 ft." },
+  { "name": "Gargantuan", "spaceOccupied": "20 by 20 ft. or larger" }
+]

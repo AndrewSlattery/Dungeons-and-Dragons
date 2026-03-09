@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Ammunition",
+    "description": "Requires ammunition to make a ranged attack. Drawing the ammunition is part of the attack. Spent ammunition can be recovered after battle (half of it, rounded down)."
+  },
+  {
+    "name": "Finesse",
+    "description": "When attacking with this weapon, use either STR or DEX for the attack and damage rolls (your choice)."
+  },
+  {
+    "name": "Heavy",
+    "description": "Small creatures have Disadvantage on attack rolls with Heavy weapons."
+  },
+  {
+    "name": "Light",
+    "description": "Can be used for Two-Weapon Fighting."
+  },
+  {
+    "name": "Loading",
+    "description": "You can fire only one piece of ammunition when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
+  },
+  {
+    "name": "Range",
+    "description": "Has a normal and long range. Attacking beyond normal range imposes Disadvantage. Attacking beyond long range is impossible.",
+    "format": "(normal/long ft.)"
+  },
+  {
+    "name": "Reach",
+    "description": "Adds 5 feet to your reach for attacks with this weapon, including Opportunity Attacks."
+  },
+  {
+    "name": "Thrown",
+    "description": "Can be thrown to make a ranged attack. Uses the same ability modifier as the melee attack. Has a normal and long range.",
+    "format": "(normal/long ft.)"
+  },
+  {
+    "name": "Two-Handed",
+    "description": "Requires two hands to make an attack."
+  },
+  {
+    "name": "Versatile",
+    "description": "Can be wielded with one or two hands. The two-handed damage die is given in parentheses.",
+    "format": "(damage die)"
+  }
+]

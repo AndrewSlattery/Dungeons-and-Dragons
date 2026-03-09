@@ -1,0 +1,25 @@
+{
+  "standard": [
+    { "name": "Common",              "typicalSpeakers": "Humans and most peoples", "script": "Common"   },
+    { "name": "Common Sign Language","typicalSpeakers": "Many peoples",            "script": null        },
+    { "name": "Draconic",            "typicalSpeakers": "Dragons, Dragonborn",     "script": "Draconic" },
+    { "name": "Dwarvish",            "typicalSpeakers": "Dwarves",                 "script": "Dwarvish" },
+    { "name": "Elvish",              "typicalSpeakers": "Elves",                   "script": "Elvish"   },
+    { "name": "Giant",               "typicalSpeakers": "Giants, Goliaths",        "script": "Dwarvish" },
+    { "name": "Gnomish",             "typicalSpeakers": "Gnomes",                  "script": "Dwarvish" },
+    { "name": "Goblin",              "typicalSpeakers": "Goblinoids",              "script": "Dwarvish" },
+    { "name": "Halfling",            "typicalSpeakers": "Halflings",               "script": "Common"   },
+    { "name": "Orc",                 "typicalSpeakers": "Orcs",                    "script": "Dwarvish" }
+  ],
+  "rare": [
+    { "name": "Abyssal",       "typicalSpeakers": "Demons",                              "script": "Infernal", "note": null },
+    { "name": "Celestial",     "typicalSpeakers": "Celestials",                          "script": "Celestial","note": null },
+    { "name": "Deep Speech",   "typicalSpeakers": "Aberrations, Mind Flayers, Beholders","script": null,       "note": null },
+    { "name": "Druidic",       "typicalSpeakers": "Druids",                              "script": "Elvish",   "note": "Granted by the Druid class; cannot be freely chosen." },
+    { "name": "Infernal",      "typicalSpeakers": "Devils, Tieflings",                   "script": "Infernal", "note": null },
+    { "name": "Primordial",    "typicalSpeakers": "Elementals",                          "script": "Dwarvish", "note": "Encompasses four dialects — Aquan (water), Auran (air), Ignan (fire), and Terran (earth). Speakers of Primordial understand all dialects and vice versa." },
+    { "name": "Sylvan",        "typicalSpeakers": "Fey creatures",                       "script": "Elvish",   "note": null },
+    { "name": "Thieves' Cant", "typicalSpeakers": "Rogues, Thieves' Guilds",             "script": null,       "note": "Granted by the Rogue class; cannot be freely chosen." },
+    { "name": "Undercommon",   "typicalSpeakers": "Underdark peoples",                   "script": "Elvish",   "note": null }
+  ]
+}

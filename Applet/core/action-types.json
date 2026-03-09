@@ -1,0 +1,14 @@
+[
+  { "name": "Attack",    "defaultCost": "Action", "description": "Make one or more weapon or unarmed strikes." },
+  { "name": "Dash",      "defaultCost": "Action", "description": "Gain extra movement equal to your Speed for this turn." },
+  { "name": "Disengage", "defaultCost": "Action", "description": "Your movement doesn't provoke Opportunity Attacks for the rest of the turn." },
+  { "name": "Dodge",     "defaultCost": "Action", "description": "Until your next turn, attack rolls against you have Disadvantage and you have Advantage on DEX saves, provided you aren't Incapacitated." },
+  { "name": "Help",      "defaultCost": "Action", "description": "Give a creature Advantage on its next ability check, or distract an enemy to give an ally Advantage on the next attack roll against it." },
+  { "name": "Hide",      "defaultCost": "Action", "description": "Make a DEX (Stealth) check to gain the Invisible condition against creatures that fail to perceive you." },
+  { "name": "Influence", "defaultCost": "Action", "description": "Make a CHA (Deception, Intimidation, Performance, or Persuasion) or WIS (Animal Handling) check to alter an NPC's attitude." },
+  { "name": "Magic",     "defaultCost": "Action", "description": "Cast a spell, use a magic item, or use a feature that requires a Magic action." },
+  { "name": "Ready",     "defaultCost": "Action", "description": "Prepare a specific action to trigger as a Reaction when a defined condition occurs before your next turn." },
+  { "name": "Search",    "defaultCost": "Action", "description": "Make a WIS (Perception) or INT (Investigation) check to locate something." },
+  { "name": "Study",     "defaultCost": "Action", "description": "Make an INT check using a relevant skill to recall lore or glean information about something you can observe." },
+  { "name": "Utilize",   "defaultCost": "Action", "description": "Use a nonmagical object that requires an action (e.g. picking a lock, administering a potion to another, using a tool)." }
+]

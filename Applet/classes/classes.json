@@ -1,0 +1,511 @@
+[
+  {
+    "name": "Barbarian",
+    "primaryAbility": ["Strength"],
+    "hitDie": "d12",
+    "savingThrows": ["Strength", "Constitution"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Animal Handling", "Athletics", "Intimidation", "Nature", "Perception", "Survival"]
+    },
+    "weaponProficiencies": ["Simple", "Martial"],
+    "armorTraining": ["Light", "Medium", "Shield"],
+    "toolProficiencies": [],
+    "spellcasting": null,
+    "subclassLevel": 3,
+    "subclasses": [
+      "Path of the Berserker",
+      "Path of the Wild Heart",
+      "Path of the World Tree",
+      "Path of the Zealot"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Greataxe" },
+          { "item": "Handaxe", "quantity": 4 },
+          { "item": "Explorer's Pack" },
+          { "gp": 15 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 75 }]
+      }
+    ]
+  },
+  {
+    "name": "Bard",
+    "primaryAbility": ["Charisma"],
+    "hitDie": "d8",
+    "savingThrows": ["Dexterity", "Charisma"],
+    "skillProficiencies": {
+      "choose": 3,
+      "from": "any"
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": ["Light"],
+    "toolProficiencies": [
+      { "choose": 3, "from": "Musical Instrument" }
+    ],
+    "spellcasting": {
+      "ability": "Charisma",
+      "focus": "Musical Instrument"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "College of Dance",
+      "College of Glamour",
+      "College of Lore",
+      "College of the Moon",
+      "College of Valor"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Leather Armor" },
+          { "item": "Dagger", "quantity": 2 },
+          { "choose": "Musical Instrument" },
+          { "item": "Entertainer's Pack" },
+          { "gp": 19 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 90 }]
+      }
+    ]
+  },
+  {
+    "name": "Cleric",
+    "primaryAbility": ["Wisdom"],
+    "hitDie": "d8",
+    "savingThrows": ["Wisdom", "Charisma"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["History", "Insight", "Medicine", "Persuasion", "Religion"]
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": ["Light", "Medium", "Shield"],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Wisdom",
+      "focus": "Holy Symbol"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Knowledge Domain",
+      "Life Domain",
+      "Light Domain",
+      "Trickery Domain",
+      "War Domain"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Chain Shirt" },
+          { "item": "Shield" },
+          { "item": "Mace" },
+          { "item": "Holy Symbol" },
+          { "item": "Priest's Pack" },
+          { "gp": 7 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 110 }]
+      }
+    ]
+  },
+  {
+    "name": "Druid",
+    "primaryAbility": ["Wisdom"],
+    "hitDie": "d8",
+    "savingThrows": ["Intelligence", "Wisdom"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Arcana", "Animal Handling", "Insight", "Medicine", "Nature", "Perception", "Religion", "Survival"]
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": ["Light", "Shield"],
+    "toolProficiencies": ["Herbalism Kit"],
+    "spellcasting": {
+      "ability": "Wisdom",
+      "focus": "Druidic Focus"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Circle of the Land",
+      "Circle of the Moon",
+      "Circle of the Sea",
+      "Circle of the Stars"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Leather Armor" },
+          { "item": "Shield" },
+          { "item": "Sickle" },
+          { "item": "Quarterstaff", "role": "Druidic Focus" },
+          { "item": "Explorer's Pack" },
+          { "item": "Herbalism Kit" },
+          { "gp": 9 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Fighter",
+    "primaryAbility": ["Strength", "Dexterity"],
+    "hitDie": "d10",
+    "savingThrows": ["Strength", "Constitution"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Acrobatics", "Animal Handling", "Athletics", "History", "Insight", "Intimidation", "Perception", "Persuasion", "Survival"]
+    },
+    "weaponProficiencies": ["Simple", "Martial"],
+    "armorTraining": ["Light", "Medium", "Heavy", "Shield"],
+    "toolProficiencies": [],
+    "spellcasting": null,
+    "subclassLevel": 3,
+    "subclasses": [
+      "Banneret",
+      "Battle Master",
+      "Champion",
+      "Eldritch Knight",
+      "Psi Warrior"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Chain Mail" },
+          { "item": "Greatsword" },
+          { "item": "Flail" },
+          { "item": "Javelin", "quantity": 8 },
+          { "item": "Dungeoneer's Pack" },
+          { "gp": 4 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [
+          { "item": "Studded Leather Armor" },
+          { "item": "Scimitar" },
+          { "item": "Shortsword" },
+          { "item": "Longbow" },
+          { "item": "Arrow", "quantity": 20 },
+          { "item": "Quiver" },
+          { "item": "Dungeoneer's Pack" },
+          { "gp": 11 }
+        ]
+      },
+      {
+        "option": "C",
+        "items": [{ "gp": 155 }]
+      }
+    ]
+  },
+  {
+    "name": "Monk",
+    "primaryAbility": ["Dexterity", "Wisdom"],
+    "hitDie": "d8",
+    "savingThrows": ["Strength", "Dexterity"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Acrobatics", "Athletics", "History", "Insight", "Religion", "Stealth"]
+    },
+    "weaponProficiencies": ["Simple", "Martial (Light property only)"],
+    "armorTraining": [],
+    "toolProficiencies": [
+      { "choose": 1, "from": ["Artisan's Tools", "Musical Instrument"] }
+    ],
+    "spellcasting": null,
+    "subclassLevel": 3,
+    "subclasses": [
+      "Warrior of Mercy",
+      "Warrior of Shadow",
+      "Warrior of the Elements",
+      "Warrior of the Open Hand"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Spear" },
+          { "item": "Dagger", "quantity": 5 },
+          { "choose": "tool proficiency" },
+          { "item": "Explorer's Pack" },
+          { "gp": 11 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Paladin",
+    "primaryAbility": ["Strength", "Charisma"],
+    "hitDie": "d10",
+    "savingThrows": ["Wisdom", "Charisma"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Athletics", "Insight", "Intimidation", "Medicine", "Persuasion", "Religion"]
+    },
+    "weaponProficiencies": ["Simple", "Martial"],
+    "armorTraining": ["Light", "Medium", "Heavy", "Shield"],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Charisma",
+      "focus": "Holy Symbol"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Oath of Devotion",
+      "Oath of Glory",
+      "Oath of the Ancients",
+      "Oath of the Noble Genies",
+      "Oath of Vengeance"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Chain Mail" },
+          { "item": "Shield" },
+          { "item": "Longsword" },
+          { "item": "Javelin", "quantity": 6 },
+          { "item": "Holy Symbol" },
+          { "item": "Priest's Pack" },
+          { "gp": 9 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 150 }]
+      }
+    ]
+  },
+  {
+    "name": "Ranger",
+    "primaryAbility": ["Dexterity", "Wisdom"],
+    "hitDie": "d10",
+    "savingThrows": ["Strength", "Dexterity"],
+    "skillProficiencies": {
+      "choose": 3,
+      "from": ["Animal Handling", "Athletics", "Insight", "Investigation", "Nature", "Perception", "Stealth", "Survival"]
+    },
+    "weaponProficiencies": ["Simple", "Martial"],
+    "armorTraining": ["Light", "Medium", "Shield"],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Wisdom",
+      "focus": "Druidic Focus"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Beast Master",
+      "Fey Wanderer",
+      "Gloom Stalker",
+      "Hunter",
+      "Winter Walker"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Studded Leather Armor" },
+          { "item": "Scimitar" },
+          { "item": "Shortsword" },
+          { "item": "Longbow" },
+          { "item": "Arrow", "quantity": 20 },
+          { "item": "Quiver" },
+          { "item": "Druidic Focus", "variant": "Sprig of Mistletoe" },
+          { "item": "Explorer's Pack" },
+          { "gp": 7 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 150 }]
+      }
+    ]
+  },
+  {
+    "name": "Rogue",
+    "primaryAbility": ["Dexterity"],
+    "hitDie": "d8",
+    "savingThrows": ["Dexterity", "Intelligence"],
+    "skillProficiencies": {
+      "choose": 4,
+      "from": ["Acrobatics", "Athletics", "Deception", "Insight", "Intimidation", "Investigation", "Perception", "Persuasion", "Sleight of Hand", "Stealth"]
+    },
+    "weaponProficiencies": ["Simple", "Martial (Finesse or Light property only)"],
+    "armorTraining": ["Light"],
+    "toolProficiencies": ["Thieves' Tools"],
+    "spellcasting": null,
+    "subclassLevel": 3,
+    "subclasses": [
+      "Arcane Trickster",
+      "Assassin",
+      "Scion of the Three",
+      "Soulknife",
+      "Thief"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Leather Armor" },
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Shortsword" },
+          { "item": "Shortbow" },
+          { "item": "Arrow", "quantity": 20 },
+          { "item": "Quiver" },
+          { "item": "Thieves' Tools" },
+          { "item": "Burglar's Pack" },
+          { "gp": 8 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 100 }]
+      }
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "primaryAbility": ["Charisma"],
+    "hitDie": "d6",
+    "savingThrows": ["Constitution", "Charisma"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Arcana", "Deception", "Insight", "Intimidation", "Persuasion", "Religion"]
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": [],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Charisma",
+      "focus": "Arcane Focus"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Aberrant Sorcery",
+      "Clockwork Sorcery",
+      "Draconic Sorcery",
+      "Spellfire Sorcery",
+      "Wild Magic Sorcery"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Spear" },
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Arcane Focus", "variant": "Crystal" },
+          { "item": "Dungeoneer's Pack" },
+          { "gp": 28 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Warlock",
+    "primaryAbility": ["Charisma"],
+    "hitDie": "d8",
+    "savingThrows": ["Wisdom", "Charisma"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Arcana", "Deception", "History", "Intimidation", "Investigation", "Nature", "Religion"]
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": ["Light"],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Charisma",
+      "focus": "Arcane Focus"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Archfey Patron",
+      "Celestial Patron",
+      "Fiend Patron",
+      "Great Old One Patron"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Leather Armor" },
+          { "item": "Sickle" },
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Arcane Focus", "variant": "Orb" },
+          { "item": "Book of Occult Lore" },
+          { "item": "Scholar's Pack" },
+          { "gp": 15 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 100 }]
+      }
+    ]
+  },
+  {
+    "name": "Wizard",
+    "primaryAbility": ["Intelligence"],
+    "hitDie": "d6",
+    "savingThrows": ["Intelligence", "Wisdom"],
+    "skillProficiencies": {
+      "choose": 2,
+      "from": ["Arcana", "History", "Insight", "Investigation", "Medicine", "Nature", "Religion"]
+    },
+    "weaponProficiencies": ["Simple"],
+    "armorTraining": [],
+    "toolProficiencies": [],
+    "spellcasting": {
+      "ability": "Intelligence",
+      "focus": "Arcane Focus"
+    },
+    "subclassLevel": 3,
+    "subclasses": [
+      "Abjurer",
+      "Bladesinger",
+      "Diviner",
+      "Evoker",
+      "Illusionist"
+    ],
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Quarterstaff", "role": "Arcane Focus" },
+          { "item": "Robe" },
+          { "item": "Spellbook" },
+          { "item": "Scholar's Pack" },
+          { "gp": 5 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 55 }]
+      }
+    ]
+  }
+]

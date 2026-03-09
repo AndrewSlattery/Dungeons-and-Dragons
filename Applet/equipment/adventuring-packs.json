@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Burglar's Pack",
+    "costGP": 16,
+    "weightLbs": 42,
+    "contents": [
+      "Backpack",
+      "Ball Bearings",
+      "Bell",
+      "Candle (×10)",
+      "Crowbar",
+      "Lantern, Hooded",
+      "Oil (×7)",
+      "Rations (×5)",
+      "Rope (50 ft.)",
+      "Tinderbox",
+      "Waterskin"
+    ]
+  },
+  {
+    "name": "Diplomat's Pack",
+    "costGP": 39,
+    "weightLbs": 39,
+    "contents": [
+      "Chest",
+      "Clothes, Fine",
+      "Ink",
+      "Ink Pen (×5)",
+      "Lamp",
+      "Case, Map or Scroll (×2)",
+      "Oil (×4)",
+      "Paper (×5)",
+      "Parchment (×5)",
+      "Perfume",
+      "Tinderbox"
+    ]
+  },
+  {
+    "name": "Dungeoneer's Pack",
+    "costGP": 12,
+    "weightLbs": 55,
+    "contents": [
+      "Backpack",
+      "Caltrops",
+      "Crowbar",
+      "Oil (×2)",
+      "Rations (×10)",
+      "Rope (50 ft.)",
+      "Tinderbox",
+      "Torch (×10)",
+      "Waterskin"
+    ]
+  },
+  {
+    "name": "Entertainer's Pack",
+    "costGP": 40,
+    "weightLbs": 58.5,
+    "contents": [
+      "Backpack",
+      "Bedroll",
+      "Bell",
+      "Lantern, Bullseye",
+      "Costume (×3)",
+      "Mirror",
+      "Oil (×8)",
+      "Rations (×9)",
+      "Tinderbox",
+      "Waterskin"
+    ]
+  },
+  {
+    "name": "Explorer's Pack",
+    "costGP": 10,
+    "weightLbs": 55,
+    "contents": [
+      "Backpack",
+      "Bedroll",
+      "Oil (×2)",
+      "Rations (×10)",
+      "Rope (50 ft.)",
+      "Tinderbox",
+      "Torch (×10)",
+      "Waterskin"
+    ]
+  },
+  {
+    "name": "Priest's Pack",
+    "costGP": 33,
+    "weightLbs": 29,
+    "contents": [
+      "Backpack",
+      "Blanket",
+      "Holy Water",
+      "Lamp",
+      "Rations (×7)",
+      "Robe",
+      "Tinderbox"
+    ]
+  },
+  {
+    "name": "Scholar's Pack",
+    "costGP": 40,
+    "weightLbs": 22,
+    "contents": [
+      "Backpack",
+      "Book",
+      "Ink",
+      "Ink Pen",
+      "Lamp",
+      "Oil (×10)",
+      "Parchment (×10)",
+      "Tinderbox"
+    ]
+  }
+]

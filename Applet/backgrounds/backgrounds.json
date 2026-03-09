@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Acolyte",
+    "description": "You devoted yourself to service in a temple, shrine, or other sacred place.",
+    "abilityScores": ["Intelligence", "Wisdom", "Charisma"],
+    "originFeat": "Magic Initiate (Cleric)",
+    "skillProficiencies": ["Insight", "Religion"],
+    "toolProficiency": "Calligrapher's Supplies",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Calligrapher's Supplies" },
+          { "item": "Book", "note": "prayers" },
+          { "item": "Holy Symbol" },
+          { "item": "Parchment", "quantity": 10 },
+          { "item": "Robe" },
+          { "gp": 8 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Artisan",
+    "description": "You began your career as an apprentice in a craft.",
+    "abilityScores": ["Strength", "Dexterity", "Intelligence"],
+    "originFeat": "Crafter",
+    "skillProficiencies": ["Investigation", "Persuasion"],
+    "toolProficiency": { "choose": 1, "from": "Artisan's Tools" },
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "choose": "tool proficiency" },
+          { "item": "Pouch", "quantity": 2 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 32 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Charlatan",
+    "description": "You proved skilled at talking your way out of — and into — situations.",
+    "abilityScores": ["Dexterity", "Constitution", "Charisma"],
+    "originFeat": "Skilled",
+    "skillProficiencies": ["Deception", "Sleight of Hand"],
+    "toolProficiency": "Forgery Kit",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Forgery Kit" },
+          { "item": "Costume" },
+          { "item": "Fine Clothes" },
+          { "gp": 15 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Criminal",
+    "description": "You have spent some time among thieves, smugglers, or other criminals.",
+    "abilityScores": ["Dexterity", "Constitution", "Intelligence"],
+    "originFeat": "Alert",
+    "skillProficiencies": ["Sleight of Hand", "Stealth"],
+    "toolProficiency": "Thieves' Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Thieves' Tools" },
+          { "item": "Crowbar" },
+          { "item": "Pouch", "quantity": 2 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 16 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Entertainer",
+    "description": "You were always meant to be in the spotlight.",
+    "abilityScores": ["Strength", "Dexterity", "Charisma"],
+    "originFeat": "Musician",
+    "skillProficiencies": ["Acrobatics", "Performance"],
+    "toolProficiency": { "choose": 1, "from": "Musical Instrument" },
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "choose": "tool proficiency" },
+          { "item": "Costume", "quantity": 2 },
+          { "item": "Mirror" },
+          { "item": "Perfume" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 11 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Farmer",
+    "description": "You grew up close to the land.",
+    "abilityScores": ["Strength", "Constitution", "Wisdom"],
+    "originFeat": "Tough",
+    "skillProficiencies": ["Animal Handling", "Nature"],
+    "toolProficiency": "Carpenter's Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Sickle" },
+          { "item": "Carpenter's Tools" },
+          { "item": "Healer's Kit" },
+          { "item": "Iron Pot" },
+          { "item": "Shovel" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 30 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Guard",
+    "description": "Your feet ached for a long time after your first assignment as a constable.",
+    "abilityScores": ["Strength", "Intelligence", "Wisdom"],
+    "originFeat": "Alert",
+    "skillProficiencies": ["Athletics", "Perception"],
+    "toolProficiency": { "choose": 1, "from": "Gaming Set" },
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Spear" },
+          { "item": "Light Crossbow" },
+          { "item": "Bolt", "quantity": 20 },
+          { "choose": "tool proficiency" },
+          { "item": "Lantern, Hooded" },
+          { "item": "Manacles" },
+          { "item": "Quiver" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 12 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Guide",
+    "description": "You grew up in the wilds, far from civilization.",
+    "abilityScores": ["Dexterity", "Constitution", "Wisdom"],
+    "originFeat": "Magic Initiate (Druid)",
+    "skillProficiencies": ["Stealth", "Survival"],
+    "toolProficiency": "Cartographer's Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Shortbow" },
+          { "item": "Arrow", "quantity": 20 },
+          { "item": "Cartographer's Tools" },
+          { "item": "Bedroll" },
+          { "item": "Quiver" },
+          { "item": "Tent" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 3 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Hermit",
+    "description": "You spent years isolated from society.",
+    "abilityScores": ["Constitution", "Wisdom", "Charisma"],
+    "originFeat": "Healer",
+    "skillProficiencies": ["Medicine", "Religion"],
+    "toolProficiency": "Herbalism Kit",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Quarterstaff" },
+          { "item": "Herbalism Kit" },
+          { "item": "Bedroll" },
+          { "item": "Book", "note": "philosophy" },
+          { "item": "Lamp" },
+          { "item": "Oil", "quantity": 3 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 16 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Merchant",
+    "description": "You traveled between towns, buying and selling goods.",
+    "abilityScores": ["Constitution", "Intelligence", "Charisma"],
+    "originFeat": "Lucky",
+    "skillProficiencies": ["Animal Handling", "Persuasion"],
+    "toolProficiency": "Navigator's Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Navigator's Tools" },
+          { "item": "Pouch", "quantity": 2 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 22 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Noble",
+    "description": "You were raised in a wealthy family.",
+    "abilityScores": ["Strength", "Intelligence", "Charisma"],
+    "originFeat": "Skilled",
+    "skillProficiencies": ["History", "Persuasion"],
+    "toolProficiency": { "choose": 1, "from": "Gaming Set" },
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "choose": "tool proficiency" },
+          { "item": "Fine Clothes" },
+          { "item": "Perfume" },
+          { "gp": 29 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Sage",
+    "description": "You spent your formative years reading tomes and scrolls.",
+    "abilityScores": ["Constitution", "Intelligence", "Wisdom"],
+    "originFeat": "Magic Initiate (Wizard)",
+    "skillProficiencies": ["Arcana", "History"],
+    "toolProficiency": "Calligrapher's Supplies",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Quarterstaff" },
+          { "item": "Calligrapher's Supplies" },
+          { "item": "Book", "note": "history" },
+          { "item": "Parchment", "quantity": 8 },
+          { "item": "Robe" },
+          { "gp": 8 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Sailor",
+    "description": "You sailed on a seagoing vessel for years.",
+    "abilityScores": ["Strength", "Dexterity", "Wisdom"],
+    "originFeat": "Tavern Brawler",
+    "skillProficiencies": ["Acrobatics", "Perception"],
+    "toolProficiency": "Navigator's Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Dagger" },
+          { "item": "Navigator's Tools" },
+          { "item": "Rope" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 20 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Scribe",
+    "description": "You spent much of your youth assisting a scribe or working in a scriptorium.",
+    "abilityScores": ["Dexterity", "Intelligence", "Wisdom"],
+    "originFeat": "Skilled",
+    "skillProficiencies": ["Investigation", "Perception"],
+    "toolProficiency": "Calligrapher's Supplies",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Calligrapher's Supplies" },
+          { "item": "Fine Clothes" },
+          { "item": "Lamp" },
+          { "item": "Oil", "quantity": 3 },
+          { "item": "Parchment", "quantity": 12 },
+          { "gp": 23 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Soldier",
+    "description": "You began training for war as soon as you were old enough to hold a blade.",
+    "abilityScores": ["Strength", "Dexterity", "Constitution"],
+    "originFeat": "Savage Attacker",
+    "skillProficiencies": ["Athletics", "Intimidation"],
+    "toolProficiency": { "choose": 1, "from": "Gaming Set" },
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Spear" },
+          { "item": "Shortbow" },
+          { "item": "Arrow", "quantity": 20 },
+          { "choose": "tool proficiency" },
+          { "item": "Healer's Kit" },
+          { "item": "Quiver" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 14 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Wayfarer",
+    "description": "You grew up on the streets of a city or drifted from place to place as a child.",
+    "abilityScores": ["Dexterity", "Wisdom", "Charisma"],
+    "originFeat": "Lucky",
+    "skillProficiencies": ["Insight", "Stealth"],
+    "toolProficiency": "Thieves' Tools",
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Dagger", "quantity": 2 },
+          { "item": "Thieves' Tools" },
+          { "choose": "Gaming Set" },
+          { "item": "Bedroll" },
+          { "item": "Pouch", "quantity": 2 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 16 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Mason",
+    "description": "You shaped stone and timber into the walls, bridges, and tunnels on which civilisation is built.",
+    "abilityScores": ["Strength", "Constitution", "Intelligence"],
+    "originFeat": "Tough",
+    "skillProficiencies": ["Athletics", "Investigation"],
+    "toolProficiency": "Mason's Tools",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Mason's Tools" },
+          { "item": "Shovel" },
+          { "item": "Rope" },
+          { "item": "Parchment", "quantity": 10 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 33 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Gladiator",
+    "description": "You made your name fighting for the crowd, in arenas and pits where strength and spectacle were one and the same.",
+    "abilityScores": ["Strength", "Constitution", "Charisma"],
+    "originFeat": "Savage Attacker",
+    "skillProficiencies": ["Athletics", "Performance"],
+    "toolProficiency": "Weaver's Tools",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Weaver's Tools" },
+          { "item": "Spear" },
+          { "item": "Net" },
+          { "item": "Costume" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 36 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Reeve",
+    "description": "You kept the peace where the law had no firm grip, standing alone between order and everything beyond it.",
+    "abilityScores": ["Strength", "Wisdom", "Charisma"],
+    "originFeat": "Alert",
+    "skillProficiencies": ["Insight", "Intimidation"],
+    "toolProficiency": "Herbalism Kit",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Herbalism Kit" },
+          { "item": "Manacles" },
+          { "item": "Rope" },
+          { "item": "Lantern, Hooded" },
+          { "item": "Oil", "quantity": 3 },
+          { "item": "Traveler's Clothes" },
+          { "gp": 34 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Courtier",
+    "description": "You navigated a world of whispered alliances and careful words, where wit and presence were more powerful than any blade.",
+    "abilityScores": ["Dexterity", "Intelligence", "Charisma"],
+    "originFeat": "Skilled",
+    "skillProficiencies": ["Deception", "History"],
+    "toolProficiency": "Disguise Kit",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Disguise Kit" },
+          { "item": "Fine Clothes" },
+          { "item": "Perfume" },
+          { "gp": 5 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  }
+]

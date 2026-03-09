@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Strength",
+    "abbreviation": "STR",
+    "description": "Physical power for melee attacks, carrying capacity, and Strength-based skills."
+  },
+  {
+    "name": "Dexterity",
+    "abbreviation": "DEX",
+    "description": "Agility, reflexes, and balance, used for ranged attacks, AC, Initiative, and Dexterity-based skills."
+  },
+  {
+    "name": "Constitution",
+    "abbreviation": "CON",
+    "description": "Health and stamina, governing Hit Points and concentration on spells."
+  },
+  {
+    "name": "Intelligence",
+    "abbreviation": "INT",
+    "description": "Mental acuity and memory, used for spellcasting by some classes and Intelligence-based skills."
+  },
+  {
+    "name": "Wisdom",
+    "abbreviation": "WIS",
+    "description": "Perceptiveness and insight, used for spellcasting by some classes and Wisdom-based skills."
+  },
+  {
+    "name": "Charisma",
+    "abbreviation": "CHA",
+    "description": "Force of personality and social grace, used for spellcasting by some classes and Charisma-based skills."
+  }
+]

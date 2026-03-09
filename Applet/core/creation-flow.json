@@ -1,0 +1,165 @@
+{
+  "note": "Defines the step order for the character creation wizard. Class skill proficiency choices are deferred to Step 5 (after background and species are chosen), so the player can see which proficiencies are already covered before deciding.",
+  "steps": [
+    {
+      "id": "class",
+      "step": 1,
+      "label": "Choose a Class",
+      "description": "Select your class. Armor/weapon proficiencies and saving throw proficiencies are locked in immediately. Skill proficiency choices are deferred to Step 5.",
+      "dataFiles": ["classes/classes.json", "classes/class-features-level1.json"],
+      "locksIn": ["hitDie", "armorTraining", "weaponProficiencies", "savingThrowProficiencies", "level1Features"],
+      "deferred": ["classSkillChoices"]
+    },
+    {
+      "id": "background",
+      "step": 2,
+      "label": "Choose a Background",
+      "description": "Select your background. Records the origin feat, 2 skill proficiencies, 1 tool proficiency, ability score boost options, and starting equipment.",
+      "dataFiles": ["backgrounds/backgrounds.json", "feats/origin.json"],
+      "locksIn": ["originFeat", "backgroundSkillProficiencies", "toolProficiency", "abilityScoreBoostOptions", "backgroundEquipment"]
+    },
+    {
+      "id": "species",
+      "step": 3,
+      "label": "Choose a Species",
+      "description": "Select your species. Records traits, size, speed, and any species-granted language or proficiency.",
+      "dataFiles": ["species/species.json"],
+      "locksIn": ["speciesTraits", "size", "speed", "speciesLanguages", "speciesProficiencies"]
+    },
+    {
+      "id": "languages",
+      "step": 4,
+      "label": "Choose Languages",
+      "description": "Your character knows Common plus 2 additional standard languages of your choice. Some species or classes grant bonus languages automatically.",
+      "dataFiles": ["core/languages.json"],
+      "locksIn": ["languages"],
+      "notes": [
+        "Common is always known.",
+        "Druids automatically gain Druidic; it cannot be freely chosen.",
+        "Rogues automatically gain Thieves' Cant; it cannot be freely chosen.",
+        "Some species (e.g. Elf Trance, Gnome Lineage) may grant additional languages."
+      ]
+    },
+    {
+      "id": "classSkills",
+      "step": 5,
+      "label": "Choose Class Skill Proficiencies",
+      "description": "Choose the skill proficiencies granted by your class. Skills already granted by your background are highlighted as already taken; pick from the remaining valid options.",
+      "dataFiles": ["classes/classes.json", "core/skills.json"],
+      "locksIn": ["classSkillProficiencies"],
+      "note": "Deferred from Step 1 so background and species proficiencies are visible when making this choice."
+    },
+    {
+      "id": "abilityScores",
+      "step": 6,
+      "label": "Determine Ability Scores",
+      "description": "Generate your six ability scores, then apply the +2/+1 or three +1 boosts from your background (no score may exceed 20).",
+      "dataFiles": ["core/abilities.json"],
+      "methods": [
+        {
+          "id": "standardArray",
+          "label": "Standard Array",
+          "description": "Assign the values 15, 14, 13, 12, 10, and 8 among your six abilities.",
+          "scores": [15, 14, 13, 12, 10, 8]
+        },
+        {
+          "id": "pointBuy",
+          "label": "Point Buy",
+          "description": "Spend 27 points. All scores begin at 8. Scores above 13 cost extra.",
+          "budget": 27,
+          "minScore": 8,
+          "maxScore": 15,
+          "costs": { "8": 0, "9": 1, "10": 2, "11": 3, "12": 4, "13": 5, "14": 7, "15": 9 }
+        },
+        {
+          "id": "diceRoll",
+          "label": "Dice Roll",
+          "description": "Roll 4d6 and drop the lowest die. Repeat six times. Assign results as desired."
+        }
+      ],
+      "backgroundBoost": {
+        "description": "After assigning scores, apply your background's ability score boosts.",
+        "options": [
+          "Increase one of the background's three listed abilities by 2, and a different listed ability by 1.",
+          "Increase all three of the background's listed abilities by 1."
+        ],
+        "cap": 20
+      }
+    },
+    {
+      "id": "alignment",
+      "step": 7,
+      "label": "Choose an Alignment",
+      "description": "Choose your character's ethical and moral outlook. Player characters are typically not Evil; check with your DM.",
+      "dataFiles": ["core/alignments.json"]
+    },
+    {
+      "id": "details",
+      "step": 8,
+      "label": "Fill in Details",
+      "description": "Name your character and finalize all remaining choices. Most numeric values are auto-calculated at this stage.",
+      "substeps": [
+        {
+          "id": "identity",
+          "label": "Name & Personal Details",
+          "description": "Record your character's name, gender, appearance, personality, and primary goals.",
+          "optional": false
+        },
+        {
+          "id": "equipment",
+          "label": "Starting Equipment",
+          "description": "Choose between the class+background item bundles or rolling for gold (see your class description for the gold amount).",
+          "dataFiles": [
+            "equipment/armor.json",
+            "equipment/weapons/weapons.json",
+            "equipment/adventuring-gear.json",
+            "equipment/adventuring-packs.json",
+            "equipment/tools.json",
+            "equipment/spellcasting-focuses.json"
+          ],
+          "optional": false
+        },
+        {
+          "id": "spells",
+          "label": "Choose Spells",
+          "description": "If your class grants spellcasting, choose your cantrips and prepared spells.",
+          "dataFiles": ["spells/spells.json", "spells/spell-lists.json"],
+          "conditional": true,
+          "appliesTo": ["Bard", "Cleric", "Druid", "Paladin", "Ranger", "Sorcerer", "Warlock", "Wizard"],
+          "optional": false
+        },
+        {
+          "id": "calculated",
+          "label": "Auto-Calculated Values",
+          "description": "These values are derived automatically from your choices.",
+          "values": [
+            { "field": "proficiencyBonus",  "formula": "+2 at level 1" },
+            { "field": "hp",                "formula": "hitDie max + CON modifier" },
+            { "field": "initiative",        "formula": "DEX modifier" },
+            { "field": "ac",                "formula": "10 + DEX modifier (unarmored base; varies by armor/class feature)" },
+            { "field": "passivePerception", "formula": "10 + WIS (Perception) modifier" },
+            { "field": "savingThrows",      "formula": "ability modifier + proficiency bonus (if proficient)" },
+            { "field": "skills",            "formula": "linked ability modifier + proficiency bonus (if proficient)" },
+            { "field": "spellSaveDC",       "formula": "8 + proficiency bonus + spellcasting ability modifier" },
+            { "field": "spellAttackBonus",  "formula": "proficiency bonus + spellcasting ability modifier" }
+          ],
+          "optional": false
+        },
+        {
+          "id": "trinket",
+          "label": "Roll a Trinket (Optional)",
+          "description": "Roll 1d100 or pick any entry from the trinkets table for a free Tiny item lightly touched by mystery.",
+          "dataFiles": ["core/trinkets.json"],
+          "optional": true
+        },
+        {
+          "id": "personality",
+          "label": "Personality & Appearance Descriptors (Optional)",
+          "description": "Roll 1d4 on the tables for your highest and lowest ability scores, and for your alignment, to generate personality and appearance suggestions.",
+          "dataFiles": ["core/personality-appearance.json"],
+          "optional": true
+        }
+      ]
+    }
+  ]
+}

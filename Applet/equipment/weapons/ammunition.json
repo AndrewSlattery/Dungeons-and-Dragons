@@ -1,0 +1,7 @@
+[
+  { "name": "Arrows",           "quantity": 20, "storage": "Quiver", "weightLbs": 1,    "costGP": 1    },
+  { "name": "Bolts",            "quantity": 20, "storage": "Case",   "weightLbs": 1.5,  "costGP": 1    },
+  { "name": "Bullets, Firearm", "quantity": 10, "storage": "Pouch",  "weightLbs": 2,    "costGP": 3    },
+  { "name": "Bullets, Sling",   "quantity": 20, "storage": "Pouch",  "weightLbs": 1.5,  "costGP": 0.04 },
+  { "name": "Needles",          "quantity": 50, "storage": "Pouch",  "weightLbs": 1,    "costGP": 1    }
+]

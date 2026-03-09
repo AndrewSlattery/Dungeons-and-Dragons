@@ -1,0 +1,11 @@
+[
+  { "name": "Lawful Good",     "abbreviation": "LG" },
+  { "name": "Neutral Good",    "abbreviation": "NG" },
+  { "name": "Chaotic Good",    "abbreviation": "CG" },
+  { "name": "Lawful Neutral",  "abbreviation": "LN" },
+  { "name": "True Neutral",    "abbreviation": "N"  },
+  { "name": "Chaotic Neutral", "abbreviation": "CN" },
+  { "name": "Lawful Evil",     "abbreviation": "LE" },
+  { "name": "Neutral Evil",    "abbreviation": "NE" },
+  { "name": "Chaotic Evil",    "abbreviation": "CE" }
+]

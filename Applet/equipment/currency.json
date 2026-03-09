@@ -1,0 +1,7 @@
+[
+  { "name": "Copper Piece",   "abbreviation": "CP", "valueInGP": 0.01  },
+  { "name": "Silver Piece",   "abbreviation": "SP", "valueInGP": 0.1   },
+  { "name": "Electrum Piece", "abbreviation": "EP", "valueInGP": 0.5   },
+  { "name": "Gold Piece",     "abbreviation": "GP", "valueInGP": 1     },
+  { "name": "Platinum Piece", "abbreviation": "PP", "valueInGP": 10    }
+]

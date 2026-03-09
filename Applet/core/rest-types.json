@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Short Rest",
+    "duration": "At least 1 hour",
+    "description": "A period of light activity (reading, talking, eating, light wounds treatment). You may spend Hit Dice to recover Hit Points."
+  },
+  {
+    "name": "Long Rest",
+    "duration": "At least 8 hours",
+    "description": "An extended period of sleep or light activity. Restores all Hit Points, half your maximum Hit Dice, and resets most limited-use features. Requires at least 1 HP to begin. Can only benefit from one Long Rest per 24 hours."
+  }
+]

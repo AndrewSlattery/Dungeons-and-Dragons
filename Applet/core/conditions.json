@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Blinded",
+    "description": "Cannot see. Attack rolls against you have Advantage; your attack rolls have Disadvantage. You automatically fail checks requiring sight."
+  },
+  {
+    "name": "Charmed",
+    "description": "Cannot attack or target the charmer with harmful abilities or effects. The charmer has Advantage on social checks against you."
+  },
+  {
+    "name": "Deafened",
+    "description": "Cannot hear. You automatically fail checks requiring hearing."
+  },
+  {
+    "name": "Exhaustion",
+    "description": "A tiered condition with 6 levels. Each level imposes a cumulative −2 penalty to d20 Tests (attack rolls, ability checks, saving throws) and halves Speed. At level 5, Speed drops to 0. At level 6, you die.",
+    "levels": [
+      { "level": 1, "effect": "−2 to d20 Tests" },
+      { "level": 2, "effect": "Speed halved; −4 to d20 Tests" },
+      { "level": 3, "effect": "Speed halved; −6 to d20 Tests" },
+      { "level": 4, "effect": "Speed halved; −8 to d20 Tests" },
+      { "level": 5, "effect": "Speed 0; −10 to d20 Tests" },
+      { "level": 6, "effect": "Death" }
+    ]
+  },
+  {
+    "name": "Frightened",
+    "description": "Disadvantage on ability checks and attack rolls while the source of fear is in line of sight. Cannot willingly move closer to the source."
+  },
+  {
+    "name": "Grappled",
+    "description": "Speed becomes 0. The condition ends if the grappler is Incapacitated or if you are moved out of reach."
+  },
+  {
+    "name": "Incapacitated",
+    "description": "Cannot take actions or reactions."
+  },
+  {
+    "name": "Invisible",
+    "description": "Cannot be seen without special senses. Considered Heavily Obscured for hiding. Your attack rolls have Advantage; attack rolls against you have Disadvantage."
+  },
+  {
+    "name": "Paralyzed",
+    "description": "Incapacitated; cannot move or speak. Automatically fail STR and DEX saving throws. Attack rolls against you have Advantage, and hits within 5 feet are Critical Hits."
+  },
+  {
+    "name": "Petrified",
+    "description": "Transformed into a solid inanimate substance. Incapacitated; cannot move, speak, or be aware of surroundings. Attack rolls against you have Advantage. Automatically fail STR and DEX saves. Resistance to all damage. Immune to poison and disease (existing ones are suspended)."
+  },
+  {
+    "name": "Poisoned",
+    "description": "Disadvantage on attack rolls and ability checks."
+  },
+  {
+    "name": "Prone",
+    "description": "Disadvantage on attack rolls. Attack rolls against you have Advantage if the attacker is within 5 feet; otherwise Disadvantage. Moving costs double Speed. Standing up costs half your Speed."
+  },
+  {
+    "name": "Restrained",
+    "description": "Speed becomes 0. Your attack rolls have Disadvantage. Attack rolls against you have Advantage. Disadvantage on DEX saving throws."
+  },
+  {
+    "name": "Stunned",
+    "description": "Incapacitated; can only speak falteringly. Automatically fail STR and DEX saving throws. Attack rolls against you have Advantage."
+  },
+  {
+    "name": "Unconscious",
+    "description": "Incapacitated; cannot move or speak; unaware of surroundings. Drops held items and falls Prone. Automatically fail STR and DEX saving throws. Attack rolls against you have Advantage, and hits within 5 feet are Critical Hits."
+  }
+]

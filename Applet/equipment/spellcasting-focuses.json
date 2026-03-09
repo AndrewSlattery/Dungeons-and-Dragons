@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Arcane Focus",
+    "usedBy": ["Sorcerer", "Warlock", "Wizard"],
+    "forms": [
+      { "name": "Crystal", "costGP": 10, "weightLbs": 1    },
+      { "name": "Orb",     "costGP": 20, "weightLbs": 3    },
+      { "name": "Rod",     "costGP": 10, "weightLbs": 2    },
+      { "name": "Staff",   "costGP": 5,  "weightLbs": 4    },
+      { "name": "Wand",    "costGP": 10, "weightLbs": 1    }
+    ]
+  },
+  {
+    "type": "Druidic Focus",
+    "usedBy": ["Druid", "Ranger"],
+    "forms": [
+      { "name": "Sprig of Mistletoe", "costGP": 1,  "weightLbs": null },
+      { "name": "Wooden Staff",       "costGP": 5,  "weightLbs": 4    },
+      { "name": "Yew Wand",           "costGP": 10, "weightLbs": 1    },
+      { "name": "Totem",              "costGP": 1,  "weightLbs": null }
+    ]
+  },
+  {
+    "type": "Holy Symbol",
+    "usedBy": ["Cleric", "Paladin"],
+    "forms": [
+      { "name": "Amulet",    "costGP": 5, "weightLbs": 1    },
+      { "name": "Emblem",    "costGP": 5, "weightLbs": null  },
+      { "name": "Reliquary", "costGP": 5, "weightLbs": 2    }
+    ]
+  }
+]

@@ -14,7 +14,14 @@
       "Bash(python dice.py initiative 1)",
       "Bash(python dice.py initiative 2)",
       "Bash(python dice.py initiative 3)",
-      "Bash(python3 -c \":*)"
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \":*)",
+      "Bash(python parse_spells.py)",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/classes/classes.json''\\)\\); print\\([c[''name''] for c in data]\\)\")",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/backgrounds/backgrounds.json''\\)\\); print\\([b[''name''] for b in data]\\)\")",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/species/species.json''\\)\\); print\\([s[''name''] for s in data]\\)\")",
+      "Bash(python3 build.py)",
+      "mcp__Claude_Preview__preview_start"
     ]
   }
 }

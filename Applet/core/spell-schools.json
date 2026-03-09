@@ -1,0 +1,10 @@
+[
+  { "name": "Abjuration",    "description": "Protective magic that blocks, banishes, or negates threats." },
+  { "name": "Conjuration",   "description": "Magic that produces objects or creatures from elsewhere, or transports them." },
+  { "name": "Divination",    "description": "Magic that reveals information, perceives the distant or hidden, and foretells the future." },
+  { "name": "Enchantment",   "description": "Magic that affects the minds of others, influencing or controlling them." },
+  { "name": "Evocation",     "description": "Magic that harnesses raw elemental energy to deal damage or produce powerful effects." },
+  { "name": "Illusion",      "description": "Magic that deceives the senses or minds of others." },
+  { "name": "Necromancy",    "description": "Magic that manipulates life, death, and undeath." },
+  { "name": "Transmutation", "description": "Magic that changes the properties of creatures, objects, or the environment." }
+]

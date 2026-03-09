@@ -1,0 +1,634 @@
+[
+  {
+    "name": "Acid",
+    "costGP": 25,
+    "weightLbs": 1,
+    "activatedBy": "Attack",
+    "magic": false,
+    "notes": "Throw at a target within 20 ft. DC 8 + Dex mod + Prof Bonus Dex save or take 2d6 Acid damage."
+  },
+  {
+    "name": "Alchemist's Fire",
+    "costGP": 50,
+    "weightLbs": 1,
+    "activatedBy": "Attack",
+    "magic": false,
+    "notes": "Throw at a target within 20 ft. DC 8 + Dex mod + Prof Bonus Dex save or take 1d4 Fire damage and start burning."
+  },
+  {
+    "name": "Antitoxin",
+    "costGP": 50,
+    "weightLbs": null,
+    "activatedBy": "Bonus Action",
+    "magic": false,
+    "notes": "Drink to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour."
+  },
+  {
+    "name": "Backpack",
+    "costGP": 2,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 30 lb. within 1 cubic foot. Can also serve as a saddlebag."
+  },
+  {
+    "name": "Ball Bearings",
+    "costGP": 1,
+    "weightLbs": 2,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Spill to cover a level 10-ft.-square area within 10 ft. Creatures entering the area must succeed on DC 10 Dex save or fall Prone. Takes 10 minutes to recover."
+  },
+  {
+    "name": "Barrel",
+    "costGP": 2,
+    "weightLbs": 70,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 40 gallons of liquid or 4 cubic feet of dry goods."
+  },
+  {
+    "name": "Basket",
+    "costGP": 0.4,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 40 lb. within 2 cubic feet."
+  },
+  {
+    "name": "Bedroll",
+    "costGP": 1,
+    "weightLbs": 7,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Sleeps one Small or Medium creature. Auto-succeed on saves against extreme cold."
+  },
+  {
+    "name": "Bell",
+    "costGP": 1,
+    "weightLbs": null,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Produces a sound heard up to 60 feet away."
+  },
+  {
+    "name": "Blanket",
+    "costGP": 0.5,
+    "weightLbs": 3,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Advantage on saving throws against extreme cold while wrapped in it."
+  },
+  {
+    "name": "Block and Tackle",
+    "costGP": 1,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Allows you to hoist up to four times the weight you can normally lift."
+  },
+  {
+    "name": "Book",
+    "costGP": 25,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Consulting an accurate nonfiction Book about its topic gives +5 bonus to related Intelligence checks."
+  },
+  {
+    "name": "Bottle, Glass",
+    "costGP": 2,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 1½ pints."
+  },
+  {
+    "name": "Bright Fungal Cloak",
+    "costGP": 25,
+    "weightLbs": null,
+    "activatedBy": "Bonus Action",
+    "magic": false,
+    "notes": "Furl or unfurl as a Bonus Action. When unfurled, sheds Bright Light 5 ft. and Dim Light a further 5 ft. Contains 1 lb. of edible fungus; when consumed, becomes mundane Traveler's Clothes."
+  },
+  {
+    "name": "Bucket",
+    "costGP": 0.05,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to half a cubic foot."
+  },
+  {
+    "name": "Caltrops",
+    "costGP": 1,
+    "weightLbs": 2,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Spread to cover a 5-ft.-square area within 5 ft. Creatures entering must succeed on DC 15 Dex save or take 1 Piercing damage and have Speed reduced to 0 until the start of their next turn. Takes 10 minutes to recover."
+  },
+  {
+    "name": "Candle",
+    "costGP": 0.01,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Burns for 1 hour. Sheds Bright Light in a 5-ft. radius and Dim Light for an additional 5 ft."
+  },
+  {
+    "name": "Case, Crossbow Bolt",
+    "costGP": 1,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 20 Bolts."
+  },
+  {
+    "name": "Case, Map or Scroll",
+    "costGP": 1,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 10 sheets of paper or 5 sheets of parchment."
+  },
+  {
+    "name": "Chain",
+    "costGP": 5,
+    "weightLbs": 10,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Wrap around a Grappled, Incapacitated, or Restrained creature within 5 ft. (DC 13 Str Athletics check). Bound legs impose the Restrained condition. DC 18 Dex (Acrobatics) to escape; DC 20 Str (Athletics) to burst."
+  },
+  {
+    "name": "Chest",
+    "costGP": 5,
+    "weightLbs": 25,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 12 cubic feet."
+  },
+  {
+    "name": "Climber's Kit",
+    "costGP": 25,
+    "weightLbs": 12,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Anchor yourself; you can't fall more than 25 ft. from the anchor point or move more than 25 ft. from it without first undoing the anchor (a Bonus Action)."
+  },
+  {
+    "name": "Clothes, Fine",
+    "costGP": 15,
+    "weightLbs": 6,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Required for entry at certain events and locations."
+  },
+  {
+    "name": "Clothes, Traveler's",
+    "costGP": 2,
+    "weightLbs": 4,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Resilient garments designed for travel."
+  },
+  {
+    "name": "Component Pouch",
+    "costGP": 25,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Watertight; holds all free Material components for your spells. Can be used as a Spellcasting Focus."
+  },
+  {
+    "name": "Costume",
+    "costGP": 5,
+    "weightLbs": 4,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Advantage on ability checks to impersonate the person or type it represents."
+  },
+  {
+    "name": "Crowbar",
+    "costGP": 2,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Gives Advantage on Strength checks where the crowbar's leverage can be applied."
+  },
+  {
+    "name": "Desert Clothing",
+    "costGP": 5,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Auto-succeed on saving throws against extreme heat (when not wearing Medium or Heavy armor)."
+  },
+  {
+    "name": "Devil Mask",
+    "costGP": 25,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Other creatures have Disadvantage on Intelligence (Investigation) and Wisdom (Insight) checks to discern your identity or intentions while you wear it."
+  },
+  {
+    "name": "Flask",
+    "costGP": 0.02,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 1 pint."
+  },
+  {
+    "name": "Grappling Hook",
+    "costGP": 5,
+    "weightLbs": 4,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Throw at a railing, ledge, or catch within 50 ft. (DC 13 Dex Acrobatics check). With a Rope tied to it, you can climb it."
+  },
+  {
+    "name": "Healer's Kit",
+    "costGP": 5,
+    "weightLbs": 3,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "10 uses. Expend one use to stabilize an Unconscious creature at 0 HP without a Medicine check."
+  },
+  {
+    "name": "Holy Water",
+    "costGP": 25,
+    "weightLbs": 1,
+    "activatedBy": "Attack",
+    "magic": false,
+    "notes": "Throw at a target within 20 ft. DC 8 + Dex mod + Prof Bonus Dex save or take 2d8 Radiant damage (Fiends and Undead only)."
+  },
+  {
+    "name": "Hunting Trap",
+    "costGP": 5,
+    "weightLbs": 25,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Set on the ground. A creature stepping on it must succeed on DC 13 Dex save or take 1d4 Piercing damage and have Speed reduced to 0. DC 13 Str (Athletics) to free oneself (1 Piercing damage on each failed attempt)."
+  },
+  {
+    "name": "Ink",
+    "costGP": 10,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "1-ounce bottle; enough ink to write approximately 500 pages."
+  },
+  {
+    "name": "Ink Pen",
+    "costGP": 0.02,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Used with Ink to write or draw."
+  },
+  {
+    "name": "Iron Pot",
+    "costGP": 2,
+    "weightLbs": 10,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 1 gallon."
+  },
+  {
+    "name": "Iron Spikes (10)",
+    "costGP": 1,
+    "weightLbs": 5,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Hammer a spike into wood, earth, or similar material to jam a door shut or anchor a Rope or Chain."
+  },
+  {
+    "name": "Jug",
+    "costGP": 0.02,
+    "weightLbs": 4,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 1 gallon."
+  },
+  {
+    "name": "Ladder (10 ft.)",
+    "costGP": 0.1,
+    "weightLbs": 25,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Must be climbed to move up or down."
+  },
+  {
+    "name": "Lamp",
+    "costGP": 0.5,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Burns Oil. Sheds Bright Light in a 15-ft. radius and Dim Light for an additional 30 ft."
+  },
+  {
+    "name": "Lantern, Bullseye",
+    "costGP": 10,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Burns Oil. Sheds Bright Light in a 60-ft. Cone and Dim Light for an additional 60 ft."
+  },
+  {
+    "name": "Lantern, Hooded",
+    "costGP": 5,
+    "weightLbs": 2,
+    "activatedBy": "Bonus Action",
+    "magic": false,
+    "notes": "Burns Oil. Sheds Bright Light in a 30-ft. radius and Dim Light for an additional 30 ft. Bonus Action to lower the hood (reduces to Dim Light in a 5-ft. radius) or raise it."
+  },
+  {
+    "name": "Lock",
+    "costGP": 10,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Comes with a key. Without the key: DC 15 Dex (Sleight of Hand) with Thieves' Tools to pick."
+  },
+  {
+    "name": "Locking Spellbook",
+    "costGP": 35,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "100-page leather-bound spellbook with a lock and key. DC 15 Dex (Sleight of Hand) with Thieves' Tools to pick the lock."
+  },
+  {
+    "name": "Magnifying Glass",
+    "costGP": 100,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Advantage on checks to appraise or inspect detailed items. Can start a fire with bright light, tinder, and approximately 5 minutes."
+  },
+  {
+    "name": "Manacles",
+    "costGP": 2,
+    "weightLbs": 6,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Bind a Grappled, Incapacitated, or Restrained Small or Medium creature within 5 ft. (DC 13 Dex Sleight of Hand). Bound creature has Disadvantage on attacks; Restrained if chained to a fixed object. DC 20 Dex to escape; DC 25 Str to burst. Comes with a key; DC 15 to pick without it."
+  },
+  {
+    "name": "Map",
+    "costGP": 1,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Consulting an accurate map gives +5 bonus to Wisdom (Survival) checks to navigate the area represented."
+  },
+  {
+    "name": "Mirror",
+    "costGP": 5,
+    "weightLbs": 0.5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Handheld steel mirror. Useful for peeking around corners and reflecting light as a signal."
+  },
+  {
+    "name": "Monster Camouflage",
+    "costGP": 50,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Resembles a specific Beast or Monstrosity. DC 10 Int (Investigation or Nature) check to see through it (Study action); auto-success within 30 ft. or if you act in ways the monster couldn't."
+  },
+  {
+    "name": "Net",
+    "costGP": 1,
+    "weightLbs": 3,
+    "activatedBy": "Attack",
+    "magic": false,
+    "notes": "Throw at a creature within 15 ft. DC 8 + Dex mod + Prof Bonus Dex save or gain the Restrained condition. Auto-success if Huge or larger. DC 10 Str (Athletics) to escape. The Net can be destroyed (AC 10; 5 HP; immune to Bludgeoning, Poison, and Psychic)."
+  },
+  {
+    "name": "Oil",
+    "costGP": 0.1,
+    "weightLbs": 1,
+    "activatedBy": "Attack",
+    "magic": false,
+    "notes": "Douse a creature (DC 8 + Dex + Prof Bonus; deals 5 extra Fire damage on next fire hit within 1 minute), or pour on the ground (5-ft. square; burns for 2 rounds, 5 Fire damage per turn). Also fuels Lamps and Lanterns for 6 hours per flask."
+  },
+  {
+    "name": "Paper",
+    "costGP": 0.2,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "One sheet holds approximately 250 handwritten words."
+  },
+  {
+    "name": "Parchment",
+    "costGP": 0.1,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "One sheet holds approximately 250 handwritten words."
+  },
+  {
+    "name": "Perfume",
+    "costGP": 5,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "For 1 hour after applying, Advantage on Charisma (Persuasion) checks to influence an Indifferent Humanoid within 5 ft."
+  },
+  {
+    "name": "Poison, Basic",
+    "costGP": 100,
+    "weightLbs": null,
+    "activatedBy": "Bonus Action",
+    "magic": false,
+    "notes": "Coat one weapon or up to 3 pieces of ammunition. A creature taking Piercing or Slashing damage from it also takes 1d4 Poison damage. Potency lasts 1 minute or until the damage is dealt."
+  },
+  {
+    "name": "Pole (10 ft.)",
+    "costGP": 0.05,
+    "weightLbs": 7,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Can touch something up to 10 ft. away. Can also be used to vault, giving Advantage on Strength (Athletics) checks for High or Long Jumps."
+  },
+  {
+    "name": "Potion of Healing",
+    "costGP": 50,
+    "weightLbs": 0.5,
+    "activatedBy": "Bonus Action",
+    "magic": true,
+    "notes": "Drink it or administer to a creature within 5 ft. That creature regains 2d4 + 2 Hit Points."
+  },
+  {
+    "name": "Pouch",
+    "costGP": 0.5,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 6 lb. within one-fifth of a cubic foot."
+  },
+  {
+    "name": "Quiver",
+    "costGP": 1,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 20 Arrows."
+  },
+  {
+    "name": "Ram, Portable",
+    "costGP": 4,
+    "weightLbs": 35,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Gives +4 bonus to Strength checks to break down doors. A second character helping gives Advantage on the check."
+  },
+  {
+    "name": "Rations (1 day)",
+    "costGP": 0.5,
+    "weightLbs": 2,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Travel-ready food: jerky, dried fruit, hardtack, and nuts."
+  },
+  {
+    "name": "Robe",
+    "costGP": 1,
+    "weightLbs": 4,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Ceremonial significance. Some locations admit only people wearing robes of certain colors or symbols."
+  },
+  {
+    "name": "Rope (50 ft.)",
+    "costGP": 1,
+    "weightLbs": 5,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Tie a knot (DC 10 Dex Sleight of Hand). Burst with DC 20 Str (Athletics). Bind an unwilling creature (must be Grappled, Incapacitated, or Restrained); bound legs impose the Restrained condition. DC 15 Dex (Acrobatics) to escape."
+  },
+  {
+    "name": "Sack",
+    "costGP": 0.01,
+    "weightLbs": 0.5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 30 lb. within 1 cubic foot."
+  },
+  {
+    "name": "Shovel",
+    "costGP": 2,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Working for 1 hour, you can dig a 5-ft.-per-side hole in soil or similar material."
+  },
+  {
+    "name": "Signal Whistle",
+    "costGP": 0.05,
+    "weightLbs": null,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Produces a sound heard up to 600 feet away."
+  },
+  {
+    "name": "Spell Scroll (Cantrip)",
+    "costGP": 30,
+    "weightLbs": null,
+    "activatedBy": "Magic",
+    "magic": true,
+    "notes": "If the cantrip is on your class's spell list, cast it without Material components. Spell save DC 13, attack bonus +5. Disintegrates after use."
+  },
+  {
+    "name": "Spell Scroll (Level 1)",
+    "costGP": 50,
+    "weightLbs": null,
+    "activatedBy": "Magic",
+    "magic": true,
+    "notes": "If the Level 1 spell is on your class's spell list, cast it without Material components. Spell save DC 13, attack bonus +5. Disintegrates after use."
+  },
+  {
+    "name": "Spellbook",
+    "costGP": 50,
+    "weightLbs": 3,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "100-page tome. Required for Wizards. Readable only by you or someone casting Identify."
+  },
+  {
+    "name": "Spyglass",
+    "costGP": 1000,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Objects viewed through it are magnified to twice their size."
+  },
+  {
+    "name": "String (10 ft.)",
+    "costGP": 0.1,
+    "weightLbs": null,
+    "activatedBy": "Utilize",
+    "magic": false,
+    "notes": "Tie a knot in it."
+  },
+  {
+    "name": "Tent (2-person)",
+    "costGP": 2,
+    "weightLbs": 20,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Sleeps up to two Small or Medium creatures."
+  },
+  {
+    "name": "Tinderbox",
+    "costGP": 0.5,
+    "weightLbs": 1,
+    "activatedBy": "Bonus Action",
+    "magic": false,
+    "notes": "Holds flint, fire steel, and tinder. Bonus Action to light a Candle, Lamp, Lantern, or Torch. Lighting any other fire takes 1 minute."
+  },
+  {
+    "name": "Torch",
+    "costGP": 0.01,
+    "weightLbs": 1,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Burns for 1 hour. Sheds Bright Light in a 20-ft. radius and Dim Light for an additional 20 ft. Can be used as a Simple Melee weapon (deals 1 Fire damage on a hit)."
+  },
+  {
+    "name": "Vial",
+    "costGP": 1,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 4 ounces."
+  },
+  {
+    "name": "Warm Fungal Clothing",
+    "costGP": 15,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Auto-succeed on saving throws against extreme cold. Contains 1 lb. edible fungus; when consumed, becomes mundane Traveler's Clothes."
+  },
+  {
+    "name": "Waterskin",
+    "costGP": 0.2,
+    "weightLbs": 5,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "Holds up to 4 pints. Weight given is when full."
+  },
+  {
+    "name": "Winter Camouflage",
+    "costGP": 50,
+    "weightLbs": null,
+    "activatedBy": null,
+    "magic": false,
+    "notes": "In an appropriate snowy environment, Advantage on Dexterity (Stealth) checks while wearing it."
+  }
+]
