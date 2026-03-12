@@ -1,7 +1,7 @@
 [
   {
     "name": "Acolyte",
-    "description": "You devoted yourself to service in a temple, shrine, or other sacred place.",
+    "description": "You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.",
     "abilityScores": ["Intelligence", "Wisdom", "Charisma"],
     "originFeat": "Magic Initiate (Cleric)",
     "skillProficiencies": ["Insight", "Religion"],
@@ -26,7 +26,7 @@
   },
   {
     "name": "Artisan",
-    "description": "You began your career as an apprentice in a craft.",
+    "description": "You began mopping floors and scrubbing counters in an artisan's workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. Your trade has also given you a keen eye for detail.",
     "abilityScores": ["Strength", "Dexterity", "Intelligence"],
     "originFeat": "Crafter",
     "skillProficiencies": ["Investigation", "Persuasion"],
@@ -49,7 +49,7 @@
   },
   {
     "name": "Charlatan",
-    "description": "You proved skilled at talking your way out of — and into — situations.",
+    "description": "Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born. As you traveled the circuit from public house to watering hole, you learned to prey on unfortunates who were in the market for a comforting lie or two—perhaps a sham potion or forged ancestry records.",
     "abilityScores": ["Dexterity", "Constitution", "Charisma"],
     "originFeat": "Skilled",
     "skillProficiencies": ["Deception", "Sleight of Hand"],
@@ -72,7 +72,7 @@
   },
   {
     "name": "Criminal",
-    "description": "You have spent some time among thieves, smugglers, or other criminals.",
+    "description": "You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and more fearsome lawbreakers.",
     "abilityScores": ["Dexterity", "Constitution", "Intelligence"],
     "originFeat": "Alert",
     "skillProficiencies": ["Sleight of Hand", "Stealth"],
@@ -97,7 +97,7 @@
   },
   {
     "name": "Entertainer",
-    "description": "You were always meant to be in the spotlight.",
+    "description": "You spent much of your youth following roving fairs and carnivals, performing odd jobs for musicians and acrobats in exchange for lessons. You may have learned how to walk a tightrope, how to play a lute in a distinct style, or how to recite poetry with impeccable diction. To this day, you thrive on applause and long for the stage.",
     "abilityScores": ["Strength", "Dexterity", "Charisma"],
     "originFeat": "Musician",
     "skillProficiencies": ["Acrobatics", "Performance"],
@@ -122,7 +122,7 @@
   },
   {
     "name": "Farmer",
-    "description": "You grew up close to the land.",
+    "description": "You grew up close to the land. Years tending animals and cultivating the earth rewarded you with patience and good health. You have a keen appreciation for nature's bounty alongside a healthy respect for nature's wrath.",
     "abilityScores": ["Strength", "Constitution", "Wisdom"],
     "originFeat": "Tough",
     "skillProficiencies": ["Animal Handling", "Nature"],
@@ -148,7 +148,7 @@
   },
   {
     "name": "Guard",
-    "description": "Your feet ached for a long time after your first assignment as a constable.",
+    "description": "Your feet ache when you remember the countless hours you spent at your post in the tower. You were trained to keep one eye looking outside the wall, watching for marauders sweeping from the nearby forest, and your other eye looking inside the wall, searching for cutpurses and troublemakers.",
     "abilityScores": ["Strength", "Intelligence", "Wisdom"],
     "originFeat": "Alert",
     "skillProficiencies": ["Athletics", "Perception"],
@@ -176,7 +176,7 @@
   },
   {
     "name": "Guide",
-    "description": "You grew up in the wilds, far from civilization.",
+    "description": "You came of age outdoors, far from settled lands. Your home was anywhere you chose to spread your bedroll. There are wonders in the wilderness—strange monsters, pristine forests and streams, overgrown ruins of great halls once trod by giants—and you learned to fend for yourself as you explored them. From time to time, you guided friendly nature priests who instructed you in the fundamentals of channeling the magic of the wild.",
     "abilityScores": ["Dexterity", "Constitution", "Wisdom"],
     "originFeat": "Magic Initiate (Druid)",
     "skillProficiencies": ["Stealth", "Survival"],
@@ -203,7 +203,7 @@
   },
   {
     "name": "Hermit",
-    "description": "You spent years isolated from society.",
+    "description": "You spent your early years secluded in a hut or monastery located well beyond the outskirts of the nearest settlement. In those days, your only companions were the creatures of the forest and those who would occasionally visit to bring news of the outside world and supplies. The solitude allowed you to spend many hours pondering the mysteries of creation.",
     "abilityScores": ["Constitution", "Wisdom", "Charisma"],
     "originFeat": "Healer",
     "skillProficiencies": ["Medicine", "Religion"],
@@ -230,7 +230,7 @@
   },
   {
     "name": "Merchant",
-    "description": "You traveled between towns, buying and selling goods.",
+    "description": "You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their craft or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.",
     "abilityScores": ["Constitution", "Intelligence", "Charisma"],
     "originFeat": "Lucky",
     "skillProficiencies": ["Animal Handling", "Persuasion"],
@@ -253,7 +253,7 @@
   },
   {
     "name": "Noble",
-    "description": "You were raised in a wealthy family.",
+    "description": "You were raised in a castle, surrounded by wealth, power, and privilege. Your family of minor aristocrats ensured that you received a first-class education, some of which you appreciated and some of which you resented. Your time in the castle, especially the many hours you spent observing your family at court, also taught you a great deal about leadership.",
     "abilityScores": ["Strength", "Intelligence", "Charisma"],
     "originFeat": "Skilled",
     "skillProficiencies": ["History", "Persuasion"],
@@ -276,7 +276,7 @@
   },
   {
     "name": "Sage",
-    "description": "You spent your formative years reading tomes and scrolls.",
+    "description": "You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.",
     "abilityScores": ["Constitution", "Intelligence", "Wisdom"],
     "originFeat": "Magic Initiate (Wizard)",
     "skillProficiencies": ["Arcana", "History"],
@@ -301,7 +301,7 @@
   },
   {
     "name": "Sailor",
-    "description": "You sailed on a seagoing vessel for years.",
+    "description": "You lived as a seafarer, wind at your back and decks swaying beneath your feet. You've perched on barstools in more ports of call than you can remember, faced mighty storms, and swapped stories with folk who live beneath the waves.",
     "abilityScores": ["Strength", "Dexterity", "Wisdom"],
     "originFeat": "Tavern Brawler",
     "skillProficiencies": ["Acrobatics", "Perception"],
@@ -325,7 +325,7 @@
   },
   {
     "name": "Scribe",
-    "description": "You spent much of your youth assisting a scribe or working in a scriptorium.",
+    "description": "You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge, or a government agency, where you learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature. You might have some skill as a writer of poetry, narrative, or scholarly research. Above all, you have a careful attention to detail, helping you avoid introducing mistakes to the documents you copy and create.",
     "abilityScores": ["Dexterity", "Intelligence", "Wisdom"],
     "originFeat": "Skilled",
     "skillProficiencies": ["Investigation", "Perception"],
@@ -350,7 +350,7 @@
   },
   {
     "name": "Soldier",
-    "description": "You began training for war as soon as you were old enough to hold a blade.",
+    "description": "You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.",
     "abilityScores": ["Strength", "Dexterity", "Constitution"],
     "originFeat": "Savage Attacker",
     "skillProficiencies": ["Athletics", "Intimidation"],
@@ -377,7 +377,7 @@
   },
   {
     "name": "Wayfarer",
-    "description": "You grew up on the streets of a city or drifted from place to place as a child.",
+    "description": "You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.",
     "abilityScores": ["Dexterity", "Wisdom", "Charisma"],
     "originFeat": "Lucky",
     "skillProficiencies": ["Insight", "Stealth"],
@@ -402,23 +402,23 @@
     ]
   },
   {
-    "name": "Mason",
-    "description": "You shaped stone and timber into the walls, bridges, and tunnels on which civilisation is built.",
+    "name": "Medic",
+    "description": "You trained under a physic, a battlefield surgeon, or a guild of chirurgeons, learning medicine through practice rather than prayer. Where others saw wounds, you saw problems to be solved — with blade, compound, or compression. You learned to work quickly under pressure, to read a body the way a scholar reads a page, and to keep your hands steady when everything else was falling apart.",
     "abilityScores": ["Strength", "Constitution", "Intelligence"],
-    "originFeat": "Tough",
-    "skillProficiencies": ["Athletics", "Investigation"],
-    "toolProficiency": "Mason's Tools",
+    "originFeat": "Healer",
+    "skillProficiencies": ["Medicine", "Investigation"],
+    "toolProficiency": "Alchemist's Supplies",
     "homebrew": true,
     "startingEquipment": [
       {
         "option": "A",
         "items": [
-          { "item": "Mason's Tools" },
-          { "item": "Shovel" },
-          { "item": "Rope" },
-          { "item": "Parchment", "quantity": 10 },
+          { "item": "Alchemist's Supplies" },
+          { "item": "Healer's Kit" },
+          { "item": "Dagger" },
+          { "item": "Book", "note": "anatomy" },
           { "item": "Traveler's Clothes" },
-          { "gp": 33 }
+          { "gp": 3 }
         ]
       },
       {
@@ -428,23 +428,22 @@
     ]
   },
   {
-    "name": "Gladiator",
-    "description": "You made your name fighting for the crowd, in arenas and pits where strength and spectacle were one and the same.",
+    "name": "Rebel",
+    "description": "You built your life in defiance of the prevailing status quo, making your name in places where authority was oppressive or unjust. Perhaps you led a band of dissidents, ran supplies to folk the law had abandoned, or simply refused to kneel when others bent. Surviving harsh crackdowns taught you how to fight with whatever you had on hand and endure the wilds, earning you a reputation as a troublemaker to those in power, and a hero to those without it.",
     "abilityScores": ["Strength", "Constitution", "Charisma"],
-    "originFeat": "Savage Attacker",
-    "skillProficiencies": ["Athletics", "Performance"],
-    "toolProficiency": "Weaver's Tools",
+    "originFeat": "Tavern Brawler",
+    "skillProficiencies": ["Performance", "Survival"],
+    "toolProficiency": "Brewer's Supplies",
     "homebrew": true,
     "startingEquipment": [
       {
         "option": "A",
         "items": [
-          { "item": "Weaver's Tools" },
-          { "item": "Spear" },
-          { "item": "Net" },
-          { "item": "Costume" },
+          { "item": "Brewer's Supplies" },
+          { "item": "Handaxe", "quantity": 2 },
+          { "item": "Bedroll" },
           { "item": "Traveler's Clothes" },
-          { "gp": 36 }
+          { "gp": 15 }
         ]
       },
       {
@@ -455,23 +454,24 @@
   },
   {
     "name": "Reeve",
-    "description": "You kept the peace where the law had no firm grip, standing alone between order and everything beyond it.",
+    "description": "You kept the peace across a stretch of farms, commons, and forest edge that no city watch would bother with. Appointed by a local lord or simply stepping up when no one else would, you settled disputes, tracked down wrongdoers, and made hard calls with little backup. You walked the boundary between the settled and the wild often enough that the land itself seemed to take notice — and in time, a little of its magic answered back.",
     "abilityScores": ["Strength", "Wisdom", "Charisma"],
-    "originFeat": "Alert",
+    "originFeat": "Magic Initiate (Druid)",
     "skillProficiencies": ["Insight", "Intimidation"],
-    "toolProficiency": "Herbalism Kit",
+    "toolProficiency": "Leatherworker's Tools",
     "homebrew": true,
     "startingEquipment": [
       {
         "option": "A",
         "items": [
-          { "item": "Herbalism Kit" },
+          { "item": "Leatherworker's Tools" },
+          { "item": "Healer's Kit" },
           { "item": "Manacles" },
           { "item": "Rope" },
           { "item": "Lantern, Hooded" },
           { "item": "Oil", "quantity": 3 },
           { "item": "Traveler's Clothes" },
-          { "gp": 34 }
+          { "gp": 29 }
         ]
       },
       {
@@ -482,9 +482,9 @@
   },
   {
     "name": "Courtier",
-    "description": "You navigated a world of whispered alliances and careful words, where wit and presence were more powerful than any blade.",
+    "description": "You navigated a treacherous world of whispered alliances and careful words, where wit and presence were more powerful than any blade. Whether you served as a diplomat, a spy, or a titled lord's confidant, you learned how to blend into high society, and to take quiet advantage of the arcane resources that flow freely among the privileged.",
     "abilityScores": ["Dexterity", "Intelligence", "Charisma"],
-    "originFeat": "Skilled",
+    "originFeat": "Magic Initiate (Wizard)",
     "skillProficiencies": ["Deception", "History"],
     "toolProficiency": "Disguise Kit",
     "homebrew": true,
@@ -495,7 +495,9 @@
           { "item": "Disguise Kit" },
           { "item": "Fine Clothes" },
           { "item": "Perfume" },
-          { "gp": 5 }
+          { "item": "Dagger" },
+          { "item": "Book", "note": "arcane formulae" },
+          { "gp": 2 }
         ]
       },
       {

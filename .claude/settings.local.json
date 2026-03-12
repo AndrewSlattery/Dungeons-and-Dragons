@@ -21,7 +21,8 @@
       "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/backgrounds/backgrounds.json''\\)\\); print\\([b[''name''] for b in data]\\)\")",
       "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/species/species.json''\\)\\); print\\([s[''name''] for s in data]\\)\")",
       "Bash(python3 build.py)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(python build.py)"
     ]
   }
 }
