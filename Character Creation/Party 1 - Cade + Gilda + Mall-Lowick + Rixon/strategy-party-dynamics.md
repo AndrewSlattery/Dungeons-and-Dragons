@@ -4,7 +4,7 @@
 
 ## Overview
 
-Four characters with four distinct worldviews, four different relationships to law, money, duty, and risk. Their alignments span from Lawful Good (Cade) to Chaotic Good (Mall-Lowick) with Neutral Good (Rixon) and True Neutral (Kilda) in between. The tensions this creates are not obstacles to the campaign — they are the engine of it. A party that agrees about everything produces no interesting decisions. This party will disagree in ways that illuminate who all of them are.
+Four characters with four distinct worldviews, four different relationships to law, money, duty, and risk. Their alignments span from Lawful Good (Cade) to Chaotic Good (Mall-Lowick) with Neutral Good (Rixon) and True Neutral (Gilda) in between. The tensions this creates are not obstacles to the campaign — they are the engine of it. A party that agrees about everything produces no interesting decisions. This party will disagree in ways that illuminate who all of them are.
 
 ---
 
@@ -15,9 +15,9 @@ Four characters with four distinct worldviews, four different relationships to l
 | Cade | Lawful Good | Loyalty; sacred duty; protection of people he has claimed as his own |
 | Rixon | Neutral Good | Practical decency; good outcomes pursued by flexible means |
 | Mall-Lowick | Chaotic Good | Knowledge; freedom; the greater good as she defines it |
-| Kilda | True Neutral | Self-interest; profit; the integrity of agreements she has made |
+| Gilda | True Neutral | Self-interest; profit; the integrity of agreements she has made |
 
-**The central fault lines:** The Law axis (Cade vs. Mall-Lowick) and the Good axis (Cade vs. Kilda). Rixon sits near the intersection of both and frequently serves as the swing vote. These fault lines produce the party's most interesting decisions.
+**The central fault lines:** The Law axis (Cade vs. Mall-Lowick) and the Good axis (Cade vs. Gilda). Rixon sits near the intersection of both and frequently serves as the swing vote. These fault lines produce the party's most interesting decisions.
 
 ---
 
@@ -39,19 +39,19 @@ Both characters are built around keeping others safe, but from entirely differen
 
 ---
 
-### Cade + Kilda — The True Believer and the True Neutral
+### Cade + Gilda — The True Believer and the True Neutral
 
 **The dynamic:** Mutual professional indispensability masking a slow, grudging, genuine regard.
 
-Cade acts from sacred conviction and personal loyalty. Kilda acts from calculated self-interest and the cold logic of contract. This is the party's sharpest philosophical divide, and it produces the most interesting debates.
+Cade acts from sacred conviction and personal loyalty. Gilda acts from calculated self-interest and the cold logic of contract. This is the party's sharpest philosophical divide, and it produces the most interesting debates.
 
-**The tension:** Kilda finds Cade's generosity inefficient and his devotion baffling. She has asked, on at least one occasion, why he is doing something for free. He answered, and she found the answer unsatisfying from a business standpoint but could not find a specific flaw in the reasoning. Cade finds Kilda's neutrality morally incomplete — he would like her to care more — but he has Insight +5 and he sees, beneath the contracts and cost-benefit analyses, that Kilda has her own form of integrity. She keeps her word even when it costs her. She does not cheat people who have dealt with her honestly. She does not take more than her agreed share. Cade recognises this as a foundation to build on, even if it isn't the foundation he would choose.
+**The tension:** Gilda finds Cade's generosity inefficient and his devotion baffling. She has asked, on at least one occasion, why he is doing something for free. He answered, and she found the answer unsatisfying from a business standpoint but could not find a specific flaw in the reasoning. Cade finds Gilda's neutrality morally incomplete — he would like her to care more — but he has Insight +5 and he sees, beneath the contracts and cost-benefit analyses, that Gilda has her own form of integrity. She keeps her word even when it costs her. She does not cheat people who have dealt with her honestly. She does not take more than her agreed share. Cade recognises this as a foundation to build on, even if it isn't the foundation he would choose.
 
-**Alignment friction:** The highest in the party. When the group must choose between a morally correct action with a real cost and a pragmatic action with a moral compromise, Cade and Kilda are at opposite ends. She asks what it costs and what it buys; he asks what is right regardless of cost. Neither position is unreasonable. Their debates will be, at their best, genuinely difficult.
+**Alignment friction:** The highest in the party. When the group must choose between a morally correct action with a real cost and a pragmatic action with a moral compromise, Cade and Gilda are at opposite ends. She asks what it costs and what it buys; he asks what is right regardless of cost. Neither position is unreasonable. Their debates will be, at their best, genuinely difficult.
 
-**Shared language:** Dwarvish. A bridge between two very different relationships to Dwarven culture — Kilda grew up in it commercially, navigating the mountain hold trade networks; Cade learned it as a language of the deep harbours and the dockside merchants. They occasionally slip into Dwarvish in conversation, usually when they want to discuss something without Rixon or Mall-Lowick following. Rixon has learned to be mildly suspicious when this happens.
+**Shared language:** Dwarvish. A bridge between two very different relationships to Dwarven culture — Gilda grew up in it commercially, navigating the mountain hold trade networks; Cade learned it as a language of the deep harbours and the dockside merchants. They occasionally slip into Dwarvish in conversation, usually when they want to discuss something without Rixon or Mall-Lowick following. Rixon has learned to be mildly suspicious when this happens.
 
-**The slow thaw:** Kilda comes to trust Cade not because she is moved by his faith — she isn't, particularly — but because he consistently honours his end of a working relationship. He heals when healing is needed. He tells the truth even when a lie would be easier. He does not take more than his agreed share. In her moral vocabulary, this makes him a reliable contractual partner, and that is the highest category she knows how to offer. She would never say, in so many words, that she is glad he's there. But she allocates appropriate resources to keeping him alive, and for Kilda, this is the equivalent.
+**The slow thaw:** Gilda comes to trust Cade not because she is moved by his faith — she isn't, particularly — but because he consistently honours his end of a working relationship. He heals when healing is needed. He tells the truth even when a lie would be easier. He does not take more than his agreed share. In her moral vocabulary, this makes him a reliable contractual partner, and that is the highest category she knows how to offer. She would never say, in so many words, that she is glad he's there. But she allocates appropriate resources to keeping him alive, and for Gilda, this is the equivalent.
 
 ---
 
@@ -71,33 +71,33 @@ Mall-Lowick is chaotic, curious, and constitutionally incapable of treating a "k
 
 ---
 
-### Kilda + Mall-Lowick — The Patron and the Cartographer
+### Gilda + Mall-Lowick — The Patron and the Cartographer
 
 **The dynamic:** A pre-existing professional relationship with genuine mutual respect, some unresolved texture, and a comfortable shared language in more than one sense.
 
-Kilda managed trade routes between Dwarven mountain holds and Halfling river-vine communities. Mall-Lowick mapped those same routes as a professional cartographer. The simplest explanation for their acquaintance is that Kilda hired her, and the evidence supports this: they work together without the friction of people who are getting to know each other, they share the Halfling language, and they have an instinctive shorthand for logistical problems that suggests prior collaboration.
+Gilda managed trade routes between Dwarven mountain holds and Halfling river-vine communities. Mall-Lowick mapped those same routes as a professional cartographer. The simplest explanation for their acquaintance is that Gilda hired her, and the evidence supports this: they work together without the friction of people who are getting to know each other, they share the Halfling language, and they have an instinctive shorthand for logistical problems that suggests prior collaboration.
 
-**The history:** Their working relationship was almost certainly successful — Kilda values competence above personality, and Mall-Lowick is genuinely excellent at what she does. Whether all the invoices were settled on time, and whether Mall-Lowick's maps fully satisfied the scope of what Kilda commissioned, is a small outstanding question that adds texture to their interactions without poisoning them. It is the kind of thing that comes up at quiet moments: "You still owe me the coastal approaches from the third survey." "I provided the coastal approaches." "You provided *your* interpretation of the coastal approaches, which differed from the agreed specification on three points." "That's because the agreed specification was wrong." This is how they talk to each other, and they both enjoy it.
+**The history:** Their working relationship was almost certainly successful — Gilda values competence above personality, and Mall-Lowick is genuinely excellent at what she does. Whether all the invoices were settled on time, and whether Mall-Lowick's maps fully satisfied the scope of what Gilda commissioned, is a small outstanding question that adds texture to their interactions without poisoning them. It is the kind of thing that comes up at quiet moments: "You still owe me the coastal approaches from the third survey." "I provided the coastal approaches." "You provided *your* interpretation of the coastal approaches, which differed from the agreed specification on three points." "That's because the agreed specification was wrong." This is how they talk to each other, and they both enjoy it.
 
-**The tension:** Their motivations for adventure run in parallel without being identical. Kilda views discovery as inventory — something to be assessed, valued, and sold or leveraged. Mall-Lowick views discovery as knowledge — something to be documented, shared, and added to the sum of what is known. They want the same things for different reasons, which means they rarely compete but frequently have different opinions about what to do with what they find.
+**The tension:** Their motivations for adventure run in parallel without being identical. Gilda views discovery as inventory — something to be assessed, valued, and sold or leveraged. Mall-Lowick views discovery as knowledge — something to be documented, shared, and added to the sum of what is known. They want the same things for different reasons, which means they rarely compete but frequently have different opinions about what to do with what they find.
 
-**Shared language:** Halfling. Kilda learned it for commerce; Mall-Lowick was born to it. Their private conversations sometimes happen in Halfling, and Mall-Lowick has strong, specifically articulated opinions about how Kilda speaks it. (Precise vocabulary; correct grammar; a Dwarven commercial cadence that makes her sound like she is reading from a trading ledger. Mall-Lowick has started correcting her, which Kilda accepts in the spirit of professional development.)
+**Shared language:** Halfling. Gilda learned it for commerce; Mall-Lowick was born to it. Their private conversations sometimes happen in Halfling, and Mall-Lowick has strong, specifically articulated opinions about how Gilda speaks it. (Precise vocabulary; correct grammar; a Dwarven commercial cadence that makes her sound like she is reading from a trading ledger. Mall-Lowick has started correcting her, which Gilda accepts in the spirit of professional development.)
 
-**The luck pair:** Both have exceptional luck mechanisms — Kilda's Lucky feat (2 Luck Points per LR) and Mall-Lowick's Halfling Luck (reroll 1s). This makes them the most reliable pairing for high-stakes reconnaissance where a single catastrophic failure would end the mission. They are the correct team to send somewhere the party cannot afford to fail.
+**The luck pair:** Both have exceptional luck mechanisms — Gilda's Lucky feat (2 Luck Points per LR) and Mall-Lowick's Halfling Luck (reroll 1s). This makes them the most reliable pairing for high-stakes reconnaissance where a single catastrophic failure would end the mission. They are the correct team to send somewhere the party cannot afford to fail.
 
 ---
 
-### Kilda + Rixon — The Calculator and the Cynic
+### Gilda + Rixon — The Calculator and the Cynic
 
 **The dynamic:** Instant mutual recognition between two people who understand the world the same way, requiring no explanation.
 
-Neither Kilda nor Rixon is naive. Both have worked in systems where sentiment is expensive, competence is the only currency that holds value, and trust is extended specifically, not generally. They understand each other in a way that needs no introduction. They are both operators, and they recognise the type.
+Neither Gilda nor Rixon is naive. Both have worked in systems where sentiment is expensive, competence is the only currency that holds value, and trust is extended specifically, not generally. They understand each other in a way that needs no introduction. They are both operators, and they recognise the type.
 
-**The dynamic in practice:** Kilda says what the situation requires. Rixon communicates, non-verbally and efficiently, what the cost of not cooperating would look like. This is not cruelty; it is an effective division of labour. In cities, in tavern back rooms, in negotiations with people who are not inclined to make deals, they are a formidable pair.
+**The dynamic in practice:** Gilda says what the situation requires. Rixon communicates, non-verbally and efficiently, what the cost of not cooperating would look like. This is not cruelty; it is an effective division of labour. In cities, in tavern back rooms, in negotiations with people who are not inclined to make deals, they are a formidable pair.
 
-**The investigation duo:** Kilda's Investigation +5 and Arcana +5 locate and analyse the information. Rixon's Intimidation +3, History +4, demimonde connections, and Knavebones gaming set extract information from sources that prefer not to provide it. They are an excellent urban team: she identifies what is worth finding; he helps people remember where it is.
+**The investigation duo:** Gilda's Investigation +5 and Arcana +5 locate and analyse the information. Rixon's Intimidation +3, History +4, demimonde connections, and Knavebones gaming set extract information from sources that prefer not to provide it. They are an excellent urban team: she identifies what is worth finding; he helps people remember where it is.
 
-**Alignment friction:** Minimal. Kilda is True Neutral; Rixon is Neutral Good. They land in the same place on most decisions. The difference is that Rixon has a genuine moral floor that Kilda lacks — he will not participate in something he has decided is actually wrong, and this threshold is lower than Kilda's. When Cade wants the party to do the morally correct thing at real cost, Kilda and Rixon exchange a look, but Rixon is more likely to end up on Cade's side of the argument than Kilda is, and Kilda is aware of this.
+**Alignment friction:** Minimal. Gilda is True Neutral; Rixon is Neutral Good. They land in the same place on most decisions. The difference is that Rixon has a genuine moral floor that Gilda lacks — he will not participate in something he has decided is actually wrong, and this threshold is lower than Gilda's. When Cade wants the party to do the morally correct thing at real cost, Gilda and Rixon exchange a look, but Rixon is more likely to end up on Cade's side of the argument than Gilda is, and Gilda is aware of this.
 
 **The risk:** Their combined pragmatism, untempered, can produce genuinely questionable conclusions. When Cade and Mall-Lowick are both distracted or outvoted, the party's moral centre of gravity shifts toward "what works" in ways that occasionally need to be examined.
 
@@ -126,10 +126,10 @@ When the party must make a collective decision with a moral dimension, they tend
 | Option | Who Supports It |
 |---|---|
 | The costly, principled right thing | Cade (always); Mall-Lowick (usually, if it doesn't require following rules) |
-| The pragmatic, morally flexible thing | Kilda (usually); Rixon (often) |
+| The pragmatic, morally flexible thing | Gilda (usually); Rixon (often) |
 | The unconventional, technically-right-but-unorthodox thing | Mall-Lowick (enthusiastically); Rixon (when in the mood) |
 
-**Rixon is the swing vote.** He sits between Cade's principled clarity and Kilda's transactional calculus, and his decision in any given moment determines which way the party goes. This makes him, practically speaking, the most powerful voice in group deliberations — a role he is mildly uncomfortable with and projects no awareness of.
+**Rixon is the swing vote.** He sits between Cade's principled clarity and Gilda's transactional calculus, and his decision in any given moment determines which way the party goes. This makes him, practically speaking, the most powerful voice in group deliberations — a role he is mildly uncomfortable with and projects no awareness of.
 
 ### What Holds the Party Together
 
@@ -137,17 +137,17 @@ Despite the significant differences in worldview and method, this party shares t
 
 **Competence.** Each member is excellent at what they do. This creates mutual professional respect that predates personal trust and will survive its occasional failures. They know they are better at their respective jobs than most people they will encounter, and they know the others know this too.
 
-**Self-reliance.** None of them came from a position of safety. Cade left home to protect people; Rixon's formative arrangements fell through; Kilda built her operation from scratch; Mall-Lowick works alone in the wilderness by default. They know how to function under pressure and do not require the team to be stable in order to operate within it.
+**Self-reliance.** None of them came from a position of safety. Cade left home to protect people; Rixon's formative arrangements fell through; Gilda built her operation from scratch; Mall-Lowick works alone in the wilderness by default. They know how to function under pressure and do not require the team to be stable in order to operate within it.
 
-**Adaptability.** None of them are ideologues. Cade will bend method for loyalty. Kilda will accept a lower return if the alternative costs too much of what she considers her integrity. Rixon will fight past his practiced cynicism when he has decided something matters. Mall-Lowick will stop at a fence if someone she cares about is on the other side of it. They each have a floor beneath which they will not go, and they have each learned — provisionally, carefully — where the others' floors are.
+**Adaptability.** None of them are ideologues. Cade will bend method for loyalty. Gilda will accept a lower return if the alternative costs too much of what she considers her integrity. Rixon will fight past his practiced cynicism when he has decided something matters. Mall-Lowick will stop at a fence if someone she cares about is on the other side of it. They each have a floor beneath which they will not go, and they have each learned — provisionally, carefully — where the others' floors are.
 
 ### Flashpoints
 
 The scenarios most likely to produce genuine intra-party conflict:
 
-- **Cade asks the party to do something morally right at significant personal cost** → Kilda resists → structured debate ensues → Rixon's decision determines the outcome
+- **Cade asks the party to do something morally right at significant personal cost** → Gilda resists → structured debate ensues → Rixon's decision determines the outcome
 - **Mall-Lowick's trespassing creates a legal or political problem** → Rixon, who knows exactly how these situations work from the inside, becomes the party's most useful asset for making the problem disappear — which he does with a certain practiced ease, and sometimes bills for separately
-- **A financial opportunity that requires ethical compromise** → Kilda is interested, Cade is not, Mall-Lowick assesses the epistemic value of what would be discovered, Rixon is the deciding vote
+- **A financial opportunity that requires ethical compromise** → Gilda is interested, Cade is not, Mall-Lowick assesses the epistemic value of what would be discovered, Rixon is the deciding vote
 - **Rixon's past surfaces publicly** — the discharged militia, the arrangement with the blacksmith that fell through — in a way that creates political complications for the group
 - **Cade's childhood friends reappear**, and their need conflicts with the party's current obligations — who does he choose?
-- **Kilda makes a unilateral decision on the party's behalf** based on her own cost-benefit analysis without consulting the others — and turns out to be right about the outcome, which makes the breach of trust more rather than less complicated
+- **Gilda makes a unilateral decision on the party's behalf** based on her own cost-benefit analysis without consulting the others — and turns out to be right about the outcome, which makes the breach of trust more rather than less complicated

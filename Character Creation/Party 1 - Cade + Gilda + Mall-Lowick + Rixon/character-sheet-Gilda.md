@@ -1,4 +1,4 @@
-# D&D 2024 Character Tracker — Kilda
+# D&D 2024 Character Tracker — Gilda
 
 ---
 
@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Character Name** | Kilda |
+| **Character Name** | Gilda |
 | **Class & Level** | Wizard 1 |
 | **Experience Points (XP)** | 0 |
 | **Species** | Dwarf (Medium, 5'0") |
@@ -194,10 +194,10 @@ You have **2 Luck Points** (PB/LR). Spend 1 point to gain Adv on a d20 Test or g
 
 ### Appearance
 
-Kilda stands a full five feet tall — a height that, combined with her broad shoulders and stout, powerful frame, makes her an imposing presence among other Dwarves. Her skin is the deep, rich colour of polished mahogany, often shimmering slightly under the application of expensive oils. She eschews the typical dusty rags of a travelling mage for robes of heavy, dark velvet trimmed with gold thread, reflecting her status as a woman of means. Her dark hair is braided with silver wire, and her fingers are heavy with rings that are as much "emergency currency" as they are decoration. She carries her quarterstaff not as a walking stick, but like a sceptre.
+Gilda stands a full five feet tall — a height that, combined with her broad shoulders and stout, powerful frame, makes her an imposing presence among other Dwarves. Her skin is the deep, rich colour of polished mahogany, often shimmering slightly under the application of expensive oils. She eschews the typical dusty rags of a travelling mage for robes of heavy, dark velvet trimmed with gold thread, reflecting her status as a woman of means. Her dark hair is braided with silver wire, and her fingers are heavy with rings that are as much "emergency currency" as they are decoration. She carries her quarterstaff not as a walking stick, but like a sceptre.
 
 ### Background
 
-Kilda was never one for the "honour and heritage" of the deep mines; she found the clink of gold coins a far more beautiful sound than the strike of a pickaxe. She established herself early as a shrewd logistics expert, managing the hazardous trade routes between the mountain holds and the Halfling river-vines. To Kilda, magic was never a mystical calling, but a series of high-end tools for a high-end career. 
+Gilda was never one for the "honour and heritage" of the deep mines; she found the clink of gold coins a far more beautiful sound than the strike of a pickaxe. She established herself early as a shrewd logistics expert, managing the hazardous trade routes between the mountain holds and the Halfling river-vines. To Gilda, magic was never a mystical calling, but a series of high-end tools for a high-end career. 
 
 She learned the Halfling tongue to ensure she was never cheated at the docks, and she mastered *Tenser's Floating Disk* simply because it was more cost-effective than hiring extra porters. Her decision to adventure is purely a business venture: the risks are high, but the profit margins of ancient dungeons are far better than selling iron ore. She is True Neutral not out of malice, but because she views every encounter through the lens of a contract — if it doesn't pay, or if it costs too much in resources, she isn't interested.
