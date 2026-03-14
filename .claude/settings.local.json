@@ -22,7 +22,11 @@
       "Bash(python3 -c \"import json; data=json.load\\(open\\(''Applet/species/species.json''\\)\\); print\\([s[''name''] for s in data]\\)\")",
       "Bash(python3 build.py)",
       "mcp__Claude_Preview__preview_start",
-      "Bash(python build.py)"
+      "Bash(python build.py)",
+      "WebFetch(domain:gemini.google.com)",
+      "WebFetch(domain:consent.google.com)",
+      "Bash(sed 's/<[^>]*>//g')",
+      "Bash(python3:*)"
     ]
   }
 }
