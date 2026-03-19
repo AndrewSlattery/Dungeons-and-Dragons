@@ -14,9 +14,9 @@ In addition, you have Advantage on any check made to conceal a Light weapon or s
 
 #### LEVEL 3: PRAGMATIC ANALYSIS
 
-You can use your keen intellect to dissect an enemy's fighting style. As a Bonus Action, you can Analyze one creature you can see within 60 feet of yourself. For 1 minute, or until the creature is reduced to 0 Hit Points, you gain the following benefits against it:
+You can use your keen intellect to dissect an enemy's fighting style. As a Bonus Action, you can Analyze one creature you can see within 60 feet of yourself. For 1 minute, or until the creature is reduced to 0 Hit Points, you gain the following benefit against it:
 
-**Exploit Weakness.** Once per turn, when you hit the Analyzed creature with a weapon attack, you deal extra damage to it equal to your Intelligence modifier (minimum of +1).
+**Exploit Weakness.** When you hit the Analyzed creature with a weapon attack, you deal extra damage to it equal to your Intelligence modifier (minimum of +1).
 
 If you Analyze a new creature, any previous Analyzed effect ends.
 
@@ -48,7 +48,7 @@ Your carefully cultivated emotional armor makes your mind difficult to breach, a
 
 You can control the pace of a fight while appearing to lose, luring an opponent into a devastating overextension.
 
-When a creature you can see hits you with a melee attack, you can use your Reaction to make one melee weapon attack against the attacker. You add your Intelligence modifier to this attack roll in addition to any other modifiers. Whether or not your counterattack hits, you have Advantage on attack rolls you make against that creature until the end of your next turn.
+When a creature you can see within range hits you with an attack, you can use your Reaction to make one weapon attack against the attacker. You add your Intelligence modifier to this attack roll in addition to any other modifiers. Whether or not your counterattack hits, you have Advantage on attack rolls you make against that creature until the end of your next turn.
 
 #### LEVEL 18: CHOREOGRAPHED VIOLENCE
 
