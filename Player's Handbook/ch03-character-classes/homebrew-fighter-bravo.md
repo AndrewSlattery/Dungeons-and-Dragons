@@ -2,24 +2,34 @@
 
 Dismantle Foes with Cunning and Observation
 
-Bravos are cunning combatants who treat battle as a lethal game of psychological warfare. Where other fighters rely on overwhelming force or martial discipline, a Bravo systematically dismantles their opponents through ruthless observation. By cataloguing tells, manufacturing openings, and exploiting vulnerabilities with cold precision, a Bravo ensures the fight is decided long before the final blow is struck.
+Bravos are cunning combatants who treat battle as a lethal game of psychological warfare, systematically dismantling their opponents through ruthless observation. By cataloguing tells and manufacturing openings with cold precision, a Bravo ensures the fight is decided long before the final blow is struck.
 
 #### LEVEL 3: UNDERWORLD ADEPT
 
-You gain proficiency in one of these skill of your choice: Deception, Investigation, or Stealth. You gain proficiency with one type of Gaming Set. You know two languages of your choice from the language tables in chapter 2.
+You gain proficiency in one of these skills of your choice: Deception, Investigation, or Stealth. You know two languages of your choice from the language tables in chapter 2.
 
-You have Advantage on any ability check made to conceal a Light weapon or Tiny object on your person.
+When you make a Charisma (Deception), Wisdom (Insight) or Charisma (Intimidation) check, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1).
 
-#### LEVEL 7
+#### LEVEL 3: CALCULATED VIOLENCE
 
-Whenever you make a Charisma (Deception), Wisdom (Insight) or Charisma (Intimidation) check, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1).
+When you activate your Second Wind, you can choose one creature you can see. Until the end of your next turn, you add your Intelligence modifier to attack and damage rolls you make against that creature.
 
-#### LEVEL 10
+#### LEVEL 7: TACTICAL REPOSITIONING
 
-When you roll Initiative, you can replace the roll with your Intelligence score. If you do so, you do not add any modifiers or other bonuses.
+When you use your Action Surge, you gain the benefits of the Dash and Disengage actions.
 
-#### LEVEL 15
+#### LEVEL 10: READY FOR ANYTHING
 
-When you and one or more allies within 10 feet of you are all required to make saving throws against the same effect, after all rolls are made but before any results are applied, each of those creatures may use the highest d20 rolled among those saving throws in place of their own d20 roll, then apply their own modifiers as normal.
+When you roll Initiative, if your total is less than your Intelligence score, you can use your Intelligence score in place of the total.
 
-#### LEVEL 18
+#### LEVEL 15: EXPLOIT MISSTEP
+
+Whenever a creature misses you with a melee attack roll, you add your Intelligence modifier to attack and damage rolls you make against that creature until the end of your next turn.
+
+#### LEVEL 18: LETHAL PRAGMATISM
+
+Your ruthless observation allows you to execute vulnerable foes. You gain the following benefits:
+
+Coup de Grâce. Whenever you hit a creature with a weapon attack, you deal maximum damage with your weapon's damage dice if the target has the Blinded, Grappled, Incapacitated, or Restrained condition.
+
+Manufacture Opening. When you hit a creature with a weapon attack, you can choose to deal maximum damage with your weapon's damage dice. You can use this benefit a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
