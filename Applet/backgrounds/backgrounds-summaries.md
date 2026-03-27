@@ -9,7 +9,8 @@ Here are the five tables derived from `backgrounds.json` (16 core + 4 homebrew�
 | Acolyte | INT, WIS, CHA | Insight, Religion | Calligrapher's Supplies | Magic Initiate (Cleric) |
 | Artisan | STR, DEX, INT | Investigation, Persuasion | Artisan's Tools (choice) | Crafter |
 | Charlatan | DEX, CON, CHA | Deception, Sleight of Hand | Forgery Kit | Skilled |
-| Courtier† | DEX, INT, CHA | Deception, History | Disguise Kit | Magic Initiate (Wizard) |
+| Contender† | STR, WIS, CHA | Athletics, Performance | Leatherworker's Tools | Savage Attacker |
+| Courtier† | DEX, INT, CHA | Deception, History | Disguise Kit | Tough |
 | Criminal | DEX, CON, INT | Sleight of Hand, Stealth | Thieves' Tools | Alert |
 | Entertainer | STR, DEX, CHA | Acrobatics, Performance | Musical Instrument (choice) | Musician |
 | Farmer | STR, CON, WIS | Animal Handling, Nature | Carpenter's Tools | Tough |
@@ -19,8 +20,7 @@ Here are the five tables derived from `backgrounds.json` (16 core + 4 homebrew�
 | Medic† | STR, CON, INT | Medicine, Investigation | Alchemist's Supplies | Healer |
 | Merchant | CON, INT, CHA | Animal Handling, Persuasion | Navigator's Tools | Lucky |
 | Noble | STR, INT, CHA | History, Persuasion | Gaming Set (choice) | Skilled |
-| Rebel† | STR, CON, CHA | Performance, Survival | Brewer's Supplies | Tavern Brawler |
-| Reeve† | STR, WIS, CHA | Insight, Intimidation | Leatherworker's Tools | Magic Initiate (Druid) |
+| Rebel† | STR, CON, CHA | Persuasion, Insight | Thieves' Tools | Tavern Brawler |
 | Sage | CON, INT, WIS | Arcana, History | Calligrapher's Supplies | Magic Initiate (Wizard) |
 | Sailor | STR, DEX, WIS | Acrobatics, Perception | Navigator's Tools | Tavern Brawler |
 | Scribe | DEX, INT, WIS | Investigation, Perception | Calligrapher's Supplies | Skilled |
@@ -38,18 +38,18 @@ Here are the five tables derived from `backgrounds.json` (16 core + 4 homebrew�
 | STR + DEX | Artisan, Entertainer, Sailor, Soldier |
 | STR + CON | Farmer, Medic, Rebel, Soldier |
 | STR + INT | Artisan, Guard, Medic, Noble |
-| STR + WIS | Farmer, Guard, Reeve, Sailor |
-| STR + CHA | Entertainer, Noble, Rebel, Reeve |
+| STR + WIS | Contender, Farmer, Guard, Sailor |
+| STR + CHA | Contender, Entertainer, Noble, Rebel |
 | DEX + CON | Charlatan, Criminal, Guide, Soldier |
 | DEX + INT | Artisan, Courtier, Criminal, Scribe |
 | DEX + WIS | Guide, Sailor, Scribe, Wayfarer |
 | DEX + CHA | Charlatan, Courtier, Entertainer, Wayfarer |
 | CON + INT | Criminal, Medic, Merchant, Sage |
 | CON + WIS | Farmer, Guide, Hermit, Sage |
-| CON + CHA | Charlatan, Hermit, Rebel, Merchant |
+| CON + CHA | Charlatan, Hermit, Merchant, Rebel |
 | INT + WIS | Acolyte, Guard, Sage, Scribe |
 | INT + CHA | Acolyte, Courtier, Merchant, Noble |
-| WIS + CHA | Acolyte, Hermit, Reeve, Wayfarer |
+| WIS + CHA | Acolyte, Contender, Hermit, Wayfarer |
 
 Every pair is covered by exactly four backgrounds.
 
@@ -64,13 +64,13 @@ Every pair is covered by exactly four backgrounds.
 | Healer | Hermit, Medic |
 | Lucky | Merchant, Wayfarer |
 | Magic Initiate (Cleric) | Acolyte |
-| Magic Initiate (Druid) | Guide, Reeve |
-| Magic Initiate (Wizard) | Courtier, Sage |
+| Magic Initiate (Druid) | Guide |
+| Magic Initiate (Wizard) | Sage |
 | Musician | Entertainer |
-| Savage Attacker | Soldier |
+| Savage Attacker | Contender, Soldier |
 | Skilled | Charlatan, Noble, Scribe |
 | Tavern Brawler | Rebel, Sailor |
-| Tough | Farmer |
+| Tough | Courtier, Farmer |
 
 ---
 
@@ -80,7 +80,6 @@ Every pair is covered by exactly four backgrounds.
 |---|---|
 | Alchemist's Supplies | Medic |
 | Artisan's Tools (choice) | Artisan |
-| Brewer's Supplies | Rebel |
 | Calligrapher's Supplies | Acolyte, Sage, Scribe |
 | Carpenter's Tools | Farmer |
 | Cartographer's Tools | Guide |
@@ -88,10 +87,10 @@ Every pair is covered by exactly four backgrounds.
 | Forgery Kit | Charlatan |
 | Gaming Set (choice) | Guard, Noble, Soldier |
 | Herbalism Kit | Hermit |
-| Leatherworker's Tools | Reeve |
+| Leatherworker's Tools | Contender |
 | Musical Instrument (choice) | Entertainer |
 | Navigator's Tools | Merchant, Sailor |
-| Thieves' Tools | Criminal, Wayfarer |
+| Thieves' Tools | Criminal, Rebel, Wayfarer |
 
 ---
 
@@ -102,18 +101,18 @@ Every pair is covered by exactly four backgrounds.
 | Acrobatics | Entertainer, Sailor |
 | Animal Handling | Farmer, Merchant |
 | Arcana | Sage |
-| Athletics | Guard, Soldier |
+| Athletics | Contender, Guard, Soldier |
 | Deception | Charlatan, Courtier |
 | History | Courtier, Noble, Sage |
-| Insight | Acolyte, Reeve, Wayfarer |
-| Intimidation | Reeve, Soldier |
+| Insight | Acolyte, Rebel, Wayfarer |
+| Intimidation | Soldier |
 | Investigation | Artisan, Medic, Scribe |
 | Medicine | Hermit, Medic |
 | Nature | Farmer |
 | Perception | Guard, Sailor, Scribe |
-| Performance | Entertainer, Rebel |
-| Persuasion | Artisan, Merchant, Noble |
+| Performance | Contender, Entertainer |
+| Persuasion | Artisan, Merchant, Noble, Rebel |
 | Religion | Acolyte, Hermit |
 | Sleight of Hand | Charlatan, Criminal |
 | Stealth | Criminal, Guide, Wayfarer |
-| Survival | Guide, Rebel |
+| Survival | Guide |

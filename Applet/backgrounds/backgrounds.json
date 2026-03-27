@@ -415,7 +415,7 @@
         "items": [
           { "item": "Alchemist's Supplies" },
           { "item": "Healer's Kit" },
-          { "item": "Dagger" },
+          { "item": "Sickle" },
           { "item": "Book", "note": "anatomy" },
           { "item": "Traveler's Clothes" },
           { "gp": 3 }
@@ -429,17 +429,17 @@
   },
   {
     "name": "Rebel",
-    "description": "You built your life in defiance of the prevailing status quo, making your name in places where authority was oppressive or unjust. Perhaps you led a band of dissidents, ran supplies to folk the law had abandoned, or simply refused to kneel when others bent. Surviving harsh crackdowns taught you how to fight with whatever you had on hand and endure the wilds, earning you a reputation as a troublemaker to those in power, and a hero to those without it.",
+    "description": "You were always a problem for whoever was in charge, whether you were organizing a righteous labor strike or just breaking windows for the sheer thrill of the chaos. You spent your youth inciting tavern brawls, leading street gangs, and learning how to read a room's tension to find exactly the right words to light the fuse. You took your share of truncheon blows staying in the fight—and you learned how to convince a furious mob that you were exactly the person they should follow.",
     "abilityScores": ["Strength", "Constitution", "Charisma"],
     "originFeat": "Tavern Brawler",
-    "skillProficiencies": ["Performance", "Survival"],
-    "toolProficiency": "Brewer's Supplies",
+    "skillProficiencies": ["Persuasion", "Insight"],
+    "toolProficiency": "Thieves' Tools",
     "homebrew": true,
     "startingEquipment": [
       {
         "option": "A",
         "items": [
-          { "item": "Brewer's Supplies" },
+          { "item": "Thieves' Tools" },
           { "item": "Handaxe", "quantity": 2 },
           { "item": "Bedroll" },
           { "item": "Traveler's Clothes" },
@@ -453,25 +453,23 @@
     ]
   },
   {
-    "name": "Reeve",
-    "description": "You kept the peace across a stretch of farms, commons, and forest edge that no city watch would bother with. Appointed by a local lord or simply stepping up when no one else would, you settled disputes, tracked down wrongdoers, and made hard calls with little backup. You walked the boundary between the settled and the wild often enough that the land itself seemed to take notice — and in time, a little of its magic answered back.",
+    "name": "Contender",
+    "description": "You made your living shedding blood for the roar of a crowd, whether in the grand arenas of a city or the illicit fighting pits of the underworld. You survived not by being the strongest fighter in the ring, but by reading your opponents and knowing exactly what kind of spectacle the audience needed to see. You may have fought for glory, for coin, or for reasons less noble than either—but you learned that every battle is a performance.",
     "abilityScores": ["Strength", "Wisdom", "Charisma"],
-    "originFeat": "Magic Initiate (Druid)",
-    "skillProficiencies": ["Insight", "Intimidation"],
+    "originFeat": "Savage Attacker",
+    "skillProficiencies": ["Athletics", "Performance"],
     "toolProficiency": "Leatherworker's Tools",
     "homebrew": true,
     "startingEquipment": [
       {
         "option": "A",
         "items": [
+          { "item": "Spear" },
+          { "item": "Net" },
           { "item": "Leatherworker's Tools" },
           { "item": "Healer's Kit" },
-          { "item": "Manacles" },
-          { "item": "Rope" },
-          { "item": "Lantern, Hooded" },
-          { "item": "Oil", "quantity": 3 },
           { "item": "Traveler's Clothes" },
-          { "gp": 29 }
+          { "gp": 14 }
         ]
       },
       {
@@ -482,9 +480,9 @@
   },
   {
     "name": "Courtier",
-    "description": "You navigated a treacherous world of whispered alliances and careful words, where wit and presence were more powerful than any blade. Whether you served as a diplomat, a spy, or a titled lord's confidant, you learned how to blend into high society, and to take quiet advantage of the arcane resources that flow freely among the privileged.",
+    "description": "You learned early that the most dangerous place in any kingdom is the room where decisions are made. Whether as a spy behind borrowed finery or a confidant with a hidden agenda, you navigated webs of alliance built on centuries of grudge and ambition. You learned to lie to powerful people with perfect composure—and to survive the costs when the lie wasn't enough.",
     "abilityScores": ["Dexterity", "Intelligence", "Charisma"],
-    "originFeat": "Magic Initiate (Wizard)",
+    "originFeat": "Tough",
     "skillProficiencies": ["Deception", "History"],
     "toolProficiency": "Disguise Kit",
     "homebrew": true,

@@ -1,35 +1,35 @@
 ### BRAVO
 
-Dismantle Foes with Cunning and Observation
+Outfox and Outfight Every Opponent
 
-Bravos are cunning combatants who treat battle as a lethal game of psychological warfare, systematically dismantling their opponents through ruthless observation. By cataloguing tells and manufacturing openings with cold precision, a Bravo ensures the fight is decided long before the final blow is struck.
+Bravos are cunning professionals as comfortable in a back-alley brawl as a candlelit duel. They combine martial skill with sharp intelligence to size up opponents before committing, exploit every opening their enemies offer, and extricate themselves from danger with practiced ease.
 
-#### LEVEL 3: UNDERWORLD ADEPT
+#### LEVEL 3: SAVVY
 
-You gain proficiency in one of these skills of your choice: Deception, Investigation, or Stealth. You know two languages of your choice from the language tables in chapter 2.
+You gain proficiency in one of the following skills of your choice: Deception, Investigation, or Stealth. You know two languages of your choice from the language tables in chapter 2.
 
-When you make a Charisma (Deception), Wisdom (Insight) or Charisma (Intimidation) check, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1).
+When you make a Charisma (Deception), Charisma (Intimidation), or Wisdom (Insight) check, you gain a bonus to the roll equal to your Intelligence modifier (minimum of 1).
 
 #### LEVEL 3: CALCULATED VIOLENCE
 
-When you activate your Second Wind, you can choose one creature you can see. Until the end of your next turn, you add your Intelligence modifier to attack and damage rolls you make against that creature.
+When you use your Second Wind, you can choose one creature you can see. Until the end of your next turn, you gain a bonus to damage rolls against that creature equal to your Intelligence modifier.
 
-#### LEVEL 7: TACTICAL REPOSITIONING
+#### LEVEL 7: CUT AND RUN
 
-When you use your Action Surge, you gain the benefits of the Dash and Disengage actions.
+When you use your Action Surge, you also gain the benefits of the Dash and Disengage actions. Additionally, you gain a bonus to your Armor Class equal to your Intelligence modifier until the start of your next turn.
 
 #### LEVEL 10: READY FOR ANYTHING
 
-When you roll Initiative, if your total is less than your Intelligence score, you can use your Intelligence score in place of the total.
+When you roll Initiative, if your Initiative total is lower than your Intelligence score, you can replace the total with your Intelligence score.
 
-#### LEVEL 15: EXPLOIT MISSTEP
+#### LEVEL 15: EXPLOIT ERROR
 
-Whenever a creature misses you with a melee attack roll, you add your Intelligence modifier to attack and damage rolls you make against that creature until the end of your next turn.
+Whenever a creature misses you with an attack roll, you gain a bonus to attack rolls you make against that creature equal to your Intelligence modifier until the end of your next turn.
 
 #### LEVEL 18: LETHAL PRAGMATISM
 
-Your ruthless observation allows you to execute vulnerable foes. You gain the following benefits:
+Your ruthlessness grants you the following benefits:
 
-Coup de Grâce. Whenever you hit a creature with a weapon attack, you deal maximum damage with your weapon's damage dice if the target has the Blinded, Grappled, Incapacitated, or Restrained condition.
+Coup de Grâce. When you hit a creature with a weapon attack, if the target has the Blinded, Grappled, Incapacitated, or Restrained condition, you deal maximum damage with that weapon's damage dice instead of rolling.
 
-Manufacture Opening. When you hit a creature with a weapon attack, you can choose to deal maximum damage with your weapon's damage dice. You can use this benefit a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+Cut-Throat. When you hit a creature with a weapon attack, you can choose to deal maximum damage with that weapon's damage dice instead of rolling. You can use this benefit a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
