@@ -12,7 +12,7 @@ When you make a Charisma (Deception), Charisma (Intimidation), or Wisdom (Insigh
 
 #### LEVEL 3: CALCULATED VIOLENCE
 
-When you use your Second Wind, you can choose one creature you can see. Until the end of your next turn, you gain a bonus to damage rolls against that creature equal to your Intelligence modifier.
+When you use your Second Wind, you can also choose one creature you can see. Until the end of your next turn, you gain a bonus to damage rolls against that creature equal to your Intelligence modifier.
 
 #### LEVEL 7: CUT AND RUN
 
@@ -28,8 +28,6 @@ Whenever a creature misses you with an attack roll, you gain a bonus to attack r
 
 #### LEVEL 18: LETHAL PRAGMATISM
 
-Your ruthlessness grants you the following benefits:
+When you hit a creature with a weapon attack, you can maximize the weapon's damage dice for that attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), regaining all expended uses when you finish a Short or Long Rest.
 
-Coup de Grâce. When you hit a creature with a weapon attack, if the target has the Blinded, Grappled, Incapacitated, or Restrained condition, you deal maximum damage with that weapon's damage dice instead of rolling.
-
-Cut-Throat. When you hit a creature with a weapon attack, you can choose to deal maximum damage with that weapon's damage dice instead of rolling. You can use this benefit a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+Using this feature doesn't expend a use if the target has the Blinded, Grappled, Incapacitated, or Restrained condition.
