@@ -23,7 +23,7 @@ Mall-Lowick's two most powerful combat contributions both require Concentration.
 
 **Hunter's Mark Rule of thumb:** Apply it as a Bonus Action at the start of combat when facing one strong enemy. Then attack every subsequent round — the +1d6 Force damage on every hit accumulates rapidly, and the Advantage on Perception/Survival to find the target is a useful bonus against enemies that flee or go invisible. With 2 free casts per Long Rest, she should never need to spend a spell slot for Hunter's Mark under normal circumstances.
 
-**Entangle Rule of thumb:** Drop it on a cluster of enemies before they reach Rixon. The Restrained condition from Entangle gives the *entire party* Advantage on attack rolls against affected creatures — this is a multiplicative benefit, simultaneously upgrading Rixon's Longsword swings, Cade's Word of Radiance, Kilda's Chromatic Orb, and Mall-Lowick's own follow-up attacks. Against two or more enemies, Entangle almost always produces more value than Hunter's Mark.
+**Entangle Rule of thumb:** Drop it on a cluster of enemies before they reach Rixon. The Restrained condition from Entangle gives the *entire party* Advantage on attack rolls against affected creatures — this is a multiplicative benefit, simultaneously upgrading Rixon's Longsword swings, Cade's Word of Radiance, Gilda's Chromatic Orb, and Mall-Lowick's own follow-up attacks. Against two or more enemies, Entangle almost always produces more value than Hunter's Mark.
 
 ### Weapon Selection
 
@@ -32,7 +32,7 @@ Mall-Lowick's two most powerful combat contributions both require Concentration.
 | Standard combat | **Longbow** | 150 ft range, out of retaliatory melee reach, Slow mastery |
 | Enemy closes to melee | **Shortsword** | Vex mastery, Finesse (DEX +3), Light |
 | Melee with Rixon in coordination | **Shortsword** | Vex/Sap feedback loop (see Synergies) |
-| No obvious priority target | **Longbow + Slow mastery** | Controlling enemy approach speed to protect Kilda |
+| No obvious priority target | **Longbow + Slow mastery** | Controlling enemy approach speed to protect Gilda |
 
 The Scimitar is a third Light Finesse weapon available for theoretical dual-wielding alongside the Shortsword. Without the Two-Weapon Fighting style, the off-hand attack adds no DEX modifier to damage — it is a secondary strike for a minor bonus, not her standard configuration. The Longbow and Shortsword should be her primary tools.
 
@@ -56,7 +56,7 @@ Drop this in a doorway, corridor, or chokepoint and it neutralises an approach f
 
 ## Key Traits in Play
 
-**Halfling Luck:** When Mall-Lowick rolls a 1 on a d20 Test, she automatically rerolls and must use the new result. This is passive, always active, and effectively removes her worst-case outcomes from the table. Combined with Kilda's Lucky feat, the two "lucky" party members are the most reliable in high-stakes situations where failure is catastrophic.
+**Halfling Luck:** When Mall-Lowick rolls a 1 on a d20 Test, she automatically rerolls and must use the new result. This is passive, always active, and effectively removes her worst-case outcomes from the table. Combined with Gilda's Lucky feat, the two "lucky" party members are the most reliable in high-stakes situations where failure is catastrophic.
 
 **Naturally Stealthy:** She can take the Hide action when obscured only by a creature at least one size larger than her. With Cade in the party — a Large-adjacent Goliath at 7'6" — she can hide *directly behind him* without any other cover or obstacle. This is both mechanically powerful and visually absurd, and she should use it consistently for advantageous positioning in combat and reconnaissance. She can also hide behind the other members of the party when required.
 
@@ -64,7 +64,7 @@ Drop this in a doorway, corridor, or chokepoint and it neutralises an approach f
 
 **Brave:** Advantage on saves to end or avoid the Frightened condition. The party has low collective Wisdom scores, making Fear one of its biggest vulnerabilities. Mall-Lowick is specifically resistant to this, which makes her the correct character to send into situations where morale-breaking effects are expected.
 
-**Longbow — Slow Mastery:** On a hit, the target's Speed is reduced by 10 ft until the start of its next turn. Applied every round to a fast-moving enemy, this consistently prevents it from closing on Kilda or escaping engagement. Used on a charging enemy: it moves 10 ft less this turn, which may be exactly enough to keep it 5 ft away from the backline.
+**Longbow — Slow Mastery:** On a hit, the target's Speed is reduced by 10 ft until the start of its next turn. Applied every round to a fast-moving enemy, this consistently prevents it from closing on Gilda or escaping engagement. Used on a charging enemy: it moves 10 ft less this turn, which may be exactly enough to keep it 5 ft away from the backline.
 
 **Shortsword — Vex Mastery:** On a hit, Mall-Lowick gains Advantage on her next attack roll against that same target before the end of her next turn. Chains naturally with her own attacks and complements Rixon's Sap mastery — she Vexes a target (gaining Advantage), Rixon Saps the same target (giving it Disadvantage on its counterattack). The feedback loop runs in both directions.
 
@@ -82,7 +82,7 @@ Mall-Lowick is the party's foremost exploration specialist, and this role is as 
 
 **Wilderness Survival:** She can find food and water, identify safe camps and environmental hazards, navigate by stars and terrain features, and manage animals (Animal Handling +4). In outdoor environments, she leads by a significant margin.
 
-**Investigation +3:** Not the party's best investigator — Kilda has +5 — but competent, especially for field investigation: tracks, disturbed vegetation, signs of passage, the physical evidence of what happened in a space rather than the arcane or textual analysis of it.
+**Investigation +3:** Not the party's best investigator — Gilda has +5 — but competent, especially for field investigation: tracks, disturbed vegetation, signs of passage, the physical evidence of what happened in a space rather than the arcane or textual analysis of it.
 
 **Calligrapher's Supplies:** Often overlooked. She can transcribe discovered texts accurately, copy inscriptions from ruins, forge or produce documents, and take precise field notes. In a world with limited literacy, a skilled calligrapher has genuine practical value.
 

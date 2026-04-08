@@ -29,7 +29,7 @@ Before every combat, immediately after rolling, ask: who benefits most from goin
 |---|---|
 | **Cade** | So he can cast Shield of Faith on Rixon as a Bonus Action before Rixon has taken any damage — Rixon enters his first turn at AC 20 |
 | **Mall-Lowick** | So she can apply Hunter's Mark or Entangle before enemies have moved into position |
-| **Kilda** | So she can debuff a key target with Mind Sliver before Cade's Command or Mall-Lowick's Ensnaring Strike lands |
+| **Gilda** | So she can debuff a key target with Mind Sliver before Cade's Command or Mall-Lowick's Ensnaring Strike lands |
 
 This decision is the most tactically significant action Rixon takes that costs him nothing. Treat it as a standing priority at the start of every encounter.
 
@@ -41,7 +41,7 @@ This decision is the most tactically significant action Rixon takes that costs h
 
 **Blade Ward (Cantrip, Concentration, Action):** Attackers subtract 1d4 from their attack rolls against him for 1 minute. Burns his action for the turn, so he cannot attack. Best used in rounds where he is deliberately holding a chokepoint or doorway rather than advancing — where his job is to *absorb* rather than *inflict*. Note that this is a Concentration spell.
 
-**Light (Cantrip):** Practical and frequently important. The party has a significant Darkvision gap — only Kilda can see in true darkness. Rixon providing a light source covers the rest of the party, but be aware that it also signals the party's position in dark environments. Coordinate with Kilda: when stealth matters, she navigates in the dark and describes; when it doesn't, Rixon lights up.
+**Light (Cantrip):** Practical and frequently important. The party has a significant Darkvision gap — only Gilda can see in true darkness. Rixon providing a light source covers the rest of the party, but be aware that it also signals the party's position in dark environments. Coordinate with Gilda: when stealth matters, she navigates in the dark and describes; when it doesn't, Rixon lights up.
 
 ---
 
@@ -71,9 +71,9 @@ Self-heal (Bonus Action, 1d10+1 HP) with 2 uses per Long Rest, recovering 1 use 
 
 **Heroic Inspiration (Resourceful):** Rixon regains Heroic Inspiration at the end of every Long Rest. This is a free Advantage on any one d20 roll per day. Save it for moments of genuine consequence — a key attack, a save against something debilitating, a Persuasion or Intimidation roll that changes the direction of a session. Do not spend it on routine checks.
 
-**History +4:** Rixon is the party's institutional memory, particularly for military, political, and regional knowledge. He and Kilda together cover most knowledge domains — he handles historical fact and social context; she handles arcane theory and investigation. Ask him first about who these people are, what this city has been through, and what this faction wants.
+**History +4:** Rixon is the party's institutional memory, particularly for military, political, and regional knowledge. He and Gilda together cover most knowledge domains — he handles historical fact and social context; she handles arcane theory and investigation. Ask him first about who these people are, what this city has been through, and what this faction wants.
 
-**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency extends further: he can inhabit a range of personas entirely convincingly — the legitimate guard, the respectable escort, the bored municipal heavy — wearing whatever face the situation calls for and discarding it when it has served its purpose. Paired with Kilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
+**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency extends further: he can inhabit a range of personas entirely convincingly — the legitimate guard, the respectable escort, the bored municipal heavy — wearing whatever face the situation calls for and discarding it when it has served its purpose. Paired with Gilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
 
 **Knavebones (Gaming Set):** A social tool, not just a pastime. Gambling is how Rixon gets into conversations, into trust, into back rooms. DC 20 INT to win, DC 15 WIS to spot cheating, with Advantage and Proficiency from his Proficiency with the set — he is competent but not unbeatable. The real value is the context: people talk at a gaming table in ways they don't in a tavern common room.
 

@@ -10,17 +10,17 @@ Here are the five tables derived from `backgrounds.json` (16 core + 4 homebrew�
 | Artisan | STR, DEX, INT | Investigation, Persuasion | Artisan's Tools (choice) | Crafter |
 | Charlatan | DEX, CON, CHA | Deception, Sleight of Hand | Forgery Kit | Skilled |
 | Contender† | STR, WIS, CHA | Athletics, Performance | Leatherworker's Tools | Savage Attacker |
-| Courtier† | DEX, INT, CHA | Deception, History | Disguise Kit | Tough |
 | Criminal | DEX, CON, INT | Sleight of Hand, Stealth | Thieves' Tools | Alert |
 | Entertainer | STR, DEX, CHA | Acrobatics, Performance | Musical Instrument (choice) | Musician |
 | Farmer | STR, CON, WIS | Animal Handling, Nature | Carpenter's Tools | Tough |
 | Guard | STR, INT, WIS | Athletics, Perception | Gaming Set (choice) | Alert |
 | Guide | DEX, CON, WIS | Stealth, Survival | Cartographer's Tools | Magic Initiate (Druid) |
 | Hermit | CON, WIS, CHA | Medicine, Religion | Herbalism Kit | Healer |
-| Medic† | STR, CON, INT | Medicine, Investigation | Alchemist's Supplies | Healer |
+| Medic† | STR, CON, INT | Medicine, Investigation | Herbalism Kit | Healer |
 | Merchant | CON, INT, CHA | Animal Handling, Persuasion | Navigator's Tools | Lucky |
 | Noble | STR, INT, CHA | History, Persuasion | Gaming Set (choice) | Skilled |
-| Rebel† | STR, CON, CHA | Persuasion, Insight | Thieves' Tools | Tavern Brawler |
+| Rebel† | STR, CON, CHA | Persuasion, Insight | Painter's Supplies | Tavern Brawler |
+| Envoy† | DEX, INT, CHA | History, Intimidation | Jeweler's Tools | Tough |
 | Sage | CON, INT, WIS | Arcana, History | Calligrapher's Supplies | Magic Initiate (Wizard) |
 | Sailor | STR, DEX, WIS | Acrobatics, Perception | Navigator's Tools | Tavern Brawler |
 | Scribe | DEX, INT, WIS | Investigation, Perception | Calligrapher's Supplies | Skilled |
@@ -41,14 +41,14 @@ Here are the five tables derived from `backgrounds.json` (16 core + 4 homebrew�
 | STR + WIS | Contender, Farmer, Guard, Sailor |
 | STR + CHA | Contender, Entertainer, Noble, Rebel |
 | DEX + CON | Charlatan, Criminal, Guide, Soldier |
-| DEX + INT | Artisan, Courtier, Criminal, Scribe |
+| DEX + INT | Artisan, Envoy, Criminal, Scribe |
 | DEX + WIS | Guide, Sailor, Scribe, Wayfarer |
-| DEX + CHA | Charlatan, Courtier, Entertainer, Wayfarer |
+| DEX + CHA | Charlatan, Envoy, Entertainer, Wayfarer |
 | CON + INT | Criminal, Medic, Merchant, Sage |
 | CON + WIS | Farmer, Guide, Hermit, Sage |
 | CON + CHA | Charlatan, Hermit, Merchant, Rebel |
 | INT + WIS | Acolyte, Guard, Sage, Scribe |
-| INT + CHA | Acolyte, Courtier, Merchant, Noble |
+| INT + CHA | Acolyte, Envoy, Merchant, Noble |
 | WIS + CHA | Acolyte, Contender, Hermit, Wayfarer |
 
 Every pair is covered by exactly four backgrounds.
@@ -70,7 +70,7 @@ Every pair is covered by exactly four backgrounds.
 | Savage Attacker | Contender, Soldier |
 | Skilled | Charlatan, Noble, Scribe |
 | Tavern Brawler | Rebel, Sailor |
-| Tough | Courtier, Farmer |
+| Tough | Farmer, Envoy |
 
 ---
 
@@ -78,19 +78,19 @@ Every pair is covered by exactly four backgrounds.
 
 | Tool | Backgrounds |
 |---|---|
-| Alchemist's Supplies | Medic |
 | Artisan's Tools (choice) | Artisan |
+| Leatherworker's Tools | Contender |
 | Calligrapher's Supplies | Acolyte, Sage, Scribe |
 | Carpenter's Tools | Farmer |
 | Cartographer's Tools | Guide |
-| Disguise Kit | Courtier |
 | Forgery Kit | Charlatan |
 | Gaming Set (choice) | Guard, Noble, Soldier |
-| Herbalism Kit | Hermit |
-| Leatherworker's Tools | Contender |
+| Herbalism Kit | Hermit, Medic |
+| Jeweler's Tools | Envoy |
 | Musical Instrument (choice) | Entertainer |
 | Navigator's Tools | Merchant, Sailor |
-| Thieves' Tools | Criminal, Rebel, Wayfarer |
+| Painter's Supplies | Rebel |
+| Thieves' Tools | Criminal, Wayfarer |
 
 ---
 
@@ -102,10 +102,10 @@ Every pair is covered by exactly four backgrounds.
 | Animal Handling | Farmer, Merchant |
 | Arcana | Sage |
 | Athletics | Contender, Guard, Soldier |
-| Deception | Charlatan, Courtier |
-| History | Courtier, Noble, Sage |
+| Deception | Charlatan |
+| History | Envoy, Noble, Sage |
 | Insight | Acolyte, Rebel, Wayfarer |
-| Intimidation | Soldier |
+| Intimidation | Envoy, Soldier |
 | Investigation | Artisan, Medic, Scribe |
 | Medicine | Hermit, Medic |
 | Nature | Farmer |

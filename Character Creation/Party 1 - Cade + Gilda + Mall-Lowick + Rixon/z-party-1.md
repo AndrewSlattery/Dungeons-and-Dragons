@@ -1227,9 +1227,9 @@ Cade will usually want to concentrate on **Shield of Faith** applied to Rixon (b
 
 **Healing Word** — his most important spell, and the reason he is irreplaceable. The Bonus Action cast lets him heal *and* still act offensively on the same turn. At 60 ft range, he rarely needs to be adjacent to a downed ally. He can drag someone back from 0 HP and then swing a fist at a goblin, all in the same moment. This is what makes him so effective: he doesn't sacrifice his action to heal.
 
-**Shield of Faith** — default target is **Rixon** (AC 18 → 20 is exceptional at Level 1). Secondary target is himself to preserving the party's access to healing or **Kilda** in situations where she has lost Mage Armour or is under sustained threat. Costs a Bonus Action to cast and Concentration to maintain.
+**Shield of Faith** — default target is **Rixon** (AC 18 → 20 is exceptional at Level 1). Secondary target is himself to preserving the party's access to healing or **Gilda** in situations where she has lost Mage Armour or is under sustained threat. Costs a Bonus Action to cast and Concentration to maintain.
 
-**Command** — use strategically on high-value single targets. "GROVEL" (target falls prone on its next turn) synergises powerfully with Rixon's melee attacks, which hit prone adjacent targets at Advantage. "HALT" (target doesn't move) neutralises fast enemies. "FLEE" disrupts spellcasters. Requires a WIS save vs DC 13 — a decent hit rate at Level 1. Consider pairing with Kilda's Mind Sliver, which reduces the target's next save by 1d4.
+**Command** — use strategically on high-value single targets. "GROVEL" (target falls prone on its next turn) synergises powerfully with Rixon's melee attacks, which hit prone adjacent targets at Advantage. "HALT" (target doesn't move) neutralises fast enemies. "FLEE" disrupts spellcasters. Requires a WIS save vs DC 13 — a decent hit rate at Level 1. Consider pairing with Gilda's Mind Sliver, which reduces the target's next save by 1d4.
 
 **Word of Radiance** — situationally excellent when 2+ enemies are within 5 ft. CON save (DC 13) means many low-CON enemies fail. Good for: clearing enemies who swarm Rixon's position, punishing anything that charges Cade directly, and asserting presence in tight corridors where melee becomes a scrum.
 
@@ -1243,7 +1243,7 @@ Cade will usually want to concentrate on **Shield of Faith** applied to Rixon (b
 
 **Tavern Brawler:** Unarmed Strike (1d4+1 Bludgeoning, reroll 1s) with a push of 5 ft once per turn is more useful than it looks. Pushing a spellcaster away from the group, shoving an enemy into difficult terrain or a hazard, or repositioning a flanker — all of these cost only his action, and the push stacks with his normal movement. His Unarmed Strike is also a fallback weapon when he's in tight spaces where a dagger is less appropriate.
 
-**Insight +5:** In social encounters, Cade is the party's emotional intelligence. Even when Kilda leads a negotiation, Cade should be in the room — his read on whether the other party is lying, frightened, or hiding something is more reliable than anyone else's by a considerable margin. He doesn't need to speak; he just needs to observe and pass a note.
+**Insight +5:** In social encounters, Cade is the party's emotional intelligence. Even when Gilda leads a negotiation, Cade should be in the room — his read on whether the other party is lying, frightened, or hiding something is more reliable than anyone else's by a considerable margin. He doesn't need to speak; he just needs to observe and pass a note.
 
 **Perception +5 / Passive Perception 15:** Along with Mall-Lowick, Cade is one of the party's two sentinels. Almost nothing approaches the party on watch without him knowing. On shared watch duties, he and Mall-Lowick are the ideal pairing.
 
@@ -1254,8 +1254,8 @@ Cade will usually want to concentrate on **Shield of Faith** applied to Rixon (b
 ## Where Cade Shines
 
 - When allies are at low HP and he can Healing Word (BA) *and* attack or cast on the same turn
-- Protecting the party's backline by engaging enemies who break through to Kilda
-- Reading social situations that Kilda and Rixon — focused on transaction and threat respectively — miss
+- Protecting the party's backline by engaging enemies who break through to Gilda
+- Reading social situations that Gilda and Rixon — focused on transaction and threat respectively — miss
 - Against enemies who cluster: Word of Radiance punishes groups within 5 ft
 - In maritime, coastal, or nautical situations (Sailor background, Navigator's Tools, Water Vehicles proficiency)
 - When the party needs someone who is simultaneously physically imposing and spiritually credible — negotiating with religious authorities, calming frightened civilians, dealing with communities who don't trust the party
@@ -1264,18 +1264,18 @@ Cade will usually want to concentrate on **Shield of Faith** applied to Rixon (b
 
 - When he goes down: the party has no redundancy on magical healing whatsoever
 - Maintaining Concentration on Shield of Faith while being targeted frequently — CON +2 means he'll fail some of those saves under sustained fire
-- Intelligence-based tasks: INT −1 means he should defer entirely to Kilda (Arcana, Investigation) and Rixon (History)
+- Intelligence-based tasks: INT −1 means he should defer entirely to Gilda (Arcana, Investigation) and Rixon (History)
 - Stealth: his +1 Stealth and 8' Goliath frame make him a liability in any silent approach — he should hold back and cover the retreat
 
 ---
 
 ## Roleplaying Notes
 
-Cade is the party's emotional centre. His Lawful Good alignment means he will push back — clearly and without flinching — against choices that sacrifice principle for efficiency. He and Kilda represent the party's clearest philosophical counterpoint, and their debates will be among its most interesting moments. He will not shout. He will not threaten. He will simply be disappointed, which is somehow worse.
+Cade is the party's emotional centre. His Lawful Good alignment means he will push back — clearly and without flinching — against choices that sacrifice principle for efficiency. He and Gilda represent the party's clearest philosophical counterpoint, and their debates will be among its most interesting moments. He will not shout. He will not threaten. He will simply be disappointed, which is somehow worse.
 
 His warmth is genuine and his protectiveness is instinctive. He is not naive — he has seen enough of the world from a ship's deck to know that people lie and people die, often simultaneously — but he chooses, consciously and repeatedly, to lead with trust. He has Insight +5, which means he usually knows when the trust is misplaced. He extends it anyway.
 
-He is perceptive enough to see through Rixon's cultivated cynicism, warm enough to be fond of Mall-Lowick's chaos, and patient enough to maintain a working relationship with Kilda's cold ledger-book morality. He is not the party's loudest voice, but he is probably its most important one.
+He is perceptive enough to see through Rixon's cultivated cynicism, warm enough to be fond of Mall-Lowick's chaos, and patient enough to maintain a working relationship with Gilda's cold ledger-book morality. He is not the party's loudest voice, but he is probably its most important one.
 # Gilda — Strategic Analysis
 
 ---
@@ -1409,7 +1409,7 @@ Mall-Lowick's two most powerful combat contributions both require Concentration.
 
 **Hunter's Mark Rule of thumb:** Apply it as a Bonus Action at the start of combat when facing one strong enemy. Then attack every subsequent round — the +1d6 Force damage on every hit accumulates rapidly, and the Advantage on Perception/Survival to find the target is a useful bonus against enemies that flee or go invisible. With 2 free casts per Long Rest, she should never need to spend a spell slot for Hunter's Mark under normal circumstances.
 
-**Entangle Rule of thumb:** Drop it on a cluster of enemies before they reach Rixon. The Restrained condition from Entangle gives the *entire party* Advantage on attack rolls against affected creatures — this is a multiplicative benefit, simultaneously upgrading Rixon's Longsword swings, Cade's Word of Radiance, Kilda's Chromatic Orb, and Mall-Lowick's own follow-up attacks. Against two or more enemies, Entangle almost always produces more value than Hunter's Mark.
+**Entangle Rule of thumb:** Drop it on a cluster of enemies before they reach Rixon. The Restrained condition from Entangle gives the *entire party* Advantage on attack rolls against affected creatures — this is a multiplicative benefit, simultaneously upgrading Rixon's Longsword swings, Cade's Word of Radiance, Gilda's Chromatic Orb, and Mall-Lowick's own follow-up attacks. Against two or more enemies, Entangle almost always produces more value than Hunter's Mark.
 
 ### Weapon Selection
 
@@ -1418,7 +1418,7 @@ Mall-Lowick's two most powerful combat contributions both require Concentration.
 | Standard combat | **Longbow** | 150 ft range, out of retaliatory melee reach, Slow mastery |
 | Enemy closes to melee | **Shortsword** | Vex mastery, Finesse (DEX +3), Light |
 | Melee with Rixon in coordination | **Shortsword** | Vex/Sap feedback loop (see Synergies) |
-| No obvious priority target | **Longbow + Slow mastery** | Controlling enemy approach speed to protect Kilda |
+| No obvious priority target | **Longbow + Slow mastery** | Controlling enemy approach speed to protect Gilda |
 
 The Scimitar is a third Light Finesse weapon available for theoretical dual-wielding alongside the Shortsword. Without the Two-Weapon Fighting style, the off-hand attack adds no DEX modifier to damage — it is a secondary strike for a minor bonus, not her standard configuration. The Longbow and Shortsword should be her primary tools.
 
@@ -1442,7 +1442,7 @@ Drop this in a doorway, corridor, or chokepoint and it neutralises an approach f
 
 ## Key Traits in Play
 
-**Halfling Luck:** When Mall-Lowick rolls a 1 on a d20 Test, she automatically rerolls and must use the new result. This is passive, always active, and effectively removes her worst-case outcomes from the table. Combined with Kilda's Lucky feat, the two "lucky" party members are the most reliable in high-stakes situations where failure is catastrophic.
+**Halfling Luck:** When Mall-Lowick rolls a 1 on a d20 Test, she automatically rerolls and must use the new result. This is passive, always active, and effectively removes her worst-case outcomes from the table. Combined with Gilda's Lucky feat, the two "lucky" party members are the most reliable in high-stakes situations where failure is catastrophic.
 
 **Naturally Stealthy:** She can take the Hide action when obscured only by a creature at least one size larger than her. With Cade in the party — a Large-adjacent Goliath at 7'6" — she can hide *directly behind him* without any other cover or obstacle. This is both mechanically powerful and visually absurd, and she should use it consistently for advantageous positioning in combat and reconnaissance. She can also hide behind the other members of the party when required.
 
@@ -1450,7 +1450,7 @@ Drop this in a doorway, corridor, or chokepoint and it neutralises an approach f
 
 **Brave:** Advantage on saves to end or avoid the Frightened condition. The party has low collective Wisdom scores, making Fear one of its biggest vulnerabilities. Mall-Lowick is specifically resistant to this, which makes her the correct character to send into situations where morale-breaking effects are expected.
 
-**Longbow — Slow Mastery:** On a hit, the target's Speed is reduced by 10 ft until the start of its next turn. Applied every round to a fast-moving enemy, this consistently prevents it from closing on Kilda or escaping engagement. Used on a charging enemy: it moves 10 ft less this turn, which may be exactly enough to keep it 5 ft away from the backline.
+**Longbow — Slow Mastery:** On a hit, the target's Speed is reduced by 10 ft until the start of its next turn. Applied every round to a fast-moving enemy, this consistently prevents it from closing on Gilda or escaping engagement. Used on a charging enemy: it moves 10 ft less this turn, which may be exactly enough to keep it 5 ft away from the backline.
 
 **Shortsword — Vex Mastery:** On a hit, Mall-Lowick gains Advantage on her next attack roll against that same target before the end of her next turn. Chains naturally with her own attacks and complements Rixon's Sap mastery — she Vexes a target (gaining Advantage), Rixon Saps the same target (giving it Disadvantage on its counterattack). The feedback loop runs in both directions.
 
@@ -1468,7 +1468,7 @@ Mall-Lowick is the party's foremost exploration specialist, and this role is as 
 
 **Wilderness Survival:** She can find food and water, identify safe camps and environmental hazards, navigate by stars and terrain features, and manage animals (Animal Handling +4). In outdoor environments, she leads by a significant margin.
 
-**Investigation +3:** Not the party's best investigator — Kilda has +5 — but competent, especially for field investigation: tracks, disturbed vegetation, signs of passage, the physical evidence of what happened in a space rather than the arcane or textual analysis of it.
+**Investigation +3:** Not the party's best investigator — Gilda has +5 — but competent, especially for field investigation: tracks, disturbed vegetation, signs of passage, the physical evidence of what happened in a space rather than the arcane or textual analysis of it.
 
 **Calligrapher's Supplies:** Often overlooked. She can transcribe discovered texts accurately, copy inscriptions from ruins, forge or produce documents, and take precise field notes. In a world with limited literacy, a skilled calligrapher has genuine practical value.
 
@@ -1530,7 +1530,7 @@ Before every combat, immediately after rolling, ask: who benefits most from goin
 |---|---|
 | **Cade** | So he can cast Shield of Faith on Rixon as a Bonus Action before Rixon has taken any damage — Rixon enters his first turn at AC 20 |
 | **Mall-Lowick** | So she can apply Hunter's Mark or Entangle before enemies have moved into position |
-| **Kilda** | So she can debuff a key target with Mind Sliver before Cade's Command or Mall-Lowick's Ensnaring Strike lands |
+| **Gilda** | So she can debuff a key target with Mind Sliver before Cade's Command or Mall-Lowick's Ensnaring Strike lands |
 
 This decision is the most tactically significant action Rixon takes that costs him nothing. Treat it as a standing priority at the start of every encounter.
 
@@ -1542,7 +1542,7 @@ This decision is the most tactically significant action Rixon takes that costs h
 
 **Blade Ward (Cantrip, Concentration, Action):** Attackers subtract 1d4 from their attack rolls against him for 1 minute. Burns his action for the turn, so he cannot attack. Best used in rounds where he is deliberately holding a chokepoint or doorway rather than advancing — where his job is to *absorb* rather than *inflict*. Note that this is a Concentration spell.
 
-**Light (Cantrip):** Practical and frequently important. The party has a significant Darkvision gap — only Kilda can see in true darkness. Rixon providing a light source covers the rest of the party, but be aware that it also signals the party's position in dark environments. Coordinate with Kilda: when stealth matters, she navigates in the dark and describes; when it doesn't, Rixon lights up.
+**Light (Cantrip):** Practical and frequently important. The party has a significant Darkvision gap — only Gilda can see in true darkness. Rixon providing a light source covers the rest of the party, but be aware that it also signals the party's position in dark environments. Coordinate with Gilda: when stealth matters, she navigates in the dark and describes; when it doesn't, Rixon lights up.
 
 ---
 
@@ -1572,9 +1572,9 @@ Self-heal (Bonus Action, 1d10+1 HP) with 2 uses per Long Rest, recovering 1 use 
 
 **Heroic Inspiration (Resourceful):** Rixon regains Heroic Inspiration at the end of every Long Rest. This is a free Advantage on any one d20 roll per day. Save it for moments of genuine consequence — a key attack, a save against something debilitating, a Persuasion or Intimidation roll that changes the direction of a session. Do not spend it on routine checks.
 
-**History +4:** Rixon is the party's institutional memory, particularly for military, political, and regional knowledge. He and Kilda together cover most knowledge domains — he handles historical fact and social context; she handles arcane theory and investigation. Ask him first about who these people are, what this city has been through, and what this faction wants.
+**History +4:** Rixon is the party's institutional memory, particularly for military, political, and regional knowledge. He and Gilda together cover most knowledge domains — he handles historical fact and social context; she handles arcane theory and investigation. Ask him first about who these people are, what this city has been through, and what this faction wants.
 
-**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency extends further: he can inhabit a range of personas entirely convincingly — the legitimate guard, the respectable escort, the bored municipal heavy — wearing whatever face the situation calls for and discarding it when it has served its purpose. Paired with Kilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
+**Intimidation +3 / Performance +3:** Rixon projects an image, and he does it deliberately. He knows he looks like a henchman — broad, scarred, direct — and he weaponises this. These skills come up in urban and social encounters, particularly in the demimonde he moves through. The Performance proficiency extends further: he can inhabit a range of personas entirely convincingly — the legitimate guard, the respectable escort, the bored municipal heavy — wearing whatever face the situation calls for and discarding it when it has served its purpose. Paired with Gilda's cold Persuasion, the combination is effective: she explains the deal; he implicitly communicates the cost of refusing.
 
 **Knavebones (Gaming Set):** A social tool, not just a pastime. Gambling is how Rixon gets into conversations, into trust, into back rooms. DC 20 INT to win, DC 15 WIS to spot cheating, with Advantage and Proficiency from his Proficiency with the set — he is competent but not unbeatable. The real value is the context: people talk at a gaming table in ways they don't in a tavern common room.
 

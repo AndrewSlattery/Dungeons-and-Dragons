@@ -36,21 +36,21 @@ Since then: guard contracts, escort work, occasional group ventures, whatever pa
 
 ---
 
-### Kilda — The Merchant with a Map Problem
+### Gilda — The Merchant with a Map Problem
 
-**Kilda** built her trading operation from the inside out: starting with logistics (she could move goods from the mountain holds to the river docks faster and cheaper than anyone else), then moving into investment (financing other traders' routes in exchange for a percentage), then into direct commerce at the high end of the market. By the time she took on cartography work from a Halfling named Mall-Lowick, she had a respectable network, a reasonable amount of liquid coin, and a specific problem: the northern coastal routes above Kelstead Port were badly charted, and the potential margin on trade with the port communities up there was considerable if anyone could navigate the approaches reliably.
+**Gilda** built her trading operation from the inside out: starting with logistics (she could move goods from the mountain holds to the river docks faster and cheaper than anyone else), then moving into investment (financing other traders' routes in exchange for a percentage), then into direct commerce at the high end of the market. By the time she took on cartography work from a Halfling named Mall-Lowick, she had a respectable network, a reasonable amount of liquid coin, and a specific problem: the northern coastal routes above Kelstead Port were badly charted, and the potential margin on trade with the port communities up there was considerable if anyone could navigate the approaches reliably.
 
-She hired Mall-Lowick to survey the northern coastal approaches. The resulting maps were… mostly correct. There were three specific points of disagreement about how certain coastal features were labelled, which Kilda maintained were errors and Mall-Lowick maintained were legitimate matters of cartographic interpretation. This dispute was never formally resolved and is still occasionally referenced.
+She hired Mall-Lowick to survey the northern coastal approaches. The resulting maps were… mostly correct. There were three specific points of disagreement about how certain coastal features were labelled, which Gilda maintained were errors and Mall-Lowick maintained were legitimate matters of cartographic interpretation. This dispute was never formally resolved and is still occasionally referenced.
 
-For the northern trading run that brought her to Kelstead Port, Kilda was moving a consignment of worked Dwarven goods — tools, precision instruments, some specialty alloys — toward buyers in the river communities accessible from the coastal port. She booked passage on *The Grey Cormorant*, a mid-sized trading ketch that happened to have a Goliath chaplain in its company, and hired a cartographer she already knew, and took on a guard she had assessed as capable and not likely to create problems.
+For the northern trading run that brought her to Kelstead Port, Gilda was moving a consignment of worked Dwarven goods — tools, precision instruments, some specialty alloys — toward buyers in the river communities accessible from the coastal port. She booked passage on *The Grey Cormorant*, a mid-sized trading ketch that happened to have a Goliath chaplain in its company, and hired a cartographer she already knew, and took on a guard she had assessed as capable and not likely to create problems.
 
 ---
 
 ### Mall-Lowick — The Cartographer Without a Map of Where She's Going
 
-Mall-Lowick had been working the northern coastal routes on and off for two years before Kilda's commission — mostly for her own records, supplemented by commissioned work when someone was willing to pay for what she was already doing. The Kilda commission was good work: specific objectives, a reasonable fee, and the northern approaches were genuinely interesting terrain that she wanted documented regardless.
+Mall-Lowick had been working the northern coastal routes on and off for two years before Gilda's commission — mostly for her own records, supplemented by commissioned work when someone was willing to pay for what she was already doing. The Gilda commission was good work: specific objectives, a reasonable fee, and the northern approaches were genuinely interesting terrain that she wanted documented regardless.
 
-She completed the survey, delivered the maps, collected most of the payment (the outstanding balance on the three disputed points was still technically in negotiation), and was already back near Kelstead Port on unrelated work when Kilda contacted her about the trading run. The offer was: passage on *The Grey Cormorant*, a reasonable daily rate, and the chance to document the coastal route properly in both directions. Mall-Lowick accepted without extended deliberation. There is a stretch of coast above Kelstead Port, about a day's sail north, where the cliffs form a feature she has been trying to chart accurately for eighteen months. This run would take her past it twice.
+She completed the survey, delivered the maps, collected most of the payment (the outstanding balance on the three disputed points was still technically in negotiation), and was already back near Kelstead Port on unrelated work when Gilda contacted her about the trading run. The offer was: passage on *The Grey Cormorant*, a reasonable daily rate, and the chance to document the coastal route properly in both directions. Mall-Lowick accepted without extended deliberation. There is a stretch of coast above Kelstead Port, about a day's sail north, where the cliffs form a feature she has been trying to chart accurately for eighteen months. This run would take her past it twice.
 
 ---
 
@@ -58,19 +58,19 @@ She completed the survey, delivered the maps, collected most of the payment (the
 
 *The Grey Cormorant* was a working ketch — nothing glamorous, seventeen crew including the officers, built for reliability over speed. Its captain was a practical woman named Vetha who asked no unnecessary questions and expected none in return. The cargo manifest was standard Dwarven metalwork consigned to a river factor in Thornwater, a town accessible by a short inland transit from a secondary harbour north of Kelstead.
 
-The four members of the future party spent twelve days aboard *The Grey Cormorant* together. This was the party's formation period: not as adventurers, but as people in close quarters who were professionally connected and had no particular reason to dislike each other. They ate at the same table. They kept overlapping watch rotations. Cade sorted a minor dispute between Rixon and a crew hand in a way that resolved it without casualties. Kilda and Mall-Lowick argued about the northern cliff feature in a way that turned into a two-hour discussion that both of them found stimulating. Rixon won a considerable sum from two crew members at Knavebones and lost some of it back the following evening, which was correct social calibration. Nothing happened on the voyage that required the four of them to act as a unit. They were simply people, sharing a ship, becoming familiar.
+The four members of the future party spent twelve days aboard *The Grey Cormorant* together. This was the party's formation period: not as adventurers, but as people in close quarters who were professionally connected and had no particular reason to dislike each other. They ate at the same table. They kept overlapping watch rotations. Cade sorted a minor dispute between Rixon and a crew hand in a way that resolved it without casualties. Gilda and Mall-Lowick argued about the northern cliff feature in a way that turned into a two-hour discussion that both of them found stimulating. Rixon won a considerable sum from two crew members at Knavebones and lost some of it back the following evening, which was correct social calibration. Nothing happened on the voyage that required the four of them to act as a unit. They were simply people, sharing a ship, becoming familiar.
 
 The voyage ended at Thornwater's secondary harbour on schedule.
 
-**What happened at Thornwater** is more recent, and not all of it is fully understood yet. The short version: the cargo manifest was not entirely accurate. Someone — not Kilda, who was furious about this — had added an additional consignment to the hold, undeclared, which turned out to be relevant to a dispute between two parties in Thornwater that the four of them had no prior knowledge of and no interest in. Vetha was detained by local authorities within hours of docking. The crew dispersed, as crews do when a captain is detained. The cargo, both the legitimate and the undeclared, was impounded.
+**What happened at Thornwater** is more recent, and not all of it is fully understood yet. The short version: the cargo manifest was not entirely accurate. Someone — not Gilda, who was furious about this — had added an additional consignment to the hold, undeclared, which turned out to be relevant to a dispute between two parties in Thornwater that the four of them had no prior knowledge of and no interest in. Vetha was detained by local authorities within hours of docking. The crew dispersed, as crews do when a captain is detained. The cargo, both the legitimate and the undeclared, was impounded.
 
-This left Kilda, Mall-Lowick, Cade, and Rixon in Thornwater: employed by a detained captain, with impounded goods, in a town where they had no connections and at least two sets of interested parties who now knew they had been on the ship.
+This left Gilda, Mall-Lowick, Cade, and Rixon in Thornwater: employed by a detained captain, with impounded goods, in a town where they had no connections and at least two sets of interested parties who now knew they had been on the ship.
 
-They left Thornwater together. This was practical rather than sentimental. Kilda had the resources to move quickly; Rixon had the instincts to move quietly; Mall-Lowick knew the terrain north of Thornwater and had a route back to the Fenway that avoided the main road; Cade had the Healing Word and the Guidance and the steadiness that none of the others would admit to finding useful. They reached Kelstead Port by a back route in three days.
+They left Thornwater together. This was practical rather than sentimental. Gilda had the resources to move quickly; Rixon had the instincts to move quietly; Mall-Lowick knew the terrain north of Thornwater and had a route back to the Fenway that avoided the main road; Cade had the Healing Word and the Guidance and the steadiness that none of the others would admit to finding useful. They reached Kelstead Port by a back route in three days.
 
 Sael was not there when they arrived. Corvan had no information about where Sael had gone — only that the message Cade had left at the port chapel had been collected but not answered. Brynn's ketch was a week out; no contact possible. Whatever had happened to Sael, it had happened after the *Grey Cormorant* left for Thornwater, and the trail, such as it was, was cold.
 
-They did not stay in Kelstead Port. There was a contract notice in the hiring hall for work along the Fenway, west toward Brindlemark. The rate was reasonable. Kilda assessed it as an adequate short-term revenue source while she sorted out what had happened to her cargo and who was responsible for the additional consignment. Mall-Lowick expressed interest in the stretch of country between Kelstead and Brindlemark, which she had notes on but no complete maps of. Rixon had nothing specific against Brindlemark and no particular reason to stay in Kelstead. Cade would go where the group was going, because the group was now his to watch out for.
+They did not stay in Kelstead Port. There was a contract notice in the hiring hall for work along the Fenway, west toward Brindlemark. The rate was reasonable. Gilda assessed it as an adequate short-term revenue source while she sorted out what had happened to her cargo and who was responsible for the additional consignment. Mall-Lowick expressed interest in the stretch of country between Kelstead and Brindlemark, which she had notes on but no complete maps of. Rixon had nothing specific against Brindlemark and no particular reason to stay in Kelstead. Cade would go where the group was going, because the group was now his to watch out for.
 
 They took the contract. That is how they came to be on the Fenway road, heading west toward Brindlemark, in the company of each other.
 
@@ -107,17 +107,17 @@ Cade's childhood friends are not a resource to call on and are not current party
 
 - **Rixon (65 GP):** Paid for the guard contract on *The Grey Cormorant*, plus what he netted at Knavebones minus his social losses. Largest liquid holdings in the party, owing to a combination of good pay and careful spending.
 - **Cade (27 GP):** Paid as ship's chaplain; his share of whatever the voyage budget covered for spiritual and medical services. Modest, consistent with his lifestyle.
-- **Kilda (27 GP liquid):** Her operational pocket money. Her actual wealth is in her merchant network, material inventory, and the rings on her fingers (she estimates 80–120 GP in the rings alone as emergency currency). The 27 GP is what she is running on while the Thornwater cargo situation resolves.
-- **Mall-Lowick (30 GP):** Her cartography commission from Kilda, partially paid; the voyage fee for the return leg, mostly spent on equipment and supplies before departure.
+- **Gilda (27 GP liquid):** Her operational pocket money. Her actual wealth is in her merchant network, material inventory, and the rings on her fingers (she estimates 80–120 GP in the rings alone as emergency currency). The 27 GP is what she is running on while the Thornwater cargo situation resolves.
+- **Mall-Lowick (30 GP):** Her cartography commission from Gilda, partially paid; the voyage fee for the return leg, mostly spent on equipment and supplies before departure.
 
 No one is destitute. No one is comfortable. This is the correct financial pressure for the start of an adventure.
 
-### The Kilda/Mall-Lowick Prior Relationship
+### The Gilda/Mall-Lowick Prior Relationship
 
 The cartography commission was their first professional engagement. It ran over a period of several weeks the previous year. The three disputed points on the northern coastal map are:
-1. The labelling of a rock formation Kilda calls "Breaker's Head" and Mall-Lowick calls "the Cormorant Stack," with different coordinate notations.
-2. The notation of a tidal zone that Mall-Lowick marked as navigable at high water and Kilda maintains should be marked "avoid — approach only with local pilot."
-3. A discrepancy of approximately 400 yards in the placement of a secondary harbour entrance that Mall-Lowick attributes to magnetic variation and Kilda attributes to surveying error.
+1. The labelling of a rock formation Gilda calls "Breaker's Head" and Mall-Lowick calls "the Cormorant Stack," with different coordinate notations.
+2. The notation of a tidal zone that Mall-Lowick marked as navigable at high water and Gilda maintains should be marked "avoid — approach only with local pilot."
+3. A discrepancy of approximately 400 yards in the placement of a secondary harbour entrance that Mall-Lowick attributes to magnetic variation and Gilda attributes to surveying error.
 
 All three are genuinely disputable. Both of them are right about at least one. Neither has conceded this.
 
@@ -128,7 +128,7 @@ The party will work with local authority — constabulary, alderman, regional lo
 The specific stances by character:
 - **Cade:** Respects legitimate authority as the framework communities use to protect themselves. Will cooperate with local law. Will not follow an order he considers unjust. The distinction between these two categories is, for him, clear; others sometimes find it less so.
 - **Rixon:** Treats authority as a system to be navigated rather than respected. Knows exactly how law enforcement, guard companies, and militia structures operate — from the inside — and can perform the role of someone who belongs within them convincingly enough to pass. Whether he cooperates with a constable or works around one depends entirely on which produces the better outcome. He has no institutional loyalties and no friction about either approach.
-- **Kilda:** Treats authority as another counterparty. Complies when compliance is efficient; circumvents when it isn't; knows exactly which category applies in most situations before anyone else has finished reading the posted regulation.
+- **Gilda:** Treats authority as another counterparty. Complies when compliance is efficient; circumvents when it isn't; knows exactly which category applies in most situations before anyone else has finished reading the posted regulation.
 - **Mall-Lowick:** Will work within systems that serve their stated purpose. Ignores systems that do not. Does not find "but it's the law" a complete sentence.
 
 In Brindlemark specifically: the Gatehouse, the Alderman, and Alderman Cray represent a local authority that is practical and relatively unsentimental. The party is broadly compatible with this. They are people who take contracts and do the work; Brindlemark is a place that posts contracts and expects the work done. It is a workable arrangement.
@@ -142,6 +142,6 @@ In Brindlemark specifically: the Gatehouse, the Alderman, and Alderman Cray repr
 - **The Thornwater undeclared consignment.** What was it? Who added it to the manifest? Who were the two parties in Thornwater that were interested in it, and what did they want with it?
 - **Sael's disappearance.** Where did the navigator go? Was it voluntary?
 - **Orrath.** What was the Ashford forge actually producing? Where is Orrath now? What do the sealed Guild records say?
-- **Kilda's network and the cargo loss.** She is owed a reckoning from someone. Who arranged for the undeclared consignment? How does she find out, and what does she do when she does?
+- **Gilda's network and the cargo loss.** She is owed a reckoning from someone. Who arranged for the undeclared consignment? How does she find out, and what does she do when she does?
 - **Cade's divine connection.** His Storm Giant Ancestry is not merely cosmetic. Something in his blood is listening. What, and to what end?
 - **Rixon's discharge.** Honourable in the technical sense. The specific circumstances have not been specified. This is intentional.

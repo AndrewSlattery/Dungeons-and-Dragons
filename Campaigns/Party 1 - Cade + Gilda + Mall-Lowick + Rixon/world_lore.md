@@ -56,9 +56,9 @@ Kelstead is a resource: Corvan is there and knows things, the port chapel sends 
 
 A secondary harbour town north of Kelstead, accessible by a day's sail and a short inland transit. Thornwater is smaller and less prosperous than Kelstead — it services fishing fleets and the occasional merchant vessel, and its harbour authority is the kind of institution that moves slowly and keeps careful records.
 
-This is where Captain Vetha was detained. This is where Kilda's cargo was impounded. The sealed cargo shed is still there, and the impound seal is still in the red wax of the Thornwater Harbour-Masters' mark. Two parties in Thornwater had an interest in the undeclared consignment; neither has been identified. The party left before this could be established.
+This is where Captain Vetha was detained. This is where Gilda's cargo was impounded. The sealed cargo shed is still there, and the impound seal is still in the red wax of the Thornwater Harbour-Masters' mark. Two parties in Thornwater had an interest in the undeclared consignment; neither has been identified. The party left before this could be established.
 
-Thornwater is unfinished business, specifically Kilda's.
+Thornwater is unfinished business, specifically Gilda's.
 
 ### Brindlemark
 
@@ -89,7 +89,7 @@ The Goliaths who came down to Stoneveil Reach a generation ago occupy an ambiguo
 
 ### Dwarves
 
-The Dwarven mountain holds of the region are several days' travel inland and south — old communities built into the bones of the hills, rich in metalwork and precision instruments and the accumulated capital of generations of careful trade. The Dwarven commercial network extends outward along the Fenway and the river routes: Kilda's background is in this network, managing goods between the holds and the Halfling river communities.
+The Dwarven mountain holds of the region are several days' travel inland and south — old communities built into the bones of the hills, rich in metalwork and precision instruments and the accumulated capital of generations of careful trade. The Dwarven commercial network extends outward along the Fenway and the river routes: Gilda's background is in this network, managing goods between the holds and the Halfling river communities.
 
 Dwarves in Fenway port towns are a common sight: merchants, factors, the occasional wizard who found mountain academia too provincial. They carry a reputation for exactness in matters of contract and debt, a reputation that is mostly deserved.
 

@@ -4,10 +4,10 @@
 
 ---
 
-## I. Kilda + Mall-Lowick
+## I. Gilda + Mall-Lowick
 *The Counting House, Kelstead Port — three days before The Grey Cormorant departed*
 
-The room Kilda had taken smelled of brine and rope oil from the harbour two streets over, a smell that no amount of imported candle wax could entirely overcome. She had rented it from a chandler's house — a practical choice, because the chandler owed her a favour from a dispute about wax consignments, and practical choices were the ones she made. Her spellbook was on the desk, closed, beside a brass travelling inkwell and a small locked case. Her quarterstaff was in the corner, dark hardwood with a carved head — not a walking stick, a tool, an arcane focus for a woman who treated magic the way she treated everything else: as an instrument for specific purposes. Her rings caught the grey coastal light from the window. There were six of them across both hands, different metals and weights — gold, iron, one that looked like electrum — none of them decorative for their own sake. Emergency currency, carried where it couldn't be separated from her.
+The room Gilda had taken smelled of brine and rope oil from the harbour two streets over, a smell that no amount of imported candle wax could entirely overcome. She had rented it from a chandler's house — a practical choice, because the chandler owed her a favour from a dispute about wax consignments, and practical choices were the ones she made. Her spellbook was on the desk, closed, beside a brass travelling inkwell and a small locked case. Her quarterstaff was in the corner, dark hardwood with a carved head — not a walking stick, a tool, an arcane focus for a woman who treated magic the way she treated everything else: as an instrument for specific purposes. Her rings caught the grey coastal light from the window. There were six of them across both hands, different metals and weights — gold, iron, one that looked like electrum — none of them decorative for their own sake. Emergency currency, carried where it couldn't be separated from her.
 
 The maps were already on the table. She had weighted the corners: the inkwell, the brass compass, a small lock she kept for the purpose of weighting corners of things.
 
@@ -15,9 +15,9 @@ The door opened. Mall-Lowick arrived.
 
 The Halfling came in at two and a half feet of her, which was a height that allowed her to enter most rooms without ducking but tended to put her at chest level with the furniture. She was slight and quick-eyed, with curly brown hair escaping its leather tie in several directions simultaneously. Three fingers of her right hand were ink-stained at the first joint, and there was a smudge on her left wrist she hadn't noticed. Her studded leather armour was the muted green-brown of things that spent a lot of time outdoors, and her map case — an enormous thing, leather-sealed and weather-proofed — was slung across her back as though it weighed nothing. It contained, by Mall-Lowick's own estimate, several years of her professional life.
 
-She looked at the maps on the table and then at Kilda, and said nothing for a moment.
+She looked at the maps on the table and then at Gilda, and said nothing for a moment.
 
-"The secondary harbour entrance," Kilda said, before Mall-Lowick had finished closing the door.
+"The secondary harbour entrance," Gilda said, before Mall-Lowick had finished closing the door.
 
 "Magnetic variation."
 
@@ -25,23 +25,23 @@ She looked at the maps on the table and then at Kilda, and said nothing for a mo
 
 "It's a documented phenomenon."
 
-"In a tidal approach, four hundred yards is the difference between a successful docking and an interesting report to the Harbour-Masters' board." Kilda moved a finger across the chart, stopping on the disputed notation. "I need it corrected."
+"In a tidal approach, four hundred yards is the difference between a successful docking and an interesting report to the Harbour-Masters' board." Gilda moved a finger across the chart, stopping on the disputed notation. "I need it corrected."
 
 "You need it marked with a note about local compass deviation and re-surveyed with a reference instrument." Mall-Lowick hung her coat. "Which I said at the time."
 
-Kilda looked at her. "You did."
+Gilda looked at her. "You did."
 
 "I did."
 
-This was how Kilda conceded points she couldn't refute: she acknowledged them in the same voice she used for everything else, filed them, and moved on without ceremony. No softening of expression, no apology. Mall-Lowick had come to find it, in its way, more honest than most of the alternatives.
+This was how Gilda conceded points she couldn't refute: she acknowledged them in the same voice she used for everything else, filed them, and moved on without ceremony. No softening of expression, no apology. Mall-Lowick had come to find it, in its way, more honest than most of the alternatives.
 
-"The northern run." Kilda slid a folded contract across the table. "Full coastal profile, both approaches. Same rate as the last commission, less the outstanding balance on the three disputed sections."
+"The northern run." Gilda slid a folded contract across the table. "Full coastal profile, both approaches. Same rate as the last commission, less the outstanding balance on the three disputed sections."
 
 "The three sections are disputed."
 
 "The rate reflects that."
 
-Mall-Lowick unfolded the paper and read it. Through the window, Kelstead Port was getting on with itself: the rattle of chain on chain, the knock of hull on dock, a dockworker somewhere calling out a length of rope. The harbour smell, salt and fish and tar, following it in. On the quayside below, a pair of Dwarven merchants were arguing with a cartman about something that had been misloaded. Kilda's people, in the broad sense — though Kilda would have found that categorisation inexact.
+Mall-Lowick unfolded the paper and read it. Through the window, Kelstead Port was getting on with itself: the rattle of chain on chain, the knock of hull on dock, a dockworker somewhere calling out a length of rope. The harbour smell, salt and fish and tar, following it in. On the quayside below, a pair of Dwarven merchants were arguing with a cartman about something that had been misloaded. Gilda's people, in the broad sense — though Gilda would have found that categorisation inexact.
 
 "There's a formation," Mall-Lowick said, without looking up from the contract. "About a day's sail north. The Cormorant Stack." She set the paper down. "I've been trying to get the correct bearing on it for a year and a half. The contract route takes me past it twice."
 
@@ -54,7 +54,7 @@ Mall-Lowick unfolded the paper and read it. Through the window, Kelstead Port wa
 ## II. Cade + Mall-Lowick
 *The Grey Cormorant, day four — passing the Cormorant Stack*
 
-The formation had no agreed name. Mall-Lowick called it the Cormorant Stack; the name on Kilda's chart, which Mall-Lowick considered wrong for three separate reasons, was Breaker's Head. It was a long, ragged face of dark stone where the cliff dropped straight into the sea, carved at the waterline — over more centuries than anyone had counted — into a row of sea arches. Four of them, the largest spanning perhaps forty feet, the smallest a mere crack of light through the rock. She had a partial bearing on the site from two years ago, corrected by estimate, that she did not trust. She needed new data, and new data required elevation.
+The formation had no agreed name. Mall-Lowick called it the Cormorant Stack; the name on Gilda's chart, which Mall-Lowick considered wrong for three separate reasons, was Breaker's Head. It was a long, ragged face of dark stone where the cliff dropped straight into the sea, carved at the waterline — over more centuries than anyone had counted — into a row of sea arches. Four of them, the largest spanning perhaps forty feet, the smallest a mere crack of light through the rock. She had a partial bearing on the site from two years ago, corrected by estimate, that she did not trust. She needed new data, and new data required elevation.
 
 The shrouds of *The Grey Cormorant* put her high enough: two-thirds of the way up the port side, one foot braced against a ratline, one hand gripping a stay, her other hand pressing a folded piece of oilskin paper against her knee while she worked with a stick of charcoal. The longbow was down on the deck — she'd left it there because it was impractical to carry at elevation, which was a concession she'd made without being asked.
 
@@ -94,7 +94,7 @@ She looked at him briefly. He sounded, she thought, like someone who had been wa
 
 ---
 
-## III. Cade + Kilda
+## III. Cade + Gilda
 *Below decks, The Grey Cormorant, day seven*
 
 The mess smelled of salt pork and damp wood and tallow, and it was low-ceilinged enough that Cade navigated it with the particular care of a man who had learned, through repetition, exactly where every beam was. The lantern swung with the ship's movement, making shadows move in the corners.
@@ -105,7 +105,7 @@ Cade was already there. He had his Priest's Pack open on the bench: grey canvas,
 
 Pell, who had come in rigid, slowly stopped being either rigid or embarrassed.
 
-Kilda arrived for her manifests and found the scene already in progress. She was in her merchant robes — the dark velvet was slightly wrong for a working ship, but the difference between overdressed and authoritative in commerce was a matter of conviction, and conviction was something she had in quantity. Her rings caught the lantern light as she sat down. Her spellbook was with her in its case, and she set it on the bench and opened her manifest folder and began to read.
+Gilda arrived for her manifests and found the scene already in progress. She was in her merchant robes — the dark velvet was slightly wrong for a working ship, but the difference between overdressed and authoritative in commerce was a matter of conviction, and conviction was something she had in quantity. Her rings caught the lantern light as she sat down. Her spellbook was with her in its case, and she set it on the bench and opened her manifest folder and began to read.
 
 She read the same line four times.
 
@@ -113,7 +113,7 @@ Cade wrapped Pell's hand neatly, then found a grease burn on the forearm he hadn
 
 Cade sat down with a cup of barley that someone had left covered on the bench.
 
-"He's not your crew," Kilda said.
+"He's not your crew," Gilda said.
 
 "No."
 
@@ -125,7 +125,7 @@ She waited. He drank his barley without adding anything.
 
 "That's not a complete answer," she said.
 
-He looked at her across the table. She was watching him with the same attention she gave to manifests — reading for information, not for sentiment. He had noticed, over seven days of the voyage, that Kilda observed things carefully and said very little about what she observed. This was a quality he recognised. It was not the same quality as his own, but he understood it.
+He looked at her across the table. She was watching him with the same attention she gave to manifests — reading for information, not for sentiment. He had noticed, over seven days of the voyage, that Gilda observed things carefully and said very little about what she observed. This was a quality he recognised. It was not the same quality as his own, but he understood it.
 
 "It wasn't meant to be," he said. "His hand will be fine. He'll be cooking tomorrow."
 
@@ -135,7 +135,7 @@ He looked at her across the table. She was watching him with the same attention 
 
 He said it without heat, without the particular quality of someone making a point. Just a fact, delivered plainly. It had the texture of something he'd stopped defending a long time ago.
 
-Kilda returned to her manifests. She made a note in the margin — a small thing, the kind of notation she made when she was thinking about something other than the document. He didn't ask what she was writing. The ship moved around them, the lantern swung, and the smell of salt pork had a quality of permanence, as though it had been there before the ship was built.
+Gilda returned to her manifests. She made a note in the margin — a small thing, the kind of notation she made when she was thinking about something other than the document. He didn't ask what she was writing. The ship moved around them, the lantern swung, and the smell of salt pork had a quality of permanence, as though it had been there before the ship was built.
 
 After a while: "I find that position genuinely difficult to locate a flaw in," she said, as though continuing a conversation that had only been happening in her head. "That isn't the same as agreeing with it."
 
@@ -184,10 +184,10 @@ They stood the rest of the watch in the ordinary silence of a cold night at sea,
 
 ---
 
-## V. Kilda + Rixon
+## V. Gilda + Rixon
 *Thornwater quay, two hours after Vetha's detention*
 
-The impound seal on the cargo shed was Thornwater red wax, the Harbour-Masters' mark, still soft at one edge. Kilda had read it from fifteen feet without moving closer, because moving closer would appear in a clerk's ledger under someone's name. A Dwarf in dark velvet robes examining an impound seal on the Thornwater quayside was the kind of image that did not go unrecorded.
+The impound seal on the cargo shed was Thornwater red wax, the Harbour-Masters' mark, still soft at one edge. Gilda had read it from fifteen feet without moving closer, because moving closer would appear in a clerk's ledger under someone's name. A Dwarf in dark velvet robes examining an impound seal on the Thornwater quayside was the kind of image that did not go unrecorded.
 
 She had moved instead to the harbour wall, which was the correct place to stand when you wanted to look like you were watching the boats. She was watching the boats. She was also watching the warehouses to her right, the impound seal, the distance to the market gate, and the light, which was flat and grey and had the quality of a northern afternoon that had committed to nothing.
 
@@ -211,7 +211,7 @@ A beat while he processed this — not the content, which she suspected he'd ass
 
 "Yes."
 
-A fishing vessel dragged past the harbour mouth on its way in, trailing net. The sky above it was the particular grey of a Fenway coastal afternoon. Kilda's rings caught what light there was — gold, iron, the electrum one, emergency currency worn where it couldn't be separated from her. She was quietly calculating whether they would become relevant to the next twelve hours.
+A fishing vessel dragged past the harbour mouth on its way in, trailing net. The sky above it was the particular grey of a Fenway coastal afternoon. Gilda's rings caught what light there was — gold, iron, the electrum one, emergency currency worn where it couldn't be separated from her. She was quietly calculating whether they would become relevant to the next twelve hours.
 
 "The cargo is legitimate," she said. "Every item I can document. The difficulty is that a magistrate's process in a town where I have no relationships runs a week at minimum, and by that point whatever was in the additional consignment will have been associated with the vessel that brought it in."
 
@@ -221,9 +221,9 @@ A fishing vessel dragged past the harbour mouth on its way in, trailing net. The
 
 "There's a track west that doesn't cross the main road." He moved his eyes across the quay — the winch housing, the woman and the cart, the sealed shed, the harbour mouth — in a sweep that took approximately three seconds. "Your cartographer will know the terrain."
 
-Kilda had reached this conclusion at approximately the same moment. She found it, in its way, reassuring rather than irritating. There were people who were useful in a problem and people who were a component of the problem, and knowing quickly which category applied was its own form of intelligence.
+Gilda had reached this conclusion at approximately the same moment. She found it, in its way, reassuring rather than irritating. There were people who were useful in a problem and people who were a component of the problem, and knowing quickly which category applied was its own form of intelligence.
 
-"She'll know it," Kilda said. "I'll find her."
+"She'll know it," Gilda said. "I'll find her."
 
 "The Goliath?"
 

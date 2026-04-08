@@ -29,12 +29,12 @@ Morally grey NPCs. Practical problems. The occasional brush with something genui
 |---|---|---|---|---|
 | Cade | Goliath | Cleric 1 | Healer / Brawler | Lawful Good |
 | Rixon | Human | Fighter 1 | Tank / Initiative Anchor | Neutral Good |
-| Kilda | Dwarf | Wizard 1 | Blaster / Investigator | True Neutral |
+| Gilda | Dwarf | Wizard 1 | Blaster / Investigator | True Neutral |
 | Mall-Lowick | Halfling | Ranger 1 | Scout / Controller | Chaotic Good |
 
-**The party's moral axis:** Cade anchors Good firmly; Kilda anchors Neutral firmly; Rixon and Mall-Lowick are both Good but by different routes and with different thresholds. Most ethical decisions fall to Rixon as swing vote between Cade's principles and Kilda's calculus.
+**The party's moral axis:** Cade anchors Good firmly; Gilda anchors Neutral firmly; Rixon and Mall-Lowick are both Good but by different routes and with different thresholds. Most ethical decisions fall to Rixon as swing vote between Cade's principles and Gilda's calculus.
 
-**The party's tactical shape:** Rixon holds the line (AC 18, Sap mastery, Second Wind). Cade keeps him standing (Healing Word, Shield of Faith). Mall-Lowick controls the field (Entangle, Hunter's Mark, Alert swap recipient). Kilda punishes positioned enemies (Chromatic Orb, Thunderwave, Mind Sliver into save chains).
+**The party's tactical shape:** Rixon holds the line (AC 18, Sap mastery, Second Wind). Cade keeps him standing (Healing Word, Shield of Faith). Mall-Lowick controls the field (Entangle, Hunter's Mark, Alert swap recipient). Gilda punishes positioned enemies (Chromatic Orb, Thunderwave, Mind Sliver into save chains).
 
 ---
 
@@ -54,18 +54,18 @@ Morally grey NPCs. Practical problems. The occasional brush with something genui
 - **The demimonde.** Rixon moves through the underworld of mercenaries, fixers, and operators as a native. Populate this world with recurring contacts: people who know him, people who owe him, people he owes. This is his social infrastructure and it should feel inhabited.
 - **Knavebones.** The gaming set is a social instrument. It gets him into back rooms, into trust, into conversations that don't happen in the common room. Use it as an entry point to information and NPCs.
 
-### Kilda
+### Gilda
 
 - **The Thornwater consignment.** Someone added an undeclared cargo to her manifest without her knowledge or consent. She is owed a reckoning. Finding out who arranged this — and what they wanted badly enough to jeopardise her entire commercial operation — is her primary unresolved thread.
 - **The cargo loss.** Her legitimate goods are impounded in Thornwater. Her merchant network is disrupted. She is running on limited liquid funds while this resolves. The financial pressure is real and informs her attitude toward every contract.
 - **The map disputes with Mall-Lowick.** Three unresolved cartographic points from their prior commission. None of them have conceded anything. Both are right about at least one of the three. This is background texture that surfaces at quiet moments and tells you something about how both of them operate.
-- **Chromatic Orb material component.** The spell requires a gem worth at least 50 GP. Confirm whether Kilda is carrying one. If not, the spell is currently uncastable — she has Thunderwave as her primary damage slot instead.
+- **Chromatic Orb material component.** The spell requires a gem worth at least 50 GP. Confirm whether Gilda is carrying one. If not, the spell is currently uncastable — she has Thunderwave as her primary damage slot instead.
 
 ### Mall-Lowick
 
 - **The Cormorant Stack.** She finally has a usable bearing from day four of the *Grey Cormorant* voyage. The partial notes from two years ago can now be triangulated into something she trusts. This won't come up mechanically, but it matters to her — it's the kind of small professional satisfaction that defines who she is.
 - **The Kelstead-to-Brindlemark survey.** Her notes on this stretch of country are incomplete. She's going to fill them in. This creates natural opportunities: she will always be interested in terrain features, landmarks, and anything cartographically significant. Let her find things.
-- **The map disputes.** See Kilda above. Mall-Lowick's position is that she is right about all three points and finds Kilda's objections to be matters of commercial preference masquerading as cartographic standards. This is also not entirely wrong.
+- **The map disputes.** See Gilda above. Mall-Lowick's position is that she is right about all three points and finds Gilda's objections to be matters of commercial preference masquerading as cartographic standards. This is also not entirely wrong.
 
 ---
 
@@ -85,20 +85,20 @@ Rixon adds his Proficiency Bonus (+2) to Initiative rolls, giving him +1 net (DE
 - **Healing Word (Cade):** Bonus Action, 60 ft range, **2d4 + 3 HP**. Not Cure Wounds. The BA cast is what makes Cade irreplaceable — he can heal and still act.
 - **Shield of Faith (Cade):** Bonus Action, Concentration, 10 min. +2 AC to one creature. Default target: Rixon (18 → 20 AC). Breaks if Cade loses concentration.
 - **Storm Giant Ancestry (Cade):** Reaction, 2/LR. When Cade takes damage, deals 1d8 Thunder to the attacker within 30 ft. Remember this exists.
-- **Mind Sliver (Kilda):** No save required for the action — INT save for the 1d6 damage and −1d4 debuff on the target's *next* saving throw. Use before Cade's Command or Mall-Lowick's Ensnaring Strike for best effect. The debuff applies to the very next save, so the follow-up must be immediate.
-- **Thunderwave (Kilda):** CON save DC 13, 2d8 Thunder damage, 10 ft push, 15 ft cube. **Never cast when Rixon or Cade is in range.** Establish a standing protocol.
+- **Mind Sliver (Gilda):** No save required for the action — INT save for the 1d6 damage and −1d4 debuff on the target's *next* saving throw. Use before Cade's Command or Mall-Lowick's Ensnaring Strike for best effect. The debuff applies to the very next save, so the follow-up must be immediate.
+- **Thunderwave (Gilda):** CON save DC 13, 2d8 Thunder damage, 10 ft push, 15 ft cube. **Never cast when Rixon or Cade is in range.** Establish a standing protocol.
 - **Hunter's Mark (Mall-Lowick):** Bonus Action, Concentration, free 2/LR. Extra 1d6 Force on all attacks against the marked target. Moving the mark to a new target costs another Bonus Action. Breaks if Mall-Lowick loses concentration.
 - **Entangle (Mall-Lowick):** Action, Concentration, STR save DC 12, 20 ft square. Sets up Advantage for all melee attackers against Restrained targets.
 - **Shield (Rixon):** Reaction, +5 AC and Magic Missile immunity until the start of his next turn. 1 free cast per Long Rest. Use *after* a hit is confirmed — not preemptively.
 - **Blade Ward (Rixon):** Concentration cantrip, Action. Attackers subtract 1d4 from attack rolls against him for 1 minute. Costs his action; best in static chokepoint situations. Concentration — can stack with Shield of Faith if Cade targets him, since it's two different people concentrating.
-- **Mage Armour (Kilda):** 8-hour duration, AC 15. If Kilda is dropped to 0 HP and stabilised, this drops and must be recast. Check at the start of every encounter.
+- **Mage Armour (Gilda):** 8-hour duration, AC 15. If Gilda is dropped to 0 HP and stabilised, this drops and must be recast. Check at the start of every encounter.
 
 ### Resources Per Long Rest
 
 | Resource | Character | Amount | Refresh On |
 |---|---|---|---|
 | Spell Slots (Lvl 1) | Cade | 2 | Long Rest |
-| Spell Slots (Lvl 1) | Kilda | 2 (+ 1 via Arcane Recovery) | Long Rest / Short Rest |
+| Spell Slots (Lvl 1) | Gilda | 2 (+ 1 via Arcane Recovery) | Long Rest / Short Rest |
 | Spell Slots (Lvl 1) | Mall-Lowick | 2 | Long Rest |
 | Healing Word uses | Cade | Unlimited (uses slots) | — |
 | Shield of Faith | Cade | Unlimited (uses slots) | — |
@@ -106,10 +106,10 @@ Rixon adds his Proficiency Bonus (+2) to Initiative rolls, giving him +1 net (DE
 | Second Wind | Rixon | 2 (recover 1 on SR) | Long Rest |
 | Shield (free cast) | Rixon | 1 | Long Rest |
 | Storm Giant Ancestry | Cade | 2 | Long Rest |
-| Lucky Points | Kilda | 2 | Long Rest |
+| Lucky Points | Gilda | 2 | Long Rest |
 | Heroic Inspiration | Rixon | 1 | Long Rest |
 
-**Short Rest value:** Kilda recovers one Level 1 slot (Arcane Recovery, once/day); Rixon recovers one Second Wind charge. A Short Rest after Kilda has spent at least one slot is always worthwhile for two party members simultaneously.
+**Short Rest value:** Gilda recovers one Level 1 slot (Arcane Recovery, once/day); Rixon recovers one Second Wind charge. A Short Rest after Gilda has spent at least one slot is always worthwhile for two party members simultaneously.
 
 ---
 

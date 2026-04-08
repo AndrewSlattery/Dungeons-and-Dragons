@@ -71,6 +71,32 @@
     ]
   },
   {
+    "name": "Contender",
+    "description": "Your early life was defined by the sand of the arena and the roar of the crowd, trading blows in grand coliseums or illicit fighting pits. You might have fought for the promise of glory, the clink of coin, or sheer survival. These brutal bouts taught you how to strike with vicious precision, and that every battle is fundamentally a performance.",
+    "abilityScores": ["Strength", "Wisdom", "Charisma"],
+    "originFeat": "Savage Attacker",
+    "skillProficiencies": ["Athletics", "Performance"],
+    "toolProficiency": "Leatherworker's Tools",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Spear" },
+          { "item": "Net" },
+          { "item": "Leatherworker's Tools" },
+          { "item": "Healer's Kit" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 14 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
     "name": "Criminal",
     "description": "You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and more fearsome lawbreakers.",
     "abilityScores": ["Dexterity", "Constitution", "Intelligence"],
@@ -229,6 +255,32 @@
     ]
   },
   {
+    "name": "Medic",
+    "description": "You spent your early years elbow-deep in bandages and salves, learning the healing arts through grueling practice rather than divine prayer. Perhaps you followed a mercenary company from battle to battle, or tended to the afflicted in a bustling city clinic. The long hours of treating the sick and wounded left you with a sharp eye for ailments and steady hands amidst chaos.",
+    "abilityScores": ["Strength", "Constitution", "Intelligence"],
+    "originFeat": "Healer",
+    "skillProficiencies": ["Medicine", "Investigation"],
+    "toolProficiency": "Herbalism Kit",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Herbalism Kit" },
+          { "item": "Healer's Kit" },
+          { "item": "Sickle" },
+          { "item": "Book", "note": "anatomy" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 12 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
     "name": "Merchant",
     "description": "You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their craft or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.",
     "abilityScores": ["Constitution", "Intelligence", "Charisma"],
@@ -266,6 +318,59 @@
           { "item": "Fine Clothes" },
           { "item": "Perfume" },
           { "gp": 29 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Rebel",
+    "description": "You grew up pushing back against the heavy hand of authority, whether resisting a cruel local magistrate or refusing to back down from the city watch. You might have been a charismatic voice for the downtrodden or a scrappy instigator of street brawls. Taking your share of beatings taught you how to read a tense room, sway a furious crowd, and daub a slogan on the right wall at the right time.",
+    "abilityScores": ["Strength", "Constitution", "Charisma"],
+    "originFeat": "Tavern Brawler",
+    "skillProficiencies": ["Persuasion", "Insight"],
+    "toolProficiency": "Painter's Supplies",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Painter's Supplies" },
+          { "item": "Light Hammer", "quantity": 2 },
+          { "item": "Crowbar" },
+          { "item": "Parchment", "quantity": 10 },
+          { "item": "Bedroll" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 30 }
+        ]
+      },
+      {
+        "option": "B",
+        "items": [{ "gp": 50 }]
+      }
+    ]
+  },
+  {
+    "name": "Envoy",
+    "description": "You were dispatched to foreign courts or hostile encampments to broker truces and safeguard your patron's interests where a careless word could start a war. You learned to appraise the worth of a diplomatic gift at a glance, draw on the history behind every dispute, and apply pressure when negotiations stalled. The long roads through bandit country and unforgiving wilderness hardened you in ways that life at court never would.",
+    "abilityScores": ["Dexterity", "Intelligence", "Charisma"],
+    "originFeat": "Tough",
+    "skillProficiencies": ["History", "Intimidation"],
+    "toolProficiency": "Jeweler's Tools",
+    "homebrew": true,
+    "startingEquipment": [
+      {
+        "option": "A",
+        "items": [
+          { "item": "Jeweler's Tools" },
+          { "item": "Fine Clothes" },
+          { "item": "Dagger" },
+          { "item": "Perfume" },
+          { "item": "Traveler's Clothes" },
+          { "gp": 1 }
         ]
       },
       {
@@ -393,109 +498,6 @@
           { "item": "Pouch", "quantity": 2 },
           { "item": "Traveler's Clothes" },
           { "gp": 16 }
-        ]
-      },
-      {
-        "option": "B",
-        "items": [{ "gp": 50 }]
-      }
-    ]
-  },
-  {
-    "name": "Medic",
-    "description": "You trained under a physic, a battlefield surgeon, or a guild of chirurgeons, learning medicine through practice rather than prayer. Where others saw wounds, you saw problems to be solved — with blade, compound, or compression. You learned to work quickly under pressure, to read a body the way a scholar reads a page, and to keep your hands steady when everything else was falling apart.",
-    "abilityScores": ["Strength", "Constitution", "Intelligence"],
-    "originFeat": "Healer",
-    "skillProficiencies": ["Medicine", "Investigation"],
-    "toolProficiency": "Alchemist's Supplies",
-    "homebrew": true,
-    "startingEquipment": [
-      {
-        "option": "A",
-        "items": [
-          { "item": "Alchemist's Supplies" },
-          { "item": "Healer's Kit" },
-          { "item": "Sickle" },
-          { "item": "Book", "note": "anatomy" },
-          { "item": "Traveler's Clothes" },
-          { "gp": 3 }
-        ]
-      },
-      {
-        "option": "B",
-        "items": [{ "gp": 50 }]
-      }
-    ]
-  },
-  {
-    "name": "Rebel",
-    "description": "You were always a problem for whoever was in charge, whether you were organizing a righteous labor strike or just breaking windows for the sheer thrill of the chaos. You spent your youth inciting tavern brawls, leading street gangs, and learning how to read a room's tension to find exactly the right words to light the fuse. You took your share of truncheon blows staying in the fight—and you learned how to convince a furious mob that you were exactly the person they should follow.",
-    "abilityScores": ["Strength", "Constitution", "Charisma"],
-    "originFeat": "Tavern Brawler",
-    "skillProficiencies": ["Persuasion", "Insight"],
-    "toolProficiency": "Thieves' Tools",
-    "homebrew": true,
-    "startingEquipment": [
-      {
-        "option": "A",
-        "items": [
-          { "item": "Thieves' Tools" },
-          { "item": "Handaxe", "quantity": 2 },
-          { "item": "Bedroll" },
-          { "item": "Traveler's Clothes" },
-          { "gp": 15 }
-        ]
-      },
-      {
-        "option": "B",
-        "items": [{ "gp": 50 }]
-      }
-    ]
-  },
-  {
-    "name": "Contender",
-    "description": "You made your living shedding blood for the roar of a crowd, whether in the grand arenas of a city or the illicit fighting pits of the underworld. You survived not by being the strongest fighter in the ring, but by reading your opponents and knowing exactly what kind of spectacle the audience needed to see. You may have fought for glory, for coin, or for reasons less noble than either—but you learned that every battle is a performance.",
-    "abilityScores": ["Strength", "Wisdom", "Charisma"],
-    "originFeat": "Savage Attacker",
-    "skillProficiencies": ["Athletics", "Performance"],
-    "toolProficiency": "Leatherworker's Tools",
-    "homebrew": true,
-    "startingEquipment": [
-      {
-        "option": "A",
-        "items": [
-          { "item": "Spear" },
-          { "item": "Net" },
-          { "item": "Leatherworker's Tools" },
-          { "item": "Healer's Kit" },
-          { "item": "Traveler's Clothes" },
-          { "gp": 14 }
-        ]
-      },
-      {
-        "option": "B",
-        "items": [{ "gp": 50 }]
-      }
-    ]
-  },
-  {
-    "name": "Courtier",
-    "description": "You learned early that the most dangerous place in any kingdom is the room where decisions are made. Whether as a spy behind borrowed finery or a confidant with a hidden agenda, you navigated webs of alliance built on centuries of grudge and ambition. You learned to lie to powerful people with perfect composure—and to survive the costs when the lie wasn't enough.",
-    "abilityScores": ["Dexterity", "Intelligence", "Charisma"],
-    "originFeat": "Tough",
-    "skillProficiencies": ["Deception", "History"],
-    "toolProficiency": "Disguise Kit",
-    "homebrew": true,
-    "startingEquipment": [
-      {
-        "option": "A",
-        "items": [
-          { "item": "Disguise Kit" },
-          { "item": "Fine Clothes" },
-          { "item": "Perfume" },
-          { "item": "Dagger" },
-          { "item": "Book", "note": "arcane formulae" },
-          { "gp": 2 }
         ]
       },
       {

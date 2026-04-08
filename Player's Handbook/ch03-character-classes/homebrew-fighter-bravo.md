@@ -28,6 +28,6 @@ Whenever a creature misses you with an attack roll, you gain a bonus to attack r
 
 #### LEVEL 18: LETHAL PRAGMATISM
 
-When you hit a creature with a weapon attack, you can maximize the weapon's damage dice for that attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), regaining all expended uses when you finish a Short or Long Rest.
+When you hit a creature with a weapon attack, you can maximize the damage dice for that attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), regaining all expended uses when you finish a Short or Long Rest.
 
 Using this feature doesn't expend a use if the target has the Blinded, Grappled, Incapacitated, or Restrained condition.
