@@ -236,9 +236,9 @@ Neither of them said anything further about it. They stood at the harbour wall a
 ---
 
 ## VI. Rixon + Mall-Lowick
-*The overland track, hill country north of the Fenway road — day two of three*
+*The overland track, coastal scrub north of the Fenway road — day two of three*
 
-The country north of the Fenway road was hill grass and scrub oak and wet limestone pushing through the surface, ground still soft from two days of rain. The main road was a mile south and below them; in the wrong wind they could hear it distantly, the sound of carts, which was the sound of other people going in the wrong direction.
+The rough ground north of the Fenway road was scrub grass and wind-bent oak and wet limestone pushing through the surface, ground still soft from two days of rain. The main road was a mile south and below them; in the wrong wind they could hear it distantly, the sound of carts, which was the sound of other people going in the wrong direction.
 
 Mall-Lowick moved through the scrub like she was made for it, which in certain specific respects she was. A Halfling in studded leather the colour of dead bracken could get through undergrowth at a pace that made no sense relative to her dimensions, and the leather made no sound of consequence. The longbow across her back was almost as long as she was tall, and she'd long since stopped noticing it. Beside it, her map case. In her right hand, her charcoal. Her notes were already open in her left.
 

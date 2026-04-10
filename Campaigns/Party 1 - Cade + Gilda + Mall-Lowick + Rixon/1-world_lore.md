@@ -14,7 +14,7 @@ The tone is low-fantasy in focus, not in fact. The wider world is genuinely extr
 
 The campaign begins in the Fenway coastal region: a long stretch of settled country running east–west along the Fenway road, with the sea to the north and wilder hill country to the south. This is agricultural and mercantile territory — old enough to be settled, prosperous enough to be comfortable, unglamorous enough to be overlooked by the grander stories.
 
-The landscape: grey-green hills, scrub oak and limestone outcrops in the uplands, flat arable country nearer the coast. The sea to the north is cold and reliable and smells of brine and fish. The sky is often overcast. Rain is a structural feature of the climate rather than a weather event.
+The landscape: grey-green hills, scrub oak and limestone outcrops in the uplands, flat arable country nearer the coast. Between the Fenway road and the sea, a strip of rough coastal ground — wind-bent scrub, wet limestone, broken bluffs cut by streams running north to the water — separates the settled road from the shore. This is not the wilder hill country of the south; it is exposed, salt-scoured terrain that the road was built to avoid. The sea to the north is cold and reliable and smells of brine and fish. The sky is often overcast. Rain is a structural feature of the climate rather than a weather event.
 
 Communities along the Fenway are connected by trade and road and a shared practical culture: pragmatic hospitality, cautious welcome to strangers, strong opinions about fair dealing. They are not naive about the wider world's dangers — the walls of Brindlemark are old but maintained for a reason — but their day-to-day concerns are grain harvests, market prices, and the reliability of the roads.
 

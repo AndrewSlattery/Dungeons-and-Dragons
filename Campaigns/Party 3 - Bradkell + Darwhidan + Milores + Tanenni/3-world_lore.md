@@ -12,7 +12,7 @@ The tone is heist fiction, not epic fantasy. The extraordinary is present --- so
 
 ## Corraith --- The City
 
-Corraith sits at the junction of the **River Thane** and the **Mirrenmere**, a broad tidal estuary that connects the city to the sea twelve miles south. The river divides the city roughly in half: the western bank rises steeply to the bluffs where the noble estates and the great temples occupy the high ground; the eastern bank spreads flat along the floodplain where the docks, the warehouses, the industrial works, and the lower-city districts have accumulated over centuries of commerce.
+Corraith sits at the junction of the **River Thane** and the **Mirrenmere**, a broad tidal estuary that connects the city to the sea twelve miles south. The coastline continues north beyond the city, curving around the promontory toward the more remote northern reaches --- cliff country above the water, where the land is rural and the settlements are few. The river divides the city roughly in half: the western bank rises steeply to the bluffs where the noble estates and the great temples occupy the high ground; the eastern bank spreads flat along the floodplain where the docks, the warehouses, the industrial works, and the lower-city districts have accumulated over centuries of commerce.
 
 Population: approximately 90,000, though the number shifts with the season --- the harbour trade swells the lower city in summer, and the winter court draws the aristocracy back from their country estates. The city is old enough that its walls have been rebuilt three times, each circuit larger than the last, and the oldest stonework --- visible in the foundations of the Thorngate temples --- predates any living institution's records.
 

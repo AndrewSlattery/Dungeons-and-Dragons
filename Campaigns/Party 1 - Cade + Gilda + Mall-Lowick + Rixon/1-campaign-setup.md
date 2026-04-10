@@ -66,7 +66,7 @@ The voyage ended at Thornwater's secondary harbour on schedule.
 
 This left Gilda, Mall-Lowick, Cade, and Rixon in Thornwater: employed by a detained captain, with impounded goods, in a town where they had no connections and at least two sets of interested parties who now knew they had been on the ship.
 
-They left Thornwater together. This was practical rather than sentimental. Gilda had the resources to move quickly; Rixon had the instincts to move quietly; Mall-Lowick knew the terrain north of Thornwater and had a route back to the Fenway that avoided the main road; Cade had the Healing Word and the Guidance and the steadiness that none of the others would admit to finding useful. They reached Kelstead Port by a back route in three days.
+They left Thornwater together. This was practical rather than sentimental. Gilda had the resources to move quickly; Rixon had the instincts to move quietly; Mall-Lowick knew the coastal scrub between Thornwater and the Fenway from her cartographic work and had a route back that avoided the main road; Cade had the Healing Word and the Guidance and the steadiness that none of the others would admit to finding useful. They reached Kelstead Port by a back route in three days.
 
 Sael was not there when they arrived. Corvan had no information about where Sael had gone — only that the message Cade had left at the port chapel had been collected but not answered. Brynn's ketch was a week out; no contact possible. Whatever had happened to Sael, it had happened after the *Grey Cormorant* left for Thornwater, and the trail, such as it was, was cold.
 
