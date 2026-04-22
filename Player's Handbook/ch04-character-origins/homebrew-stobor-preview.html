@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Stobor Traits</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Cinzel:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --parchment: #F3E9D2;
+    --ink: #1E1813;
+    --accent: #7A2016;
+    --accent-soft: #9A3A28;
+    --row-shade: #C4DCDA;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background:
+      radial-gradient(ellipse at top, #F7EEDA 0%, #EADFC2 60%, #DCCFAC 100%);
+    color: var(--ink);
+    font-family: 'Vollkorn', 'Garamond', Georgia, serif;
+  }
+
+  /* WIDENED BOUNDS AND REDUCED EXTERNAL EMPTY SPACE */
+  .page {
+    max-width: 960px;
+    min-width: 720px;
+    margin: 12px auto;
+    padding: 20px 28px 24px;
+    background:
+      linear-gradient(180deg, rgba(255,255,255,0.35) 0%, rgba(255,255,255,0) 30%),
+      var(--parchment);
+    border: 1px solid #C9B98E;
+    box-shadow:
+      0 2px 0 rgba(0,0,0,0.04),
+      0 10px 30px rgba(60,40,20,0.18),
+      inset 0 0 60px rgba(180,140,80,0.08);
+    position: relative;
+  }
+
+  /* DENSER LAYOUT */
+  .content-columns {
+    column-count: 2;
+    column-gap: 1.6em;
+    column-rule: none;
+    font-size: 1.02em;
+    line-height: 1.15;
+    text-align: justify;
+    hyphens: none;
+  }
+  .content-columns p {
+    margin: 0 0 0.25em 0;
+    text-indent: 1em;
+    break-inside: avoid-column;
+  }
+  .content-columns p.first {
+    text-indent: 0;
+  }
+  .content-columns .trait-name {
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  h1.traits-title {
+    font-family: 'Cinzel', 'Vollkorn', serif;
+    font-variant: small-caps;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+    font-size: 1.7em;
+    font-weight: 600;
+    margin: 0 0 4px 0;
+    line-height: 1.05;
+    break-after: avoid-column;
+  }
+
+  h1.species-title {
+    font-family: 'Cinzel', 'Vollkorn', serif;
+    font-variant: small-caps;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+    font-size: 2.1em;
+    font-weight: 700;
+    margin: 0 0 6px 0;
+    line-height: 1.05;
+    break-after: avoid-column;
+  }
+
+  h3.lineage-sub {
+    font-family: 'Cinzel', 'Vollkorn', serif;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    font-size: 1.0em;
+    font-weight: 700;
+    margin: 4px 0 2px 0;
+    line-height: 1.1;
+    text-indent: 0;
+  }
+
+  .lineage-block {
+    break-inside: avoid-column;
+    margin: 0 0 0.25em 0;
+  }
+  .lineage-block p {
+    margin: 0;
+  }
+
+  /* DENSER GRID LAYOUT */
+  .lore-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.6em;
+    font-size: 1.02em;
+    line-height: 1.15;
+    text-align: justify;
+    hyphens: none;
+  }
+  .lore-grid > .lore-col > p {
+    margin: 0 0 0.25em 0;
+    text-indent: 1em;
+  }
+  .lore-grid > .lore-col > p.first {
+    text-indent: 0;
+  }
+
+  .stats {
+    margin: 0 0 6px 0;
+    line-height: 1.15;
+    text-align: left;
+    text-indent: 0;
+    break-after: avoid-column;
+  }
+  .stats p {
+    margin: 0 0 1px 0;
+    text-indent: 0;
+  }
+  .stats .label {
+    font-weight: 700;
+  }
+
+  p.intro {
+    text-indent: 0;
+    margin-top: 2px;
+  }
+
+  h2.table-title {
+    font-family: 'Cinzel', 'Vollkorn', serif;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    font-size: 1.05em;
+    font-weight: 600;
+    margin: 2px 0 2px 0;
+  }
+
+  /* DENSER TABLE */
+  table.lineages {
+    width: auto;
+    margin: 0;
+    border-collapse: collapse;
+    font-size: 1em;
+    line-height: 1.15;
+  }
+  table.lineages thead th {
+    text-align: left;
+    font-weight: 700;
+    padding: 2px 14px 3px 14px;
+    background: transparent;
+    color: var(--ink);
+    border: none;
+    font-style: normal;
+    white-space: nowrap;
+  }
+  table.lineages tbody td {
+    padding: 3px 14px;
+    vertical-align: top;
+    white-space: nowrap;
+  }
+  table.lineages tbody tr:nth-child(odd) td {
+    background: var(--row-shade);
+  }
+  table.lineages tbody td:first-child {
+    font-weight: 400;
+  }
+  table.lineages em {
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <div class="lore-grid">
+    <div class="lore-col">
+      <h1 class="species-title">Stobor</h1>
+      <p class="first">Stobor (pronounced STOH-bor) are mortals descended from awakened facsimiles of people. Whether their ancestors were clay tomb sentinels raised by priest-kings, wooden puppets animated by fey tricksters, or porcelain dolls infused with life, that animating magic eventually settled into true flesh and blood.</p>
+      <p>Stobor are born, age, and die like other humanoids, living for up to two centuries, yet their bodies bear the unmistakable hallmarks of their crafted origins. A Stobor's skin might possess the sheen of glazed ceramic or the faint grain of carved wood, wearing over time to a polished finish like a well-handled antique. Their bones and joints are impossibly precise, and their ability to remain unnervingly still for hours at a time reveals their artificial heritage.</p>
+      <p>Many Stobor communities are found in the oldest districts of sprawling cities, clustering in the trading quarters, workshops, and temple wards where their ancestors were once put to use.</p>
+    </div>
+    <div class="lore-col">
+      <p class="first">A Stobor chooses whether to embrace or adapt the ancestral magic of their crafted lineage. The three lineages are described below.</p>
+
+      <div class="lineage-block">
+        <h3 class="lineage-sub">Faience</h3>
+        <p class="first">Stobor who have the faience lineage heed the pristine magic of glass figurines and porcelain dolls. Their physical features often possess an uncanny perfection, with vivid coloration on their cheeks or faint lines resembling kintsugi.</p>
+      </div>
+
+      <div class="lineage-block">
+        <h3 class="lineage-sub">Marionette</h3>
+        <p class="first">Stobor who have the marionette lineage carry the animating spark of wooden puppets and cloth mannequins. Subtle seams and lines often trace their joints, and their long, dexterous fingers reflect a history of performance.</p>
+      </div>
+
+      <div class="lineage-block">
+        <h3 class="lineage-sub">Ushabti</h3>
+        <p class="first">Stobor who have the ushabti lineage trace their ancestry to stone crypt sentinels, clay guardians, or tin soldiers. Tending to solid, rigid builds, protective glyphs or the faint outlines of ceremonial amour are often etched directly into their skin.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page">
+  <div class="content-columns">
+    <h1 class="traits-title">Stobor Traits</h1>
+    <div class="stats">
+      <p><span class="label">Creature Type:</span> Humanoid</p>
+      <p><span class="label">Size:</span> Medium (about 4&ndash;7 feet tall) or Small (about 2&ndash;4 feet tall), chosen when you select this species</p>
+      <p><span class="label">Speed:</span> 30 feet</p>
+    </div>
+    <p class="intro">As a Stobor, you have these special traits.</p>
+    <p><span class="trait-name">Stobor Lineage.</span> You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Stobor Lineages table. You gain the level 1 benefit, a cantrip, of the chosen lineage.</p>
+    <p>When you reach character levels 3 and 5, you learn a leveled spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.</p>
+    <p>Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).</p>
+    <p><span class="trait-name">Maker&rsquo;s Mark.</span> You gain proficiency with one type of Artisan&rsquo;s Tools of your choice, and in the Arcana, History, or Investigation skill.</p>
+    <p><span class="trait-name">Habitual Stillness.</span> You have Advantage on saving throws you make to avoid or end the Paralyzed and Petrified conditions.</p>
+  </div>
+
+  <h2 class="table-title">Stobor Lineages</h2>
+  <table class="lineages">
+    <thead>
+      <tr>
+        <th>Lineage</th>
+        <th>Level 1</th>
+        <th>Level 3</th>
+        <th>Level 5</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Faience</td>
+        <td><em>Thaumaturgy</em></td>
+        <td><em>Dissonant Whispers</em></td>
+        <td><em>Suggestion</em></td>
+      </tr>
+      <tr>
+        <td>Marionette</td>
+        <td><em>Mage Hand</em></td>
+        <td><em>Command</em></td>
+        <td><em>Rope Trick</em></td>
+      </tr>
+      <tr>
+        <td>Ushabti</td>
+        <td><em>True Strike</em></td>
+        <td><em>Sanctuary</em></td>
+        <td><em>Enlarge/Reduce</em></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</body>
+</html>

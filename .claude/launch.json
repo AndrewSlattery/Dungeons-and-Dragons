@@ -6,6 +6,12 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8790", "--directory", "Applet"],
       "port": 8790
+    },
+    {
+      "name": "Stobor Preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8791", "--directory", "Player's Handbook/ch04-character-origins"],
+      "port": 8791
     }
   ]
 }
