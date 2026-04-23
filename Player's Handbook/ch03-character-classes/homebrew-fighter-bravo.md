@@ -6,9 +6,7 @@ Bravos are cunning professionals as comfortable in a back-alley brawl as a candl
 
 #### LEVEL 3: SAVVY
 
-You gain proficiency in one of the following skills of your choice: Deception, Investigation, or Stealth. You know two languages of your choice from the language tables in chapter 2.
-
-When you make a Charisma (Deception), Charisma (Intimidation), or Wisdom (Insight) check, you gain a bonus to the roll equal to your Intelligence modifier (minimum of 1).
+You learn two languages of your choice. Furthermore, when you make a Charisma (Deception), Charisma (Intimidation), or Wisdom (Insight) check, you gain a bonus to the roll equal to your Intelligence modifier (minimum of 1).
 
 #### LEVEL 3: CALCULATED VIOLENCE
 
