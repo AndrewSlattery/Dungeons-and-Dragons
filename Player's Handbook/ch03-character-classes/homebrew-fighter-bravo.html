@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bravo Fighter - Dark Mode</title>
+<style>
+    :root {
+        --bg-page: #121212;
+        --bg-container: #1e1e1e;
+        --bg-accent: #27272a;
+        --text-main: #e0e0e0;
+        --text-muted: #a1a1aa;
+        --accent-red: #ef4444;
+        --accent-light-red: #fca5a5;
+        --border-color: #3f3f46;
+    }
+    body {
+        background-color: var(--bg-page);
+        color: var(--text-main);
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 13.5px;
+        margin: 0;
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+    .container {
+        max-width: 1000px;
+        width: 100%;
+        background-color: var(--bg-container);
+        padding: 20px 25px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+        border-top: 5px solid var(--accent-red);
+        border-radius: 4px;
+    }
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+        border-bottom: 2px solid var(--border-color);
+        padding-bottom: 12px;
+    }
+    h1 {
+        color: var(--accent-light-red);
+        font-family: 'Impact', 'Arial Black', sans-serif;
+        font-size: 32px;
+        margin: 0 0 5px 0;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+    .subtitle {
+        color: var(--accent-red);
+        font-weight: bold;
+        margin: 0;
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        align-items: start;
+    }
+    @media (max-width: 768px) {
+        .grid { grid-template-columns: 1fr; gap: 10px; }
+        body { padding: 10px; font-size: 14px; }
+    }
+    .flavor {
+        font-style: italic;
+        color: var(--text-muted);
+        background-color: var(--bg-accent);
+        padding: 10px 12px;
+        border-left: 3px solid #71717a;
+        margin-bottom: 15px;
+        line-height: 1.4;
+        border-radius: 0 4px 4px 0;
+    }
+    h2 {
+        color: var(--accent-light-red);
+        font-size: 15px;
+        margin: 15px 0 8px 0;
+        border-left: 4px solid var(--accent-red);
+        padding-left: 8px;
+        text-transform: uppercase;
+        background-color: var(--bg-accent);
+        padding-top: 4px;
+        padding-bottom: 4px;
+        border-radius: 0 3px 3px 0;
+    }
+    p {
+        margin: 0 0 10px 0;
+        line-height: 1.45;
+    }
+    .feature-block {
+        margin-bottom: 15px;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Bravo</h1>
+        <p class="subtitle">Outfox and Outfight Every Opponent</p>
+    </div>
+
+    <div class="grid">
+        <!-- Column 1 -->
+        <div>
+            <div class="flavor">
+                Bravos are cunning professionals as comfortable in a back-alley brawl as a candlelit duel. They combine martial skill with sharp intelligence to size up opponents before committing, exploit every opening their enemies offer, and extricate themselves from danger with practiced ease.
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 3: Savvy</h2>
+                <p>You learn two languages of your choice. Furthermore, when you make a Charisma (Deception), Charisma (Intimidation), or Wisdom (Insight) check, you gain a bonus to the roll equal to your Intelligence modifier (minimum of 1).</p>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 3: Calculated Violence</h2>
+                <p>When you use your Second Wind, you can also choose one creature you can see. Until the end of your next turn, you gain a bonus to damage rolls against that creature equal to your Intelligence modifier.</p>
+            </div>
+            
+            <div class="feature-block">
+                <h2>Level 7: Cut and Run</h2>
+                <p>When you use your Action Surge, you also gain the benefits of the Dash and Disengage actions. Additionally, you gain a bonus to your Armor Class equal to your Intelligence modifier until the start of your next turn.</p>
+            </div>
+        </div>
+
+        <!-- Column 2 -->
+        <div>
+            <div class="feature-block">
+                <h2>Level 10: Ready for Anything</h2>
+                <p>When you roll Initiative, if your Initiative total is lower than your Intelligence score, you can replace the total with your Intelligence score.</p>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 15: Exploit Error</h2>
+                <p>Whenever a creature misses you with an attack roll, you gain a bonus to attack rolls you make against that creature equal to your Intelligence modifier until the end of your next turn.</p>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 18: Lethal Pragmatism</h2>
+                <p>When you hit a creature with a weapon attack, you can maximize the damage dice for that attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), regaining all expended uses when you finish a Short or Long Rest.</p>
+                <p>Using this feature doesn't expend a use if the target has the Blinded, Grappled, Incapacitated, or Restrained condition.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Word Domain - Dark Mode (3-Column)</title>
+<style>
+    :root {
+        --bg-page: #0f172a;
+        --bg-container: #1e293b;
+        --text-main: #e2e8f0;
+        --text-muted: #94a3b8;
+        --accent-blue: #3b82f6;
+        --accent-light-blue: #93c5fd;
+        --accent-gold: #fbbf24;
+        --border-color: #334155;
+    }
+    body {
+        background-color: var(--bg-page);
+        color: var(--text-main);
+        font-family: 'Georgia', serif;
+        font-size: 13.5px;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+    .container {
+        max-width: 1200px;
+        width: 100%;
+        background-color: var(--bg-container);
+        padding: 30px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+        border-top: 5px solid var(--accent-blue);
+        border-radius: 8px;
+    }
+    .header {
+        text-align: center;
+        margin-bottom: 25px;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 15px;
+    }
+    h1 {
+        color: var(--accent-light-blue);
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+        font-size: 32px;
+        margin: 0 0 5px 0;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    .subtitle {
+        color: var(--accent-gold);
+        font-weight: bold;
+        margin: 0;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    /* Updated to CSS Grid for explicit column control */
+    .content-columns {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 25px;
+    }
+    @media (max-width: 1024px) {
+        .content-columns { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 768px) {
+        .content-columns { grid-template-columns: 1fr; }
+        body { padding: 10px; font-size: 14px; }
+    }
+    .feature-block {
+        margin-bottom: 20px;
+    }
+    .flavor {
+        font-style: italic;
+        color: var(--text-muted);
+        border-left: 3px solid var(--border-color);
+        padding-left: 10px;
+        margin-bottom: 20px;
+        line-height: 1.5;
+    }
+    h2 {
+        color: var(--accent-blue);
+        font-size: 16px;
+        margin: 0 0 10px 0;
+        border-bottom: 1px dashed var(--border-color);
+        padding-bottom: 4px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    p, ul {
+        margin: 0 0 12px 0;
+        line-height: 1.5;
+    }
+    ul {
+        padding-left: 20px;
+    }
+    li {
+        margin-bottom: 8px;
+    }
+    .feature-title {
+        color: var(--accent-gold);
+        font-weight: bold;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 15px;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 12.5px;
+    }
+    th, td {
+        padding: 8px 10px;
+        text-align: left;
+        border-bottom: 1px solid var(--border-color);
+    }
+    th {
+        background-color: var(--bg-page);
+        color: var(--accent-light-blue);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    tr:nth-child(even) {
+        background-color: rgba(255, 255, 255, 0.02);
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Word Domain</h1>
+        <p class="subtitle">Speak Truth and Make All Listen</p>
+    </div>
+
+    <div class="content-columns">
+        
+        <div class="column">
+            <div class="feature-block flavor">
+                <p>The Word Domain treats language as a divine force that shapes reality. Clerics who wield this magic are living heralds whose voices dictate the flow of battle, inspiring heroic hope in their allies while crushing enemies under absolute, undeniable commands.</p>
+                <p>Gods of this domain are patrons of truth, law, prophecy, and inspiration. They include strict arbiters of justice and divine messengers who deliver revelations to mortals. Their power is sought by diplomats, leaders, and peacekeepers who rely on unyielding mandates to forge alliances or uncover grand deceptions.</p>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 3: Word Domain Spells</h2>
+                <p>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Word Domain Spells table, you thereafter always have the listed spells prepared.</p>
+                <table>
+                    <thead>
+                        <tr><th>Cleric Level</th><th>Prepared Spells</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>3</td><td><em>Command, Heroism, Suggestion, Zone of Truth</em></td></tr>
+                        <tr><td>5</td><td><em>Sending, Tongues</em></td></tr>
+                        <tr><td>7</td><td><em>Compulsion, Divination</em></td></tr>
+                        <tr><td>9</td><td><em>Geas, Legend Lore</em></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="feature-block">
+                <h2>Level 3: Hope and Havoc</h2>
+                <p>As a Magic action, you expend one use of your Channel Divinity to choose a number of creatures you can see within 60 feet of yourself, up to your Proficiency Bonus. For each chosen creature, apply one of the following effects:</p>
+                <ul>
+                    <li><span class="feature-title">Hope.</span> The creature has Advantage on the next D20 Test it makes before the end of your next turn.</li>
+                    <li><span class="feature-title">Havoc.</span> The creature must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on the next D20 Test it makes before the end of your next turn.</li>
+                </ul>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 3: Divine Emissary</h2>
+                <p>Your divine mandate natively empowers your voice, granting you the following benefits:</p>
+                <ul>
+                    <li><span class="feature-title">Blessed Preacher.</span> You add your Wisdom modifier (minimum of +1) to any Charisma (Persuasion) or Charisma (Intimidation) check you make.</li>
+                    <li><span class="feature-title">Unfettered Speech.</span> As long as you do not have the Incapacitated condition, no effect (such as <em>Silence</em>) can prevent you from speaking or providing the Verbal components of your spells.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="feature-block">
+                <h2>Level 6: Blessed Herald</h2>
+                <p>You can extend your mandate to another. As a Magic action, you touch a willing creature, marking it as your emissary until you finish a Long Rest. While marked, the creature gains the benefits of your Divine Emissary feature, and you can both communicate telepathically with each other across any distance, provided you are on the same plane of existence.</p>
+                <p>Once you use this feature, you can't use it again until you finish a Long Rest.</p>
+            </div>
+
+            <div class="feature-block">
+                <h2>Level 17: Word Perfect</h2>
+                <p>Your mastery of divine speech grants you the following permanent benefits:</p>
+                <ul>
+                    <li><span class="feature-title">Echoes of Hope and Havoc.</span> Whenever you cast a Cleric spell of level 1 or higher that has a Verbal component, you can immediately apply either the Hope or Havoc effect to one creature of your choice within 60 feet of yourself.</li>
+                    <li><span class="feature-title">With One Voice.</span> You can treat the target of your Blessed Herald feature as the point of origin for any Cleric spell you cast that has a Verbal component.</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
