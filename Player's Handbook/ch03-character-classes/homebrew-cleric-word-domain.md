@@ -28,12 +28,12 @@ As a Magic action, you expend one use of your Channel Divinity to choose a numbe
 
 Your divine mandate empowers your voice, granting you the following benefits:
 
-- **Blessed Preacher.** You add your Wisdom modifier (minimum of +1) to any Charisma (Persuasion) or Charisma (Intimidation) check you make.
+- **Booming Sermon.** When you hit an attack with a weapon, you can change the type of damage the weapon deals to Thunder.
 - **Unfettered Speech.** As long as you do not have the Incapacitated condition, no effect (such as *Silence*) can prevent you from speaking or providing the Verbal components of your spells.
 
 #### LEVEL 6: BLESSED HERALD
 
-You can extend your mandate to another. As a Magic action, you touch a willing creature, marking it as your herald until you finish a Long Rest. While marked, the creature gains the benefits of your Divine Orator feature, and you can both communicate telepathically with each other across any distance, provided you are on the same plane of existence. 
+You can extend your mandate to another. As a Magic action, you touch a willing creature, marking it as your herald until you finish a Long Rest. While marked, the creature gains the benefits of the Divine Orator features, and you can both communicate telepathically with each other across any distance, provided you are on the same plane of existence. 
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
