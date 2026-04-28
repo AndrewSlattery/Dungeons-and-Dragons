@@ -28,7 +28,7 @@ As a Magic action, you expend one use of your Channel Divinity to choose a numbe
 
 Your divine mandate empowers your voice, granting you the following benefits:
 
-- **Booming Sermon.** When you deal damage with a weapon or cantrip, you can change the damage type to Thunder.
+- **Booming Rebuke.** When a creature that can hear you hits you or an ally with an attack, you can use your Reaction to shout a word of condemnation. The creature takes Thunder damage equal to your Proficiency Bonus and cannot make Opportunity Attacks until the start of its next turn.
 - **Unfettered Speech.** As long as you do not have the Incapacitated condition, no effect (such as *Silence*) can prevent you from speaking or providing the Verbal components of your spells.
 
 #### LEVEL 6: BLESSED HERALD
