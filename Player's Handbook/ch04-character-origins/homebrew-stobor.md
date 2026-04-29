@@ -8,19 +8,19 @@ Many Stobor communities are found in the oldest districts of sprawling cities, c
 
 A Stobor chooses whether to embrace or adapt the ancestral magic of their crafted lineage. The three lineages are described below.
 
-#### FAIENCE
+### FAIENCE
 
 Stobor who have the faience lineage heed the pristine magic of glass figurines and porcelain dolls. Their physical features often possess an uncanny perfection, with vivid coloration on their cheeks or faint lines resembling kintsugi.
 
-#### MARIONETTE
+### MARIONETTE
 
 Stobor who have the marionette lineage carry the animating spark of wooden puppets and cloth mannequins. Subtle seams and lines often trace their joints, and their long, dexterous fingers reflect a history of performance.
 
-#### USHABTI
+### USHABTI
 
 Stobor who have the ushabti lineage trace their ancestry to stone crypt sentinels, clay guardians, or tin soldiers. Tending to solid, rigid builds, protective glyphs or the faint outlines of ceremonial armor are often etched directly into their skin.
 
-### STOBOR TRAITS
+## STOBOR TRAITS
 
 **Creature Type:** Humanoid
 
@@ -40,7 +40,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 **Habitual Stillness.** You have Advantage on saving throws you make to avoid or end the Paralyzed and Petrified conditions. 
 
-#### STOBOR LINEAGES
+### STOBOR LINEAGES
 
 | Lineage    | Level 1       | Level 3              | Level 5          |
 |------------|---------------|----------------------|------------------|
