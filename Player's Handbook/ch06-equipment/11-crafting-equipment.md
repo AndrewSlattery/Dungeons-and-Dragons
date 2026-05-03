@@ -6,7 +6,7 @@ Using the rules below, characters can make nonmagical items, Potions of Healing,
 
 To craft a nonmagical item, you need tools, raw materials, and time, each of which is detailed below. If you meet the requirements, you make the item, and you can use it or sell it at its normal price.
 
-#### Tools
+#### TOOLS
 
 This chapter's "Tools" section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
 

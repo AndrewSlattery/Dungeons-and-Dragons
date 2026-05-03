@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Strength and Charisma |
-| **Hit Point Die** | D10 per Paladin level |
+| **Hit Point Die** | d10 per Paladin level |
 | **Saving Throw Proficiencies** | Wisdom and Charisma |
 | **Skill Proficiencies** | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple and Martial weapons |

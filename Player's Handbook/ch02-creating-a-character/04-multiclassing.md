@@ -2,7 +2,7 @@
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
 
-# PREREQUISITES
+## PREREQUISITES
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes. For example, a Barbarian who decides to multiclass into the Druid class must have Strength and Wisdom scores of 13 or higher, since Strength is the primary ability for Barbarians and Wisdom is the primary ability for Druids.
 
@@ -10,13 +10,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the Character Advancement table in this chapter. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
 
-# HIT POINTS AND HIT POINT DICE
+## HIT POINTS AND HIT POINT DICE
 
 You gain the Hit Points from your new class as described for levels after 1. You gain the level 1 Hit Points for a class only when your total character level is 1.
 
 Add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If these dice are the same die type, you can pool them together. For example, both the Fighter and the Paladin have a d10 Hit Die, so if you are a level 5 Fighter / level 5 Paladin, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, track them separately. If you are a level 5 Cleric / level 5 Paladin, for example, you have five d8 Hit Dice and five d10 Hit Dice.
 
-# PROFICIENCY BONUS
+## PROFICIENCY BONUS
 
 Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the Character Advancement table. For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
 
@@ -50,7 +50,7 @@ Each spell you prepare is associated with one of your classes, and you use the s
 
 Cantrips. If a cantrip of yours increases in power at higher levels, the increase is based on your total character level, not your level in a particular class, unless the spell says otherwise.
 
-# MULTICLASS SPELLCASTER: SPELL SLOTS PER SPELL LEVEL
+## MULTICLASS SPELLCASTER: SPELL SLOTS PER SPELL LEVEL
 
 | Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|---|---|---|---|---|---|---|---|---|

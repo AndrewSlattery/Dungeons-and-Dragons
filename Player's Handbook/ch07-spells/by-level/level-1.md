@@ -89,7 +89,10 @@ Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot
 
 Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet Components: V, S Duration: 1 hour
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
 
 One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
@@ -136,7 +139,10 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 Level 1 Enchantment (Bard, Cleric, Paladin)
 
-Casting Time: Action Range: 60 feet Components: V Duration: Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its
 
@@ -161,8 +167,8 @@ Level 1 Enchantment (Paladin)
 
 Casting Time: Bonus Action
 
-Range: 30 feet Components: V
-
+Range: 30 feet
+Components: V
 Duration: Concentration, up to 1 minute
 
 You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
@@ -208,7 +214,10 @@ Using a Higher-Level Spell Slot. You create or destroy 10 additional gallons of 
 
 Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)
 
-Casting Time: Action Range: Touch Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 
@@ -221,8 +230,8 @@ Level 1 Divination (Cleric, Paladin)
 
 Casting Time: Action
 
-Range: Self Components: V, S
-
+Range: Self
+Components: V, S
 Duration: Concentration, up to 10 minutes
 
 For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the Hallow spell is active there and, if so, where.
@@ -236,13 +245,13 @@ Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wiz
 
 Casting Time: Action or Ritual
 
-Range: Self Components: V, S
-
+Range: Self
+Components: V, S
 Duration: Concentration, up to 10 minutes
 
 For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
 
-The spell is blocked by I foot of stone, dirt, or wood; I inch of metal; or a thin sheet of lead.
+The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
 
 ### DETECT POISON AND DISEASE
@@ -267,8 +276,9 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 Level 1 Illusion (Bard, Sorcerer, Wizard)
 
 Casting Time: Action
-
-Range: Self Components: V, S Duration: 1 hour
+Range: Self
+Components: V, S
+Duration: 1 hour
 
 You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 
@@ -283,9 +293,10 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 Level 1 Enchantment (Bard)
 
-Casting Time: Action Range: 60 feet Components: V
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
 
 One creature of your choice that you can see within range hears a discordant melody in its mind. The
 
@@ -302,7 +313,8 @@ Casting Time: Bonus Action
 
 Range: Self
 
-Components: V, S Duration: 1 minute
+Components: V, S
+Duration: 1 minute
 
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 
@@ -311,13 +323,11 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 Level 1 Evocation (Paladin)
 
-Casting Time: Bonus Action, which you take immediately after hitting a target with a Melee weapon or
+Casting Time: Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
 
-an Unarmed Strike
-
-Range: Self Component: V
-
-**Duration:** Instantaneous
+Range: Self
+Components: V
+Duration: Instantaneous
 
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 
@@ -330,8 +340,8 @@ Level 1 Conjuration (Ranger)
 
 Casting Time: Bonus Action, which you take immediately after hitting a creature with a weapon
 
-Range: Self Components: V
-
+Range: Self
+Components: V
 Duration: Concentration, up to 1 minute
 
 As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has Advantage on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
@@ -345,8 +355,9 @@ Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot
 
 Level 1 Conjuration (Druid, Ranger)
 
-Casting Time: Action Range: 90 feet Components: V, S
-
+Casting Time: Action
+Range: 90 feet
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.
@@ -375,8 +386,9 @@ You take the Dash action, and until the spell ends, you can take that action aga
 
 Level 1 Evocation (Bard, Druid)
 
-Casting Time: Action Range: 60 feet Components: V
-
+Casting Time: Action
+Range: 60 feet
+Components: V
 Duration: Concentration, up to 1 minute
 
 Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
@@ -447,8 +459,9 @@ One Familiar Only. You can't have more than one familiar at a time. If you cast 
 
 Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet Components: V, S
-
+Casting Time: Action
+Range: 120 feet
+Components: V, S
 Duration: Concentration, up to 1 hour
 
 You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind) disperses it.
@@ -497,8 +510,9 @@ When the grease appears, each creature standing in its area must succeed on a De
 Level 1 Evocation (Cleric)
 
 Casting Time: Action
-
-Range: 120 feet Components: V, S Duration: 1 round
+Range: 120 feet
+Components: V, S
+Duration: 1 round
 
 You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
 
@@ -510,10 +524,9 @@ Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot
 Level 1 Abjuration (Bard, Cleric, Druid)
 
 Casting Time: Bonus Action
-
-Range: 60 feet Components: V
-
-**Duration:** Instantaneous
+Range: 60 feet
+Components: V
+Duration: Instantaneous
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
@@ -526,7 +539,9 @@ Level 1 Evocation (Warlock)
 
 Casting Time: Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself
 
-Range: 60 feet Components: V, S Duration: Instantaneous
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -537,8 +552,9 @@ Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slo
 
 Level 1 Enchantment (Bard, Paladin)
 
-Casting Time: Action Range: Touch Components: V, S
-
+Casting Time: Action
+Range: Touch
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
@@ -571,13 +587,13 @@ Level 1 Divination (Ranger)
 
 Casting Time: Bonus Action
 
-Range: 90 feet Components: V
-
+Range: 90 feet
+Components: V
 Duration: Concentration, up to 1 hour
 
 You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
 
-If the target drops to O Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
+If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 
 Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
@@ -642,11 +658,14 @@ A creature that has Truesight can read the hidden message.
 
 Level 1 Necromancy (Cleric)
 
-Casting Time: Action Range: Touch Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
-Using a Higher-Level Spell Slot. The damage increases by Id10 for each spell slot level above 1.
+Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 1.
 
 ![](../images/_page_287_Picture_0.jpeg)
 
@@ -661,7 +680,7 @@ Casting Time: Bonus Action
 
 Range: Touch
 
-Component: V, S, M (a grasshopper's hind leg)
+Components: V, S, M (a grasshopper's hind leg)
 
 **Duration: 1 minute** 
 
@@ -686,7 +705,7 @@ You touch a creature. The target's Speed increases by 10 feet until the spell en
 
 Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1.
 
-#### MAGE ARMOR
+### MAGE ARMOR
 
 Level 1 Abjuration (Sorcerer, Wizard)
 
@@ -702,8 +721,8 @@ You touch a willing creature who isn't wearing armor. Until the spell ends, the 
 
 
 ### PROTECTION FROM EVIL AND GOOD
-Level 1 Abjuration (Cleric, Druid, Paladin, Warlock,
-Wizard)
+
+Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)
 
 Casting Time: Action
 
@@ -711,7 +730,7 @@ Range: Touch
 
 Components: V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
 
-Duration: Concentration up to 10 minutes
+Duration: Concentration, up to 10 minutes
 
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls
 
@@ -725,8 +744,9 @@ against the target. The target also can't be possessed by or gain the Charmed or
 Level 1 Transmutation (Cleric, Druid, Paladin)
 
 Casting Time: Action or Ritual
-
-Range: 10 feet Components: V, S Duration: Instantaneous
+Range: 10 feet
+Components: V, S
+Duration: Instantaneous
 
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
 
@@ -735,7 +755,10 @@ You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphe
 
 Level 1 Necromancy (Sorcerer, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
 
@@ -763,7 +786,9 @@ Level 1 Evocation (Paladin)
 
 Casting Time: Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
 
-Range: Self Component: V Duration: 1 minute
+Range: Self
+Components: V
+Duration: 1 minute
 
 As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
 
@@ -776,7 +801,9 @@ Level 1 Abjuration (Sorcerer, Wizard)
 
 Casting Time: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell
 
-Range: Self Components: V, S Duration: 1 round
+Range: Self
+Components: V, S
+Duration: 1 round
 
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
@@ -819,10 +846,9 @@ Physical interaction with the image reveals it to be an illusion, since things c
 
 Level 1 Enchantment (Bard, Sorcerer, Wizard)
 
-Casting Time: Action Range: 60 feet
-
+Casting Time: Action
+Range: 60 feet
 Components: V, S, M (a pinch of sand or rose petals)
-
 Duration: Concentration, up to 1 minute
 
 Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
@@ -836,7 +862,9 @@ Level 1 Divination (Bard, Druid, Ranger, Warlock)
 
 Casting Time: Action or Ritual
 
-Range: Self Components: V, S Duration: 10 minutes
+Range: Self
+Components: V, S
+Duration: 10 minutes
 
 For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
 
@@ -847,8 +875,8 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 
 Level 1 Enchantment (Bard, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet
-
+Casting Time: Action
+Range: 30 feet
 Components: V, S, M (a tart and a feather)
 Duration: Concentration, up to 1 minute
 
@@ -888,9 +916,9 @@ Level 1 Evocation (Paladin)
 
 Casting Time: Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
 
-Range: Self Component: V
-
-**Duration:** Instantaneous
+Range: Self
+Components: V
+Duration: Instantaneous
 
 Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra 2d6 Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the Prone condition.
 
@@ -901,9 +929,10 @@ Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot
 
 Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)
 
-Casting Time: Action Range: Self Components: V. S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: Self
+Components: V, S
+Duration: Instantaneous
 
 You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
 
@@ -941,7 +970,9 @@ Level 1 Necromancy (Paladin)
 
 Casting Time: Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
 
-Range: Self Component: V Duration: 1 minute
+Range: Self
+Components: V
+Duration: 1 minute
 
 The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the Frightened target repeats the save, ending the spell on itself on a success.
 

@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Dexterity and Wisdom |
-| **Hit Point Die** | D10 per Ranger level |
+| **Hit Point Die** | d10 per Ranger level |
 | **Saving Throw Proficiencies** | Strength and Dexterity |
 | **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |

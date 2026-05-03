@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Charisma |
-| **Hit Point Die** | D8 per Warlock level |
+| **Hit Point Die** | d8 per Warlock level |
 | **Saving Throw Proficiencies** | Wisdom and Charisma |
 | **Skill Proficiencies** | *Choose 2:* Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
@@ -20,7 +20,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 #### AS A LEVEL 1 CHARACTER
 
-- Gain all the traits in the Core Warlock Traits
+- Gain all the traits in the Core Warlock Traits table.
 - Gain the Warlock's level 1 features, which are listed in the Warlock Features table.
 
 #### AS A MULTICLASS CHARACTER

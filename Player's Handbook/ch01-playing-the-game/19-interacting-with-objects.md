@@ -6,7 +6,8 @@ Interacting with objects is often simple to resolve. The player tells the DM tha
 
 For the purpose of the rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone. It isn't a building or a vehicle, which are composed of many objects.
 
-TIME-LIMITED OBJECT INTERACTIONS
+#### TIME-LIMITED OBJECT INTERACTIONS
+
 When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature's movement or action. Any additional interactions require the Utilize action, as explained in "Combat" later in this chapter.
 
 #### FINDING HIDDEN OBJECTS

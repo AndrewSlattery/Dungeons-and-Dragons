@@ -10,14 +10,14 @@ Saving throws are named for the ability modifiers they use: a Constitution savin
 
 ### SAVING THROW EXAMPLES
 
-Ability Make a Save To ...
-
-Strength Physically resist direct force
-Dexterity Dodge out of harm's way
-Constitution Endure a toxic hazard
-Intelligence Recognize an illusion as fake
-Wisdom Resist a mental assault
-Charisma Assert your identity
+| Ability      | Make a Save To ...              |
+|--------------|---------------------------------|
+| Strength     | Physically resist direct force  |
+| Dexterity    | Dodge out of harm's way         |
+| Constitution | Endure a toxic hazard           |
+| Intelligence | Recognize an illusion as fake   |
+| Wisdom       | Resist a mental assault         |
+| Charisma     | Assert your identity            |
 
 #### PROFICIENCY BONUS
 

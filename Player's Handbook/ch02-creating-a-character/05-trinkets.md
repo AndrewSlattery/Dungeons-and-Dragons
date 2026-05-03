@@ -4,8 +4,6 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 #### TRINKETS
 
-## 1d100 Trinket
-
 - 01 A mummified goblin hand
 - 02 A crystal that faintly glows in moonlight
 - 03 A gold coin minted in an unknown land
@@ -32,9 +30,6 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 - 24 A multicolored stone disk
 - 25 A silver icon of a raven
 - 26 A bag containing forty-seven teeth, one of which is rotten
-
-### 1d100 Trinket
-
 - 27 A shard of obsidian that always feels warm to the touch
 - 28 A dragon's talon strung on a leather necklace
 - 29 A pair of old socks
@@ -63,8 +58,6 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 - 52 Two toy soldiers, one missing a head
 
 ![](../images/_page_44_Picture_57.jpeg)
-
-#### 1d100 Trinket
 
 - 53 A small box filled with different-sized buttons
 - 54 A candle that can't be lit
@@ -96,9 +89,6 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 - 80 A bronze pentacle with an etching of a rat's head in its center
 - 81 A purple handkerchief embroidered with the name of an archmage
 - 82 Half a floor plan for a temple, a castle, or another structure
-
-#### 1d100 Trinket
-
 - 83 A bit of folded cloth that, when unfolded, turns into a stylish cap
 - 84 A receipt of deposit at a bank in a far-off city
 - 85 A diary with seven missing pages

@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Strength or Dexterity |
-| **Hit Point Die** | D10 per Fighter level |
+| **Hit Point Die** | d10 per Fighter level |
 | **Saving Throw Proficiencies** | Strength and Constitution |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
@@ -348,12 +348,12 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 
 | Fighter Level | Die Size | Number |
 |---------------|----------|--------|
-| 3 | D6 | 4 |
-| 5 | D8 | 6 |
-| 9 | D8 | 8 |
-| 11 | D10 | 8 |
-| 13 | D10 | 10 |
-| 17 | D12 | 12 |
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when all your Psionic Energy Dice are expended.
 

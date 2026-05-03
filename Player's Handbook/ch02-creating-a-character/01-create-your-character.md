@@ -45,9 +45,13 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
 
-Cleric. Replace with Bard or Druid Fighter. Replace with Barbarian, Monk, Paladin, or Ranger
+Cleric. Replace with Bard or Druid
 
-Rogue. Replace with Bard or Ranger Wizard. Replace with Bard, Sorcerer, or Warlock
+Fighter. Replace with Barbarian, Monk, Paladin, or Ranger
+
+Rogue. Replace with Bard or Ranger
+
+Wizard. Replace with Bard, Sorcerer, or Warlock
 
 ### WRITE YOUR LEVEL
 
@@ -349,7 +353,9 @@ Chaotic Evil (CE). Chaotic Evil creatures act with arbitrary violence, spurred b
 
 ALIGNMENTS MIGHT BE VISUALIZED AS A GRID LIKE THIS— ALONG WITH CREATURES THAT EMBODY THOSE ALIGNMENTS.
 
-# ALIGNMENT AND PERSONALITY Alignment can shape a character's personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character's personality.
+# ALIGNMENT AND PERSONALITY
+
+Alignment can shape a character's personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character's personality.
 
 #### PERSONALITY TRAITS BY ALIGNMENT
 

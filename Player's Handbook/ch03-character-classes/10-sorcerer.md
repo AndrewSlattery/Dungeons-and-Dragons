@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Charisma |
-| **Hit Point Die** | D6 per Sorcerer level |
+| **Hit Point Die** | d6 per Sorcerer level |
 | **Saving Throw Proficiencies** | Constitution and Charisma |
 | **Skill Proficiencies** | *Choose 2:* Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
@@ -484,8 +484,6 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
 
 #### MANIFESTATIONS OF ORDER
-
-#### 1d6 Manifestation
 
 | 1d6 | Manifestation |
 |-----|---------------|

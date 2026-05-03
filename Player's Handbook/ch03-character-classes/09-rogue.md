@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Dexterity |
-| **Hit Point Die** | D8 per Rogue level |
+| **Hit Point Die** | d8 per Rogue level |
 | **Saving Throw Proficiencies** | Dexterity and Intelligence |
 | **Skill Proficiencies** | *Choose 4:* Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Finesse or Light property |
@@ -287,12 +287,12 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 
 | Rogue Level | Die Size | Number |
 |-------------|----------|--------|
-| 3           | D6       | 4      |
-| 5           | D8       | 6      |
-| 9           | D8       | 8      |
-| 11          | D10      | 8      |
-| 13          | D10      | 10     |
-| 17          | D12      | 12     |
+| 3           | d6       | 4      |
+| 5           | d8       | 6      |
+| 9           | d8       | 8      |
+| 11          | d10      | 8      |
+| 13          | d10      | 10     |
+| 17          | d12      | 12     |
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when your Psionic Energy Dice are all expended.
 

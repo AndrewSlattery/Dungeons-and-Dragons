@@ -4,10 +4,9 @@
 
 Level 4 Divination (Wizard)
 
-Casting Time: Action Range: 30 feet
-
+Casting Time: Action
+Range: 30 feet
 Components: V, S, M (a bit of bat fur)
-
 Duration: Concentration, up to 1 hour
 
 You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has Darkvision with a range of 30 feet.
@@ -21,8 +20,8 @@ Level 4 Abjuration (Cleric, Paladin)
 
 Casting Time: Action
 
-Range: Self Components: V
-
+Range: Self
+Components: V
 Duration: Concentration, up to 10 minutes
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
@@ -34,8 +33,8 @@ Level 4 Abjuration (Cleric, Paladin)
 
 Casting Time: Action
 
-Range: Self Components: V
-
+Range: Self
+Components: V
 Duration: Concentration, up to 10 minutes
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
@@ -45,10 +44,9 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet
-
+Casting Time: Action
+Range: 30 feet
 Components: V, S, M (a pentacle)
-
 Duration: Concentration, up to 1 minute
 
 One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
@@ -64,7 +62,10 @@ Using a Higher-Level Spell Slot. You can target one additional creature for each
 
 Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
 
@@ -77,7 +78,10 @@ Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot
 
 Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet Components: V, S Duration: 1 hour
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
 
 One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the
 
@@ -135,8 +139,8 @@ Level 4 Conjuration (Druid, Wizard)
 
 Casting Time: Action
 
-Range: Self Components: V, S
-
+Range: Self
+Components: V, S
 Duration: Concentration, up to 10 minutes
 
 You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, any attack you make deals an extra 2d8 damage when you hit a creature in the Emanation. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
@@ -152,8 +156,9 @@ Using a Higher-Level Spell Slot. The damage increases by 2d8 for each spell slot
 
 Level 4 Conjuration (Druid, Ranger)
 
-Casting Time: Action Range: Self Components: V. S
-
+Casting Time: Action
+Range: Self
+Components: V, S
 Duration: Concentration, up to 10 minutes
 
 You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes 5d8 Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.

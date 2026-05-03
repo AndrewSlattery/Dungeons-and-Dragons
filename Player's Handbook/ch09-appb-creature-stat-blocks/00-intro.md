@@ -39,8 +39,6 @@ Speed 5 ft., Fly 30 ft.
 STR 2 -4 -4 DEX 15 +2 +2 CON 8 -1 -1
 INT 2 -4 -4 Wis 12 +1 +1 CHA 4 -3 -3
 
-BAT
-
 Senses Blindsight 60 ft., Passive Perception 11 Languages None CR 0 (XP 10; PB +2)
 
 #### ACTIONS
@@ -193,9 +191,11 @@ Scratch. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.
 
 ![](../images/_page_346_Figure_0.jpeg)
 
+### CONSTRICTOR SNAKE
+
 Large Beast, Unaligned
 
-Initiative +2 (12) AC 13
+AC 13 Initiative +2 (12)
 
 HP 13 (2d10 + 2)
 
@@ -324,6 +324,8 @@ Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage. If t
 
 Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 17 (2d10 + 6) Bludgeoning damage. Success: Half damage.
 
+### ELK
+
 Large Beast, Unaligned
 
 AC 10 Initiative +0 (10) HP 11 (2d10)
@@ -382,7 +384,9 @@ HP 15 (2d8 + 6)
 
 Speed 30 ft., Burrow 10 ft.
 
-MOD SAVE MOD SAVE STR 13 +1 +1 DEX 10 +0 +0 CON 17 +3 +3 CHA 5 -3 -3 2 -4 -4 Wis 12 +1 +1
+STR 13 +1 +1 DEX 10 +0 +0 CON 17 +3 +3
+
+INT 2 -4 -4 Wis 12 +1 +1 CHA 5 -3 -3
 
 Skills Perception +3 Resistances Poison Senses Darkvision 60 ft., Passive Perception 13 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -649,15 +653,9 @@ HP 2 (1d4)
 
 Speed 20 ft., Climb 20 ft.
 
-MOD SAVE STR 2 -4 -4 DEX 11 +0 +0
+STR 2 -4 -4 DEX 11 +0 +0 CON 10 +0 +0
 
-MOD SAVE
-
-MOD SAVE CON 10 +0 +0
-
-Wis 8 -1 -1
-
-CHA 3 -4 -4
+INT 1 -5 -5 Wis 8 -1 -1 CHA 3 -4 -4
 
 Senses Darkvision 30 ft., Passive Perception 9 Languages None CR 0 (XP 10; PB +2)
 
@@ -681,13 +679,11 @@ HP 5 (1d8 + 1)
 
 Speed 40 ft.
 
-MOD SAVE STR 13 +1 +1
+STR 13 +1 +1 DEX 14 +2 +2 CON 12 +1 +1
 
-MOD SAVE DEX 14 +2 +2
+INT 3 -4 -4 Wis 12 +1 +3 CHA 7 -2 -2
 
-MOD SAVE CON 12 +1 +1 Wis 12 +1 +3 CHA 7 -2 -2
-
-INT 3 -4 -4 Skills Perception +5
+Skills Perception +5
 
 Senses Darkvision 60 ft., Passive Perception 15
 
@@ -697,7 +693,7 @@ CR 1/8 (XP 25; PB +2)
 
 #### ACTIONS
 
-Bite. Meice Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage, and the target has the Prone condition if it is Large or smaller.
+Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage, and the target has the Prone condition if it is Large or smaller.
 
 ### MULE
 
@@ -709,11 +705,9 @@ Initiative +0 (10)
 
 Speed 40 ft.
 
-MOD SAVE STR 14 +2 +4
+STR 14 +2 +4 DEX 10 +0 +0 CON 13 +1 +1
 
-DEX 10 +0 +0 CON 13 +1 +1 INT 2 -4 -4 WIS 10 +0 +0 CHA 5 -3 -3
-
-MOD SAVE
+INT 2 -4 -4 WIS 10 +0 +0 CHA 5 -3 -3
 
 Senses Passive Perception 10 Languages None CR 1/8 (XP 25; PB +2)
 
@@ -896,6 +890,8 @@ CR 1 (XP 200; PB +2)
 
 Magic Resistance. The quasit has Advantage on saving throws against spells and other magical effects.
 
+#### ACTIONS
+
 Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.
 
 Invisibility. The quasit casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
@@ -938,11 +934,11 @@ Skills Perception +3 Senses Passive Perception 13 Languages None CR 0 (XP 10; PB
 
 Mimicry. The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom (Insight) check.
 
+#### ACTIONS
+
 Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
 
 ![](../images/_page_354_Picture_1.jpeg)
-
-SLAAD TADPOLE
 
 ### REEF SHARK
 
@@ -1019,29 +1015,7 @@ AC 13 Initiative +3 (13) HP 13 (2d8 + 4)
 
 Speed 30 ft.
 
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-CON 15 +2 +2
+[OCR_REVIEW: STR and DEX scores missing from OCR] CON 15 +2 +2
 
 INT 6 -2 -2 Wis 8 -1 -1 CHA 5 -3 -3
 
@@ -1249,7 +1223,7 @@ MOD SAVE MOD SAVE MOD SAVE
 
 STR 3 -4 -4 DEX 16 +3 +3 CON 8 -1 -1
 
-INT 2 --4 -4 Wis 12 +1 +1 CHA 3 -4 -4
+INT 2 -4 -4 Wis 12 +1 +1 CHA 3 -4 -4
 
 Skills Acrobatics +5, Perception +3, Stealth +5
 Senses Darkvision 60 ft., Passive Perception 13
@@ -1258,7 +1232,7 @@ CR 0 (XP 10; PB +2)
 
 #### ACTIONS
 
-Bite. Molee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage.
+Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage.
 
 ### WOLF
 

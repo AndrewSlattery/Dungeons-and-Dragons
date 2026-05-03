@@ -8,13 +8,11 @@ The Attack Roll Abilities table shows which ability modifier to use for differen
 
 ## ATTACK ROLL ABILITIES
 
-Ability Attack Type
-
-Strength Melee attack with a weapon or an Unarmed Strike (see the rules glossary)
-
-Dexterity Ranged attack with a weapon
-
-Varies Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in chapter 7)
+| Ability  | Attack Type                                                                                                                      |
+|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| Strength | Melee attack with a weapon or an Unarmed Strike (see the rules glossary)                                                         |
+| Dexterity | Ranged attack with a weapon                                                                                                     |
+| Varies   | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in chapter 7)               |
 
 Some features let you use different ability modifiers from those listed. For example, the Finesse property (see chapter 6) lets you use Strength or Dexterity with a weapon that has that property.
 

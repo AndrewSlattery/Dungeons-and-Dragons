@@ -76,7 +76,8 @@ Level 2 Abjuration (Sorcerer, Wizard)
 
 Casting Time: Bonus Action
 
-Range: Self Component: V, S
+Range: Self
+Components: V, S
 
 **Duration:** Instantaneous
 
@@ -86,7 +87,9 @@ Using a Higher-Level Spell Slot. The number of unexpended Hit Dice you can roll 
 
 ![](../images/_page_241_Picture_1.jpeg)
 
-ARMOR OF AGATHYS Level 1 Abjuration (Warlock)
+### ARMOR OF AGATHYS
+
+Level 1 Abjuration (Warlock)
 
 Casting Time: Bonus Action
 
@@ -124,7 +127,7 @@ Casting Time: Bonus Action
 
 Range: Touch
 
-Component: V, S, M (a handful of bark)
+Components: V, S, M (a handful of bark)
 
 Duration: 1 hour
 
@@ -148,7 +151,10 @@ You touch a willing Beast. For the duration, you can perceive through the Beast'
 
 Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet Components: V Duration: 1 minute
+Casting Time: Action
+Range: 120 feet
+Components: V
+Duration: 1 minute
 
 One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -172,8 +178,9 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 
 Level 2 Enchantment (Bard, Cleric)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
+Casting Time: Action
+Range: 60 feet
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
@@ -360,8 +367,9 @@ Reduce. The target's size decreases by one category—from Medium to Small, for 
 
 Level 2 Enchantment (Bard, Warlock)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
+Casting Time: Action
+Range: 60 feet
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
@@ -371,9 +379,10 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 Level 2 Conjuration (Paladin)
 
-Casting Time: Action Range: 30 feet Component: V, S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
@@ -412,7 +421,10 @@ Otherworldly Slam. Melee Attack Roll: Bonus equals your spell attack modifier, r
 
 Level 2 Divination (Cleric, Druid, Ranger)
 
-Casting Time: Action Range: 120 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
 
 You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the *Alarm* or *Glyph of Warding* spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
@@ -494,13 +506,14 @@ The gust disperses gas or vapor, and it extinguishes candles and similar unprote
 
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 
-HAIL OF THORNS Level 1 Conjuration (Ranger)
+### HAIL OF THORNS
+
+Level 1 Conjuration (Ranger)
 
 Casting Time: Bonus Action, which you take immediately after hitting a creature with a Ranged weapon
-
-Range: Self Components: V
-
-**Duration:** Instantaneous
+Range: Self
+Components: V
+Duration: Instantaneous
 
 As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
 
@@ -578,8 +591,9 @@ When you cast the spell, a loud knock, audible up to 300 feet away, emanates fro
 Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)
 
 Casting Time: Bonus Action
-
-Range: Touch Components: V, S Duration: Instantaneous
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
@@ -667,8 +681,9 @@ The trigger can be as general or as detailed as you like, though it must be base
 Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)
 
 Casting Time: Bonus Action
-
-Range: Touch Components: V, S Duration: 1 hour
+Range: Touch
+Components: V, S
+Duration: 1 hour
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
 
@@ -694,8 +709,9 @@ Using a Higher-Level Spell Slot. The damage (both initial and later) increases b
 
 Level 2 Divination (Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 120 feet Components: S
-
+Casting Time: Action
+Range: 120 feet
+Components: S
 Duration: Concentration, up to 1 hour
 
 You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
@@ -709,7 +725,9 @@ Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)
 
 Casting Time: Action
 
-Range: Self Components: V, S Duration: 1 minute
+Range: Self
+Components: V, S
+Duration: 1 minute
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 
@@ -783,10 +801,14 @@ Duration: Concentration, up to 1 hour
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
 
-Casting Time: Action Range: 60 feet
 
+### PHANTASMAL FORCE
+
+Level 2 Illusion (Bard, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
 Components: V, S, M (a bit of fleece)
-
 Duration: Concentration, up to 1 minute
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
@@ -804,9 +826,9 @@ Level 2 Abjuration (Cleric, Paladin)
 
 Casting Time: 10 minutes
 
-Range: 30 feet Components: V
-
-**Duration:** Instantaneous
+Range: 30 feet
+Components: V
+Duration: Instantaneous
 
 Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
 
@@ -817,7 +839,10 @@ Using a Higher-Level Spell Slot. The healing increases by 1d8 for each spell slo
 
 Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)
 
-Casting Time: Action Range: Touch Components: V, S Duration: 1 hour
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: 1 hour
 
 You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
@@ -826,8 +851,9 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 
 Level 2 Necromancy (Warlock, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
+Casting Time: Action
+Range: 60 feet
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.
@@ -858,7 +884,10 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 
 Level 2 Evocation (Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
 
 You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
 
@@ -938,13 +967,9 @@ Range: Touch
 Components: V, S, M (a drop of bitumen and a spider)
 Duration: Concentration, up to 1 hour
 
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed.
 
-vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed
-
-equal to its Speed.
-
-Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 2.
+Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 2.
 
 
 ### SPIKE GROWTH
@@ -1133,7 +1158,7 @@ Radiant Mace (Defender Only). Melee Attack Roll: Bonus equals your spell attack 
 Healing Touch (1/Day). The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell's level.
 
 
-### Using a Higher-Level Spell Slot. Both types of damage increase by 1d8 for each spell slot level above 6.
+### WARDING BOND
 
 Level 2 Abjuration (Cleric, Paladin)
 
@@ -1174,9 +1199,13 @@ The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 
 
 
 ### ZONE OF TRUTH
+
 Level 2 Enchantment (Bard, Cleric, Paladin)
 
-Casting Time: Action Range: 60 feet Components: V, S Duration: 10 minutes
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: 10 minutes
 
 You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 

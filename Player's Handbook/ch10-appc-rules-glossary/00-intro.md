@@ -78,13 +78,12 @@ A creature is your ally if it is a member of your adventuring party, your friend
 
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary:
 
-Cone
-
-Cylinder Emanation Line
-
-Cube
-
-Sphere
+- Cone
+- Cube
+- Cylinder
+- Emanation
+- Line
+- Sphere
 
 An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect.
 
@@ -215,11 +214,11 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 
 | Creature Size | Carry                 | Drag/Lift/Push       |
 |---------------|-----------------------|----------------------|
-| Tiny          | Str. $\times$ 7.5 lb. | Str. × 15 lb.        |
-| Small/Medium  | Str. $\times$ 15 lb.  | Str. × 30 lb.        |
-| Large         | Str. $\times$ 30 lb.  | Str. $\times$ 60 lb. |
-| Huge          | Str. $\times$ 60 lb.  | Str. × 120 lb.       |
-| Gargantuan    | Str. $\times$ 120 lb. | Str. × 240 lb.       |
+| Tiny          | Str. × 7.5 lb.  | Str. × 15 lb.  |
+| Small/Medium  | Str. × 15 lb.   | Str. × 30 lb.  |
+| Large         | Str. × 30 lb.   | Str. × 60 lb.  |
+| Huge          | Str. × 60 lb.   | Str. × 120 lb. |
+| Gargantuan    | Str. × 120 lb.  | Str. × 240 lb. |
 
 ### CHALLENGE RATING
 
@@ -343,21 +342,21 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 
 ### DAMAGE TYPES
 
-| Туре        | Examples                             |  |  |
-|-------------|--------------------------------------|--|--|
-| Acid        | Corrosive liquids, digestive enzymes |  |  |
-| Bludgeoning | Blunt objects, constriction, falling |  |  |
-| Cold        | Freezing water, icy blasts           |  |  |
-| Fire        | Flames, unbearable heat              |  |  |
-| Force       | Pure magical energy                  |  |  |
-| Lightning   | Electricity                          |  |  |
-| Necrotic    | Life-draining energy                 |  |  |
-| Piercing    | Fangs, puncturing objects            |  |  |
-| Poison      | Toxic gas, venom                     |  |  |
-| Psychic     | Mind-rending energy                  |  |  |
-| Radiant     | Holy energy, searing radiation       |  |  |
-| Slashing    | Claws, cutting objects               |  |  |
-| Thunder     | Concussive sound                     |  |  |
+| Type        | Examples                             |
+|-------------|--------------------------------------|
+| Acid        | Corrosive liquids, digestive enzymes |
+| Bludgeoning | Blunt objects, constriction, falling |
+| Cold        | Freezing water, icy blasts           |
+| Fire        | Flames, unbearable heat              |
+| Force       | Pure magical energy                  |
+| Lightning   | Electricity                          |
+| Necrotic    | Life-draining energy                 |
+| Piercing    | Fangs, puncturing objects            |
+| Poison      | Toxic gas, venom                     |
+| Psychic     | Mind-rending energy                  |
+| Radiant     | Holy energy, searing radiation       |
+| Slashing    | Claws, cutting objects               |
+| Thunder     | Concussive sound                     |
 
 ### DARKNESS
 
@@ -409,10 +408,10 @@ If a space is Difficult Terrain, every foot of movement in that space costs 1 ex
 
 A space is Difficult Terrain if the space contains any of the following or something similar:
 
-- · A creature that isn't Tiny or your ally
+- A creature that isn't Tiny or your ally
 - Furniture that is sized for creatures of your size or larger
-- · Heavy snow, ice, rubble, or undergrowth
-- · Liquid that's between shin- and waist-deep
+- Heavy snow, ice, rubble, or undergrowth
+- Liquid that's between shin- and waist-deep
 - A narrow opening sized for a creature one size smaller than you
 - A slope of 20 degrees or more
 
@@ -562,7 +561,7 @@ On a successful check, you have the Invisible condition. Make note of your check
 
 The condition ends on you immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
-### НIGH JUMP
+### HIGH JUMP
 
 When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.
 
@@ -634,14 +633,13 @@ Hesitant. If you urge the monster to do something that it is hesitant to do, you
 
 ### INFLUENCE CHECKS
 
-| Interaction                               |
-|-------------------------------------------|
-| Deceiving a monster that understands you  |
-| Intimidating a monster                    |
-| Amusing a monster                         |
-| Persuading a monster that understands you |
-| Gently coaxing a Beast or Monstrosity     |
-|                                           |
+| Interaction                               | Ability Check   |
+|-------------------------------------------|-----------------|
+| Deceiving a monster that understands you  | Deception       |
+| Intimidating a monster                    | Intimidation    |
+| Amusing a monster                         | Performance     |
+| Persuading a monster that understands you | Persuasion      |
+| Gently coaxing a Beast or Monstrosity     | Animal Handling |
 
 ### INITIATIVE
 
@@ -709,13 +707,13 @@ Special Feature. Some features are recharged by a Long Rest. If you have such a 
 
 Interrupting the Rest. A Long Rest is stopped by the following interruptions:
 
-- · Rolling Initiative
-- · Casting a spell other than a cantrip
+- Rolling Initiative
+- Casting a spell other than a cantrip
 
 ![](../images/_page_369_Picture_0.jpeg)
 
-- · Taking any damage
-- · 1 hour of walking or other physical exertion
+- Taking any damage
+- 1 hour of walking or other physical exertion
 
 If you rested at least 1 hour before the interruption, you gain the benefits of a Short Rest. See also "Short Rest."
 
@@ -818,7 +816,7 @@ While you have the Poisoned condition, you experience the following effect.
 
 Ability Checks and Attacks Affected. You have Disadvantage on attack rolls and ability checks.
 
-### Possession
+### POSSESSION
 
 Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the *Protection from Evil and Good* spell and ended by the *Dispel Evil and Good* spell.
 
@@ -856,7 +854,7 @@ If you have Resistance to a damage type, damage of that type is halved against y
 
 While you have the Restrained condition, you experience the following effects.
 
-Speed O. Your Speed is O and can't increase.
+Speed 0. Your Speed is 0 and can't increase.
 
 Attacks Affected. Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
@@ -886,12 +884,12 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 ### SEARCH
 
-| Skill      | Thing to Detect                      |  |
-|------------|--------------------------------------|--|
-| Insight    | Creature's state of mind             |  |
-| Medicine   | Creature's ailment or cause of death |  |
-| Perception | Concealed creature or object         |  |
-| Survival   | Tracks or food                       |  |
+| Skill      | Thing to Detect                      |
+|------------|--------------------------------------|
+| Insight    | Creature's state of mind             |
+| Medicine   | Creature's ailment or cause of death |
+| Perception | Concealed creature or object         |
+| Survival   | Tracks or food                       |
 
 ### SHAPE-SHIFTING
 
@@ -909,9 +907,9 @@ Special Feature. Some features are recharged by a Short Rest. If you have such a
 
 Interrupting the Rest. A Short Rest is stopped by the following interruptions:
 
-- · Rolling Initiative
-- · Casting a spell other than a cantrip
-- · Taking any damage
+- Rolling Initiative
+- Casting a spell other than a cantrip
+- Taking any damage
 
 An interrupted Short Rest confers no benefits.
 
@@ -1005,7 +1003,7 @@ Attack Notation. The entry for a monster's attack starts by identifying whether 
 
 Saving Throw Effect Notation. If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
-Damage Notation. A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (ld4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
+Damage Notation. A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
 
 ### STUDY [ACTION]
 
@@ -1015,9 +1013,8 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 ### AREAS OF KNOWLEDGE
 
-| AREAS OF K    | NOWLEDGE                                                                                                                                                            |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Skill         | Areas                                                                                                                                                               |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arcana        | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
 | History       | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)                                                               |
 | Investigation | Traps, ciphers, riddles, and gadgetry                                                                                                                               |
@@ -1092,7 +1089,7 @@ Invisibility. You see creatures and objects that have the Invisible condition.
 
 Visual Illusions. Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
 
-'Transformations. You discern the true form of any creature or object you see that has been transformed by magic.
+Transformations. You discern the true form of any creature or object you see that has been transformed by magic.
 
 Ethereal Plane. You see into the Ethereal Plane. See also appendix A ("Transitive Planes").
 
@@ -1108,7 +1105,7 @@ Grapple. The target must succeed on a Strength or Dexterity saving throw (it cho
 
 Shove. The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
 
-### Unconscious [Condition]
+### UNCONSCIOUS [CONDITION]
 
 While you have the Unconscious condition, you experience the following effects.
 

@@ -1,6 +1,6 @@
 # CHARACTER CLASSES
 
-CHARACTER CLASS PROVIDES A CHARACTER'S most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
+A CHARACTER CLASS PROVIDES A CHARACTER'S most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
 
 **Barbarian.** Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the ...
 

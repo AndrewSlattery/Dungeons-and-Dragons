@@ -3,7 +3,7 @@
 | Trait | Detail |
 |-------|--------|
 | **Primary Ability** | Dexterity and Wisdom |
-| **Hit Point Die** | D8 per Monk level |
+| **Hit Point Die** | d8 per Monk level |
 | **Saving Throw Proficiencies** | Strength and Dexterity |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Light property |

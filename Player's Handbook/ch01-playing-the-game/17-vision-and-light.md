@@ -24,4 +24,7 @@ Darkness. Darkness creates a Heavily Obscured area. Characters face Darkness out
 
 Some creatures have special senses that help them perceive things in certain situations. The rules glossary defines the following special senses:
 
-Blindsight Darkvision Tremorsense Truesight
+- Blindsight
+- Darkvision
+- Tremorsense
+- Truesight

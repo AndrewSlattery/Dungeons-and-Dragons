@@ -4,9 +4,10 @@
 
 Evocation Cantrip (Sorcerer, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
@@ -17,10 +18,9 @@ Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (
 
 Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: Self
-
+Casting Time: Action
+Range: Self
 Components: V, S
-
 Duration: Concentration, up to 1 minute
 
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
@@ -30,9 +30,12 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 
 Necromancy Cantrip (Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: Touch Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes Id10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
 Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
@@ -41,10 +44,9 @@ Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11
 
 Illusion Cantrip (Bard, Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet
-
+Casting Time: Action
+Range: 120 feet
 Components: V, S, M (a bit of phosphorus)
-
 Duration: Concentration, up to 1 minute
 
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius.
@@ -58,9 +60,10 @@ As a Bonus Action, you can move the lights up to 60 feet to a space within range
 
 Transmutation Cantrip (Druid)
 
-Casting Time: Action Range: 30 feet Components: V, S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 
@@ -81,7 +84,10 @@ Fire Play. You light or snuff out a candle, a torch, or a campfire.
 
 Evocation Cantrip (Warlock)
 
-Casting Time: Action Range: 120 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
 
 You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
 
@@ -92,7 +98,10 @@ Cantrip Upgrade. The spell creates two beams at level 5, three beams at level 11
 
 Transmutation Cantrip (Druid, Sorcerer, Wizard)
 
-Casting Time: Action Range: 30 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 You exert control over the elements, creating one of the following effects within range.
 
@@ -111,7 +120,10 @@ Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit i
 
 Evocation Cantrip (Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
 
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the
 
@@ -124,10 +136,9 @@ Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11
 
 Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 10 feet
-
+Casting Time: Action
+Range: 10 feet
 Components: S, M (some makeup)
-
 Duration: Concentration, up to 1 minute
 
 You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
@@ -140,9 +151,8 @@ The spell ends early if the target takes damage or if you make an attack roll, d
 Divination Cantrip (Cleric, Druid)
 
 Casting Time: Action
-
-Range: Touch Component: V, S
-
+Range: Touch
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
@@ -153,11 +163,8 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)
 
 Casting Time: Action
-
 Range: Touch
-
 Components: V, M (a firefly or phosphorescent moss)
-
 Duration: 1 hour
 
 You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
@@ -169,7 +176,10 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 
 Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet Components: V, S Duration: 1 minute
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
@@ -185,36 +195,36 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)
 
 Casting Time: 1 minute
-
 Range: Touch
-
 Components: V, S, M (two lodestones)
-
-**Duration: Instantaneous** 
+Duration: Instantaneous
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
 
+This spell can physically repair a magic item, but it can't restore magic to such an object.
 
-### This spell can physically repair a magic item, but it can't restore magic to such an object. MESSAGE
+### MESSAGE
 
 Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)
 
-Casting Time: Action Range: 120 feet
-
+Casting Time: Action
+Range: 120 feet
 Components: S, M (a copper wire)
-
 Duration: 1 round
 
 You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 
-You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; I foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, metal, or wood, or a thin sheet of lead blocks the spell.
 
 
 ### MIND SLIVER
 
 Enchantment Cantrip (Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V Duration: 1 round
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: 1 round
 
 You try to temporarily sliver the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 Psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
 
@@ -225,10 +235,9 @@ Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (
 
 Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 30 feet
-
+Casting Time: Action
+Range: 30 feet
 Components: S, M (a bit of fleece)
-
 Duration: 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
@@ -242,11 +251,12 @@ Image. If you create an image of an object—such as a chair, muddy footprints, 
 
 ### POISON SPRAY
 
-Necromancy Cantrip (Druid, Sorcerer, Warlock,
+Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)
 
-Wizard)
-
-Casting Time: Action Range: 30 feet Components: V, S **Duration:** Instantaneous
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 
@@ -257,7 +267,10 @@ Cantrip Upgrade. The damage increases by 1d12 when you reach levels 5 (2d12), 11
 
 Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
-Casting Time: Action Range: 10 feet Components: V, S Duration: Up to 1 hour
+Casting Time: Action
+Range: 10 feet
+Components: V, S
+Duration: Up to 1 hour
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 
@@ -275,11 +288,13 @@ Minor Creation. You create a nonmagical trinket or an illusory image that can fi
 
 
 ### PRODUCE FLAME
+
 Conjuration Cantrip (Druid)
 
 Casting Time: Bonus Action
-
-Range: Self Components: V, S Duration: 10 minutes
+Range: Self
+Components: V, S
+Duration: 10 minutes
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
 
@@ -294,9 +309,10 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (
 
 Evocation Cantrip (Sorcerer, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 
@@ -307,8 +323,9 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (
 
 Abjuration Cantrip (Cleric, Druid)
 
-Casting Time: Action Range: Touch Component: V, S
-
+Casting Time: Action
+Range: Touch
+Components: V, S
 Duration: Concentration, up to 1 minute
 
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
@@ -318,9 +335,10 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 
 Evocation Cantrip (Cleric)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
-**Duration: Instantaneous** 
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
@@ -332,12 +350,9 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (
 Transmutation Cantrip (Druid)
 
 Casting Time: Bonus Action
-
 Range: Self
-
 Components: V, S, M (mistletoe)
-
-**Duration: 1 minute** 
+Duration: 1 minute
 
 A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that
 
@@ -352,7 +367,10 @@ Cantrip Upgrade. The damage die changes when you reach levels 5 (d10), 11 (d12),
 
 Evocation Cantrip (Sorcerer, Wizard)
 
-Casting Time: Action Range: Touch Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 
@@ -363,9 +381,12 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (
 
 Necromancy Cantrip (Cleric, Druid)
 
-Casting Time: Action Range: 15 feet Components: V, S **Duration: Instantaneous** 
+Casting Time: Action
+Range: 15 feet
+Components: V, S
+Duration: Instantaneous
 
-Choose a creature within range that has O Hit Points and isn't dead. The creature becomes Stable.
+Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 
 Cantrip Upgrade. The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet). A HUMAN DRUID USES SPEAK WITH ANIMALS TO CHAT WITH HIS BEST BEAR FRIEND.
 
@@ -376,7 +397,10 @@ Cantrip Upgrade. The range doubles when you reach levels 5 (30 feet), 11 (60 fee
 
 Evocation Cantrip (Bard, Druid)
 
-Casting Time: Action Range: 60 feet Components: V, S Duration: Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 
@@ -387,8 +411,9 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (
 
 Transmutation Cantrip (Cleric)
 
-Casting Time: Action Range: 30 feet Components: V
-
+Casting Time: Action
+Range: 30 feet
+Components: V
 Duration: Up to 1 minute
 
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
@@ -410,11 +435,10 @@ Tremors. You cause harmless tremors in the ground for 1 minute.
 
 Transmutation Cantrip (Druid)
 
-Casting Time: Action Range: 30 feet
-
+Casting Time: Action
+Range: 30 feet
 Components: V, S, M (the stem of a thorny plant)
-
-**Duration: Instantaneous** 
+Duration: Instantaneous
 
 You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes 1d6 Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you.
 
@@ -426,10 +450,9 @@ Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (
 Evocation Cantrip (Bard, Druid, Sorcerer, Warlock, Wizard)
 
 Casting Time: Action
-
-Range: Self Components: S
-
-**Duration: Instantaneous** 
+Range: Self
+Components: S
+Duration: Instantaneous
 
 Each creature in a 5-foot Emanation originating from you must succeed on a Constitution saving throw or take 1d6 Thunder damage. The spell's thunderous sound can be heard up to 100 feet away.
 
@@ -440,9 +463,10 @@ Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (
 
 Necromancy Cantrip (Cleric, Warlock, Wizard)
 
-Casting Time: Action Range: 60 feet Components: V, S
-
-**Duration:** Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 You point at one creature you can see within range, and the single chime of a dolorous bell is audible within 10 feet of the target. The target must succeed on a Wisdom saving throw or take 1d8 Necrotic damage. If the target is missing any of its Hit Points, it instead takes 1d12 Necrotic damage.
 
@@ -454,12 +478,9 @@ Cantrip Upgrade. The damage increases by one die when you reach levels 5 (2d8 or
 Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
 Casting Time: Action
-
 Range: Self
-
 Components: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
-
-**Duration:** Instantaneous
+Duration: Instantaneous
 
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
 
@@ -470,9 +491,10 @@ Cantrip Upgrade. Whether you deal Radiant damage or the weapon's normal damage t
 
 Enchantment Cantrip (Bard)
 
-Casting Time: Action Range: 60 feet Components: V
-
-**Duration: Instantaneous** 
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
 
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 
@@ -484,14 +506,10 @@ Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (
 Evocation Cantrip (Cleric)
 
 Casting Time: Action
-
 Range: Self
-
 Components: V, M (a sunburst token)
-
-**Duration: Instantaneous** 
+Duration: Instantaneous
 
 Burning radiance erupts from you in a 5-foot Emanation. Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take 1d6 Radiant damage.
 
 Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
-
