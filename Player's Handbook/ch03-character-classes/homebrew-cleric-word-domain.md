@@ -10,12 +10,13 @@ Gods of this domain are patrons of truth, law and prophecy. Their power is sough
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Word Domain Spells table, you thereafter always have the listed spells prepared.
 
-| Cleric Level | Prepared Spells                                     |
-| ------------ | --------------------------------------------------- |
-|            3 | *Command*, *Heroism*, *Suggestion*, *Zone of Truth* |
-|            5 | *Sending*, *Tongues*                                |
-|            7 | *Compulsion*, *Divination*                          |
-|            9 | *Geas*, *Rary's Telepathic Bond*                    |
+| Cleric Level | Prepared Spells                  |
+| ------------ | -------------------------------- |
+|            3 | *Command*, *Heroism*             |
+|              | *Suggestion*, *Zone of Truth*    |
+|            5 | *Sending*, *Tongues*             |
+|            7 | *Compulsion*, *Divination*       |
+|            9 | *Geas*, *Rary's Telepathic Bond* |
 
 ## LEVEL 3: HOPE AND HAVOC
 
