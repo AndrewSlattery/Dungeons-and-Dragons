@@ -367,11 +367,10 @@ HP 30 + 10 for each spell level
 
 Speed 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 17 +3 +3 DEX 13 +1 +1 CON 15 +2 +2
-
-INT 4 -3 -3 Wis 14 +2 +2 Cha 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +3   | DEX | 13 | +1 | +1   | CON | 15 | +2 | +2   |
+| INT | 4  | -3 | -3   | WIS | 14 | +2 | +2   | CHA | 3  | -4 | -4   |
 
 Senses Darkvision 60 ft., Passive Perception 12 Languages Understands the languages you know CR None (XP 0; PB equals your Proficiency Bonus)
 
@@ -463,7 +462,7 @@ Stairs. Webs fill all stairs in the warded area from top to bottom, as in the We
 Other Spell Effect. Place one of the following magical effects within the warded area:
 
 - Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts
-- · Magic Mouth in two locations
+- Magic Mouth in two locations
 - Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)
 - Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts)
 - Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
@@ -581,7 +580,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 - Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
 - Creatures in the area can't be targeted by Divination spells.
 - Nothing can teleport into or out of the warded area.
-- · Planar travel is blocked within the warded area.
+- Planar travel is blocked within the warded area.
 
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 
@@ -766,15 +765,10 @@ Speed 40 ft.; Burrow 40 ft. (Earth only); Fly 40 ft.
 
 (hover; Air only); Swim 40 ft. (Water only)
 
-MOD SAVE
-
-MOD SAVE
-
-MOD SAVE
-
-STR 18 +4 +4 DEX 15 +2 +2 CON 17 +3 +3
-
-INT 4 -3 -3 WIS 10 +0 +0 CHA 16 +3 +3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 15 | +2 | +2   | CON | 17 | +3 | +3   |
+| INT | 4  | -3 | -3   | WIS | 10 | +0 | +0   | CHA | 16 | +3 | +3   |
 
 Resistances Acid (Water only), Lightning and Thunder (Air only), Piercing and Slashing (Earth only)
 

@@ -370,6 +370,8 @@ At the end of every 10 minutes you spend concentrating on the spell, you can cho
 
 This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
 
+Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
+
 
 ### OTILUKE'S FREEZING SPHERE
 
@@ -459,11 +461,10 @@ Small Fey, Neutral
 
 AC 12 + the spell's level HP 30 + 10 for each spell level above 3 Speed 30 ft., Fly 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 13 +1 +1 DEX 16 +3 +3 CON 14 +2 +2
-
-INT 14 +2 +2 WIS 11 +0 +0 CHA 16 +3 +3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 16 | +3 | +3   | CON | 14 | +2 | +2   |
+| INT | 14 | +2 | +2   | WIS | 11 | +0 | +0   | CHA | 16 | +3 | +3   |
 
 #### **Immunities** Charmed
 
@@ -500,10 +501,10 @@ HP 50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell 
 
 Speed 40 ft.; Climb 40 ft. (Demon only); Fly 60 ft. (Devil only)
 
-|     |    | MOD | SAVE |        | MOD | SAVE |        | MOD | SAVE |
-|-----|----|-----|------|--------|-----|------|--------|-----|------|
-| STR | 13 | +1  | +1   | DEX 16 | +3  | +3   | CON 15 | +2  | +2   |
-| INT | 10 | +0  | +0   | Wis 10 | +0  | +0   | CHA 16 | +3  | +3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 16 | +3 | +3   | CON | 15 | +2 | +2   |
+| INT | 10 | +0 | +0   | WIS | 10 | +0 | +0   | CHA | 16 | +3 | +3   |
 
 Resistances Fire
 

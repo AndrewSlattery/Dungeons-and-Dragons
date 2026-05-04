@@ -806,7 +806,7 @@ Range: Touch
 Components: V, S
 Duration: Instantaneous
 
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes Id10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
 Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
@@ -1005,12 +1005,12 @@ You commune with nature spirits and gain knowledge of the surrounding area. In t
 
 Choose three of the following facts; you learn those facts as they pertain to the spell's area:
 
-- · Locations of settlements
-- · Locations of portals to other planes of existence
+- Locations of settlements
+- Locations of portals to other planes of existence
 - Location of one Challenge Rating 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
 
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
-- · Locations of bodies of water
+- Locations of bodies of water
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
@@ -2399,10 +2399,10 @@ HP 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to th
 
 Speed 60 ft., Fly 60 ft. (requires level 4+ spell)
 
-|     |    | MOD | SAVE |     |    | MOD | SAVE |               | MOD | SAVE |
-|-----|----|-----|------|-----|----|-----|------|---------------|-----|------|
-| STR | 18 | +4  | +4   | DEX | 12 | +1  | +1   | <b>CON 14</b> | +2  | +2   |
-| INT | 6  | -2  | -2   | Wis | 12 | +1  | +1   | CHA 8         | -1  | -1   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 12 | +1 | +1   | CON | 14 | +2 | +2   |
+| INT | 6  | -2 | -2   | WIS | 12 | +1 | +1   | CHA | 8  | -1 | -1   |
 
 Senses Passive Perception 11
 
@@ -3024,12 +3024,11 @@ Duration: Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:
 
-- · 1 Exhaustion level
-- · The Charmed or Petrified condition
-
+- 1 Exhaustion level
+- The Charmed or Petrified condition
 - A curse, including the target's Attunement to a cursed magic item
-- · Any reduction to one of the target's ability scores
-- · Any reduction to the target's Hit Point maximum
+- Any reduction to one of the target's ability scores
+- Any reduction to the target's Hit Point maximum
 
 ### GUARDIAN OF FAITH
 
@@ -3071,7 +3070,7 @@ Stairs. Webs fill all stairs in the warded area from top to bottom, as in the We
 Other Spell Effect. Place one of the following magical effects within the warded area:
 
 - Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts
-- · Magic Mouth in two locations
+- Magic Mouth in two locations
 - Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)
 - Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts)
 - Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
@@ -3392,7 +3391,9 @@ Duration: Concentration, up to 1 minute
 
 You open a gateway to the Far Realm, a region infested with unspeakable horrors. A 20-foot-radius Sphere of Darkness appears, centered on a point with range and lasting for the duration. The Sphere is Difficult Terrain, and it is filled with strange whispers and slurping noises, which can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the Blinded condition.
 
-Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn Using a Higher-Level Spell Slot. The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
+Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn in the area takes 2d6 Acid damage.
+
+Using a Higher-Level Spell Slot. The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 
 ### HUNTER'S MARK
 
@@ -3407,7 +3408,7 @@ Duration: Concentration, up to 1 hour
 
 You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
 
-If the target drops to O Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
+If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 
 Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
@@ -3554,7 +3555,7 @@ Duration: Instantaneous
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
-Using a Higher-Level Spell Slot. The damage increases by Id10 for each spell slot level above 1.
+Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 1.
 
 ![](../images/_page_287_Picture_0.jpeg)
 
@@ -4380,7 +4381,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 - Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
 - Creatures in the area can't be targeted by Divination spells.
 - Nothing can teleport into or out of the warded area.
-- · Planar travel is blocked within the warded area.
+- Planar travel is blocked within the warded area.
 
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 
@@ -4420,7 +4421,9 @@ At the end of every 10 minutes you spend concentrating on the spell, you can cho
 
 This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
 
-### Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it. NONDETECTION
+Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
+
+### NONDETECTION
 
 Level 3 Abjuration (Bard, Ranger, Wizard)
 
@@ -5070,7 +5073,9 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 | 4    | Elf        | 9    | Orc      |
 | 5    | Gnome      | 10   | Tiefling |
 
-### The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one. REMOVE CURSE
+The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
+
+### REMOVE CURSE
 
 Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)
 
@@ -5563,7 +5568,7 @@ Range: 15 feet
 Components: V, S
 Duration: Instantaneous
 
-Choose a creature within range that has O Hit Points and isn't dead. The creature becomes Stable.
+Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 
 Cantrip Upgrade. The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet). A HUMAN DRUID USES SPEAK WITH ANIMALS TO CHAT WITH HIS BEST BEAR FRIEND.
 
@@ -5909,10 +5914,10 @@ HP 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2
 
 Speed 30 ft.; Climb 30 ft. (Land only); Fly 60 ft. (Air only); Swim 30 ft. (Water only)
 
-| A CONTRACTOR |    | MOD | SAVE |       | MOD  | SAVE |        | MOD | SAVE |
-|--------------|----|-----|------|-------|------|------|--------|-----|------|
-| STR          | 18 | +4  | +4   | DEX 1 | 1 +0 | +0   | CON 16 | +3  | +3   |
-| INT          | 4  | -3  | -3   | Wis 1 | 4 +2 | +2   | CHA 5  | -3  | -3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 11 | +0 | +0   | CON | 16 | +3 | +3   |
+| INT | 4  | -3 | -3   | WIS | 14 | +2 | +2   | CHA | 5  | -3 | -3   |
 
 Senses Darkvision 60 ft., Passive Perception 12 Languages understands the languages you know CR None (XP 0; PB equals your Proficiency Bonus)
 
@@ -5938,10 +5943,10 @@ Large Celestial, Neutral
 
 AC 11 + the spell's level + 2 (Defender only) HP 40 + 10 for each spell level above 5 Speed 30 ft., Fly 40 ft.
 
-|     |    | MOD | SAVE |               | MOD | SAVE |               | MOD | SAVE |
-|-----|----|-----|------|---------------|-----|------|---------------|-----|------|
-| STR | 16 | +3  | +3   | <b>DEX 14</b> | +2  | +2   | CON 16        | +3  | +3   |
-| INT | 10 | +0  | +0   | Wis 14        | +2  | +2   | <b>CHA</b> 16 | +3  | +3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 14 | +2 | +2   | CON | 16 | +3 | +3   |
+| INT | 10 | +0 | +0   | WIS | 14 | +2 | +2   | CHA | 16 | +3 | +3   |
 
 Resistances Radiant
 
@@ -6199,10 +6204,10 @@ HP 50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell 
 
 Speed 40 ft.; Climb 40 ft. (Demon only); Fly 60 ft. (Devil only)
 
-|     |    | MOD | SAVE |        | MOD | SAVE |        | MOD | SAVE |
-|-----|----|-----|------|--------|-----|------|--------|-----|------|
-| STR | 13 | +1  | +1   | DEX 16 | +3  | +3   | CON 15 | +2  | +2   |
-| INT | 10 | +0  | +0   | Wis 10 | +0  | +0   | CHA 16 | +3  | +3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 16 | +3 | +3   | CON | 15 | +2 | +2   |
+| INT | 10 | +0 | +0   | WIS | 10 | +0 | +0   | CHA | 16 | +3 | +3   |
 
 Resistances Fire
 
@@ -6261,10 +6266,10 @@ HP 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level 
 
 Speed 30 ft.; Fly 40 ft. (hover; Ghostly only)
 
-|     |    | MOD | SAVE | - 55  |    | MOD | SAVE | 0 250  | мор | SAVE |
-|-----|----|-----|------|-------|----|-----|------|--------|-----|------|
-| STR | 12 | +1  | +1   | DEX 1 | 16 | +3  | +3   | CON 15 | +2  | +2   |
-| INT | 4  | -3  | -3   | Wis 1 | 0  | +0  | +0   | CHA 9  | -1  | -1   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 12 | +1 | +1   | DEX | 16 | +3 | +3   | CON | 15 | +2 | +2   |
+| INT | 4  | -3 | -3   | WIS | 10 | +0 | +0   | CHA | 9  | -1 | -1   |
 
 Immunities Necrotic, Poison; Exhaustion, Frightened, Paralyzed, Poisoned
 

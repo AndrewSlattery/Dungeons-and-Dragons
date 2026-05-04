@@ -398,10 +398,10 @@ HP 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to th
 
 Speed 60 ft., Fly 60 ft. (requires level 4+ spell)
 
-|     |    | MOD | SAVE |     |    | MOD | SAVE |               | MOD | SAVE |
-|-----|----|-----|------|-----|----|-----|------|---------------|-----|------|
-| STR | 18 | +4  | +4   | DEX | 12 | +1  | +1   | <b>CON 14</b> | +2  | +2   |
-| INT | 6  | -2  | -2   | Wis | 12 | +1  | +1   | CHA 8         | -1  | -1   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 12 | +1 | +1   | CON | 14 | +2 | +2   |
+| INT | 6  | -2 | -2   | WIS | 12 | +1 | +1   | CHA | 8  | -1 | -1   |
 
 Senses Passive Perception 11
 
@@ -1045,11 +1045,10 @@ HP 40 + 10 for each spell level above 4
 
 Speed 30 ft.; Fly 30 ft. (hover; Beholderkin only)
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 16 +3 +3 DEX 10 +0 +0 CON 15 +2 +2
-
-INT 16 +3 +3 WIS 10 +0 +0 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 10 | +0 | +0   | CON | 15 | +2 | +2   |
+| INT | 16 | +3 | +3   | WIS | 10 | +0 | +0   | CHA | 6  | -2 | -2   |
 
 **Immunities** Psychic
 
@@ -1105,10 +1104,10 @@ HP 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2
 
 Speed 30 ft.; Climb 30 ft. (Land only); Fly 60 ft. (Air only); Swim 30 ft. (Water only)
 
-| A CONTRACTOR |    | MOD | SAVE |       | MOD  | SAVE |        | MOD | SAVE |
-|--------------|----|-----|------|-------|------|------|--------|-----|------|
-| STR          | 18 | +4  | +4   | DEX 1 | 1 +0 | +0   | CON 16 | +3  | +3   |
-| INT          | 4  | -3  | -3   | Wis 1 | 4 +2 | +2   | CHA 5  | -3  | -3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 11 | +0 | +0   | CON | 16 | +3 | +3   |
+| INT | 4  | -3 | -3   | WIS | 14 | +2 | +2   | CHA | 5  | -3 | -3   |
 
 Senses Darkvision 60 ft., Passive Perception 12 Languages understands the languages you know CR None (XP 0; PB equals your Proficiency Bonus)
 
@@ -1134,10 +1133,10 @@ Large Celestial, Neutral
 
 AC 11 + the spell's level + 2 (Defender only) HP 40 + 10 for each spell level above 5 Speed 30 ft., Fly 40 ft.
 
-|     |    | MOD | SAVE |               | MOD | SAVE |               | MOD | SAVE |
-|-----|----|-----|------|---------------|-----|------|---------------|-----|------|
-| STR | 16 | +3  | +3   | <b>DEX 14</b> | +2  | +2   | CON 16        | +3  | +3   |
-| INT | 10 | +0  | +0   | Wis 14        | +2  | +2   | <b>CHA</b> 16 | +3  | +3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 14 | +2 | +2   | CON | 16 | +3 | +3   |
+| INT | 10 | +0 | +0   | WIS | 14 | +2 | +2   | CHA | 16 | +3 | +3   |
 
 Resistances Radiant
 

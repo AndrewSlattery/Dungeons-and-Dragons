@@ -20,10 +20,10 @@ AC 15
 
 HP 10 (Medium or smaller), 20 (Large), 40 (Huge) Speed 30 ft.
 
-|     |    | MOD | SAVE |     |    | MOD | SAVE |       | MOD | SAVE |
-|-----|----|-----|------|-----|----|-----|------|-------|-----|------|
-| STR | 16 | +3  | +3   | DEX | 10 | +0  | +0   | CON 1 | 0+0 | +0   |
-| INT | 3  | -4  | -4   | Wis | 3  | -4  | -4   | CHA 1 | -5  | -5   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 10 | +0 | +0   | CON | 10 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 3  | -4 | -4   | CHA | 1  | -5 | -5   |
 
 Immunities Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Senses Blindsight 30 ft., Passive Perception 6 Languages Understands the languages you know CR None (XP 0; PB equals your Proficiency Bonus)
 
@@ -191,12 +191,11 @@ You commune with nature spirits and gain knowledge of the surrounding area. In t
 
 Choose three of the following facts; you learn those facts as they pertain to the spell's area:
 
-- · Locations of settlements
-- · Locations of portals to other planes of existence
+- Locations of settlements
+- Locations of portals to other planes of existence
 - Location of one Challenge Rating 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
-
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
-- · Locations of bodies of water
+- Locations of bodies of water
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
@@ -392,12 +391,11 @@ Duration: Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:
 
-- · 1 Exhaustion level
-- · The Charmed or Petrified condition
-
+- 1 Exhaustion level
+- The Charmed or Petrified condition
 - A curse, including the target's Attunement to a cursed magic item
-- · Any reduction to one of the target's ability scores
-- · Any reduction to the target's Hit Point maximum
+- Any reduction to one of the target's ability scores
+- Any reduction to the target's Hit Point maximum
 
 
 ### HALLOW
@@ -659,6 +657,8 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 | 4    | Elf        | 9    | Orc      |
 | 5    | Gnome      | 10   | Tiefling |
 
+The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
+
 
 ### SCRYING
 
@@ -749,11 +749,10 @@ Medium Construct, Neutral
 
 AC 13 + the spell's level HP 40 + 15 for each spell level above 4 Speed 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 18 +4 +4 DEX 10 +0 +0 CON 18 +4 +4
-
-INT 14 +2 +2 Wis 11 +0 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 10 | +0 | +0   | CON | 18 | +4 | +4   |
+| INT | 14 | +2 | +2   | WIS | 11 | +0 | +0   | CHA | 5  | -3 | -3   |
 
 Resistances Poison
 Immunities Charmed, Exhaustion, Frightened,
@@ -788,11 +787,10 @@ Large Dragon, Neutral
 
 AC 14 + the spell's level HP 50 + 10 for each spell level above 5 Speed 30 ft., Fly 60 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 19 +4 +4 DEX 14 +2 +2 CON 17 +3 +3
-
-INT 10 +0 +0 WIS 14 +2 +2 CHA 14 +2 +2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 19 | +4 | +4   | DEX | 14 | +2 | +2   | CON | 17 | +3 | +3   |
+| INT | 10 | +0 | +0   | WIS | 14 | +2 | +2   | CHA | 14 | +2 | +2   |
 
 Resistances Acid, Cold, Fire, Lightning, Poison Immunities Charmed, Frightened, Poisoned Senses Blindsight 30 ft., Darkvision 60 ft., Passive Perception 12
 

@@ -12,11 +12,10 @@ AC 12 Initiative +2 (12) HP 19 (3d8 + 6)
 
 Speed 30 ft., Climb 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 16 +3 +3 DEX 14 +2 +2 CON 14 +2 +2
-
-INT 6 -2 -2 Wis 12 +1 +1 Cha 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 14 | +2 | +2   | CON | 14 | +2 | +2   |
+| INT | 6  | -2 | -2   | WIS | 12 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Athletics +5, Perception +3 Senses Passive Perception 13 Languages None CR 1/2 (XP 100; PB +2)
 
@@ -36,8 +35,10 @@ AC 12 Initiative +2 (12) HP 1 (1d4 – 1)
 
 Speed 5 ft., Fly 30 ft.
 
-STR 2 -4 -4 DEX 15 +2 +2 CON 8 -1 -1
-INT 2 -4 -4 Wis 12 +1 +1 CHA 4 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 15 | +2 | +2   | CON | 8  | -1 | -1   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 4  | -3 | -3   |
 
 Senses Blindsight 60 ft., Passive Perception 11 Languages None CR 0 (XP 10; PB +2)
 
@@ -53,11 +54,10 @@ AC 11 Initiative +0 (10)
 
 HP 5 (1d4 + 3) Speed 20 ft., Burrow 5 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 10 +0 +0 DEX 11 +0 +0 CON 16 +3 +3
-
-INT 2 -4 -4 Wis 12 +1 +1 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 10 | +0 | +0   | DEX | 11 | +0 | +0   | CON | 16 | +3 | +3   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 5  | -3 | -3   |
 
 Skills Perception +3
 Resistances Poison
@@ -77,11 +77,10 @@ AC 11 Initiative +1 (11) HP 19 (3d8 + 6)
 
 Speed 30 ft., Climb 30 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 15 +2 +2 DEX 12 +1 +1 CON 14 +2 +2
-
-INT 2 -4 -4 WIS 12 +1 +1 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +2   | DEX | 12 | +1 | +1   | CON | 14 | +2 | +2   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Perception +5
 Senses Darkvision 60 ft., Passive Perception 15
@@ -102,11 +101,10 @@ AC 11 Initiative +0 (10) HP 13 (2d8 + 4)
 
 Speed 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 13 +1 +1 DEX 11 +0 +0 CON 14 +2 +2
-
-INT 2 -4 -4 Wis 9 -1 -1 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 11 | +0 | +0   | CON | 14 | +2 | +2   |
+| INT | 2  | -4 | -4   | WIS | 9  | -1 | -1   | CHA | 5  | -3 | -3   |
 
 Senses Passive Perception 9 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -128,11 +126,10 @@ HP 22 (3d10 + 6)
 
 Speed 40 ft., Climb 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 17 +3 +3 DEX 12 +1 +1 CON 15 +2 +2
-
-INT 2 -4 -4 Wis 13 +1 +1 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +3   | DEX | 12 | +1 | +1   | CON | 15 | +2 | +2   |
+| INT | 2  | -4 | -4   | WIS | 13 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Perception +3
 Senses Darkvision 60 ft., Passive Perception 13
@@ -155,11 +152,10 @@ Large Beast, Unaligned
 
 AC 10 Initiative –1 (9) HP 17 (2d10 + 6) Speed 50 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 15 +2 +2 DEX 8 -1 -1 CON 17 +3 +5
-
-INT 2 -4 -4 WIS 11 +0 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +2   | DEX | 8  | -1 | -1   | CON | 17 | +3 | +5   |
+| INT | 2  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 5  | -3 | -3   |
 
 Senses Darkvision 60 ft., Passive Perception 10 Languages None CR 1/8 (XP 25; PB +2)
 
@@ -173,8 +169,10 @@ Tiny Beast, Unaligned
 
 AC 12 Initiative +2 (12) HP 2 (1d4) Speed 40 ft., Climb 40 ft.
 
-STR 3 -4 -4 DEX 15 +2 +4 CON 10 +0 +0
-INT 3 -4 -4 WIS 12 +1 +1 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 3  | -4 | -4   | DEX | 15 | +2 | +4   | CON | 10 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Perception +3, Stealth +4
 Senses Darkvision 60 ft., Passive Perception 13
@@ -201,10 +199,10 @@ HP 13 (2d10 + 2)
 
 Speed 30 ft., Swim 30 ft.
 
-| 1   |    | MOD | SAVE |        | MOD | SAVE |        | MOD | SAVE |
-|-----|----|-----|------|--------|-----|------|--------|-----|------|
-| STR | 15 | +2  | +2   | DEX 14 | +2  | +2   | CON 12 | +1  | +1   |
-| INT | 1  | -5  | -5   | Wis 10 | +0  | +0   | CHA 3  | -4  | -4   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +2   | DEX | 14 | +2 | +2   | CON | 12 | +1 | +1   |
+| INT | 1  | -5 | -5   | WIS | 10 | +0 | +0   | CHA | 3  | -4 | -4   |
 
 Skills Perception +2, Stealth +4 Senses Blindsight 10 ft., Passive Perception 12 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -224,10 +222,10 @@ HP 3 (1d4 + 1)
 
 Speed 20 ft., Swim 20 ft.
 
-|     |   | MOD | SAVE |        | MOD | SAVE |        | MOD | SAVE |
-|-----|---|-----|------|--------|-----|------|--------|-----|------|
-| STR | 6 | -2  | -2   | DEX 11 | +0  | +0   | CON 12 | +1  | +1   |
-| INT | 1 | -5  | -5   | Wis 8  | -1  | -1   | CHA 2  | -4  | -4   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 6  | -2 | -2   | DEX | 11 | +0 | +0   | CON | 12 | +1 | +1   |
+| INT | 1  | -5 | -5   | WIS | 8  | -1 | -1   | CHA | 2  | -4 | -4   |
 
 Skills Stealth +2 Senses Blindsight 30 ft., Passive Perception 9 Languages None CR 0 (XP 10; PB +2)
 
@@ -249,7 +247,10 @@ HP 13 (2d10 + 2)
 
 Speed 20 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 15 +2 +2 DEX 10 +0 +0 CON 13 +1 +3 INT 2 -4 -4 WIS 10 +0 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +2   | DEX | 10 | +0 | +0   | CON | 13 | +1 | +3   |
+| INT | 2  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 5  | -3 | -3   |
 
 Skills Stealth +2 Senses Passive Perception 10 Languages None CR 1/2 (XP 100; PB +2)
 
@@ -267,7 +268,10 @@ Large Beast, Unaligned
 
 AC 14 Initiative +2 (12) HP 22 (3d10 + 6) Speed 50 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 17 +3 +3 DEX 15 +2 +2 CON 15 +2 +2 INT 3 -4 -4 WIS 12 +1 +1 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +3   | DEX | 15 | +2 | +2   | CON | 15 | +2 | +2   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Perception +5, Stealth +4 Senses Darkvision 60 ft., Passive Perception 15 Languages None CR 1 (XP 200; PB +2)
 
@@ -289,8 +293,10 @@ AC 10 Initiative +0 (10) HP 15 (2d10 + 4)
 
 Speed 40 ft.
 
-STR 18 +4 +4 DEX 10 +0 +0 Con 15 +2 +2
-INT 2 -4 -4 WIS 11 +0 +0 Cha 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 10 | +0 | +0   | CON | 15 | +2 | +2   |
+| INT | 2  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 7  | -2 | -2   |
 
 Senses Passive Perception 10 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -306,11 +312,10 @@ AC 12 Initiative –1 (9)
 
 HP 76 (8d12 + 24) Speed 40 ft.
 
-MOD SAVE
-
-STR 22 +6 +6 DEX 9 -1 -1 CON 17 +3 +3
-
-INT 3 -4 -4 WIS 11 +0 +0 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 22 | +6 | +6   | DEX | 9  | -1 | -1   | CON | 17 | +3 | +3   |
+| INT | 3  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 6  | -2 | -2   |
 
 Senses Passive Perception 10 Languages None CR 4 (XP 1,100; PB +2)
 
@@ -332,8 +337,10 @@ AC 10 Initiative +0 (10) HP 11 (2d10)
 
 Speed 50 ft.
 
-STR 16 +3 +3 DEX 10 +0 +0 CON 11 +0 +0
-INT 2 -4 -4 WIS 10 +0 +0 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 10 | +0 | +0   | CON | 11 | +0 | +0   |
+| INT | 2  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 6  | -2 | -2   |
 
 Skills Perception +2 Senses Darkvision 60 ft., Passive Perception 12 Languages None
 
@@ -351,11 +358,10 @@ AC 11 Initiative +1 (11) HP 1 (1d4 – 1)
 
 Speed 20 ft., Swim 20 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 1 -5 -5 DEX 13 +1 +1 CON 8 -1 -1
-
-INT 1 -5 -5 Wis 8 -1 -1 Cha 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 1  | -5 | -5   | DEX | 13 | +1 | +1   | CON | 8  | -1 | -1   |
+| INT | 1  | -5 | -5   | WIS | 8  | -1 | -1   | CHA | 3  | -4 | -4   |
 
 Skills Perception +1, Stealth +3
 Senses Darkvision 30 ft., Passive Perception 11
@@ -384,9 +390,10 @@ HP 15 (2d8 + 6)
 
 Speed 30 ft., Burrow 10 ft.
 
-STR 13 +1 +1 DEX 10 +0 +0 CON 17 +3 +3
-
-INT 2 -4 -4 Wis 12 +1 +1 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 10 | +0 | +0   | CON | 17 | +3 | +3   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 5  | -3 | -3   |
 
 Skills Perception +3 Resistances Poison Senses Darkvision 60 ft., Passive Perception 13 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -404,7 +411,10 @@ HP 13 (3d8)
 
 Speed 30 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE STR 13 +1 +1 DEX 13 +1 +1 CON 11 +0 +0 INT 1 -5 -5 WIS 9 -1 -1 CHA 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 13 | +1 | +1   | CON | 11 | +0 | +0   |
+| INT | 1  | -5 | -5   | WIS | 9  | -1 | -1   | CHA | 3  | -4 | -4   |
 
 Skills Stealth +3
 
@@ -430,7 +440,10 @@ HP 19 (3d10 + 3)
 
 Speed 40 ft., Climb 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 17 +3 +5 DEX 13 +1 +1 CON 12 +1 +1 INT 3 -4 -4 WIS 12 +1 +1 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +5   | DEX | 13 | +1 | +1   | CON | 12 | +1 | +1   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 6  | -2 | -2   |
 
 Skills Perception +3
 
@@ -454,7 +467,10 @@ HP 16 (3d10)
 
 Speed 5 ft., Swim 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 15 +2 +2 DEX 12 +1 +1 CON 11 +0 +0 INT 2 -4 -4 Wis 12 +1 +1 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +2   | DEX | 12 | +1 | +1   | CON | 11 | +0 | +0   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 5  | -3 | -3   |
 
 Senses Passive Perception 11
 
@@ -486,10 +502,10 @@ HP 26 (4d10 + 4)
 
 Speed 30 ft., Climb 30 ft.
 
-|     |    | MOD | SAVE |     |    | MOD | SAVE |        | MOD | SAVE |
-|-----|----|-----|------|-----|----|-----|------|--------|-----|------|
-| STR | 14 | +2  | +2   | DEX | 16 | +3  | +3   | CON 12 | +1  | +1   |
-| INT | 2  | -4  | -4   | Wis | 11 | +0  | +0   | CHA 4  | -3  | -3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 14 | +2 | +2   | DEX | 16 | +3 | +3   | CON | 12 | +1 | +1   |
+| INT | 2  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 4  | -3 | -3   |
 
 Skills Perception +4, Stealth +7
 Senses Darkvision 60 ft., Passive Perception 14
@@ -516,10 +532,10 @@ AC 13 Initiative +3 (13) HP 9 (2d8)
 
 Speed 40 ft., Climb 30 ft.
 
-|     |    | MOD | SAVE |        | MOD | SAVE |        | MOD | SAVE |
-|-----|----|-----|------|--------|-----|------|--------|-----|------|
-| STR | 11 | +0  | +0   | DEX 17 | +3  | +3   | Con 10 | +0  | +0   |
-| INT | 4  | -3  | -3   | Wis 12 | +1  | +1   | CHA 5  | -3  | -3   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 11 | +0 | +0   | DEX | 17 | +3 | +3   | CON | 10 | +0 | +0   |
+| INT | 4  | -3 | -3   | WIS | 12 | +1 | +1   | CHA | 5  | -3 | -3   |
 
 Skills Acrobatics +5, Perception +3, Stealth +5 Senses Darkvision 60 ft., Passive Perception 13 Languages None CR 1/8 (XP 25; PB +2)
 
@@ -535,11 +551,10 @@ AC 10 Initiative +0 (10) HP 4 (1d8)
 
 Speed 40 ft., Climb 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 11 +0 +2 DEX 10 +0 +0 CON 11 +0 +0
-
-INT 2 -4 -4 WIS 10 +0 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 11 | +0 | +2   | DEX | 10 | +0 | +0   | CON | 11 | +0 | +0   |
+| INT | 2  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 5  | -3 | -3   |
 
 Skills Perception +2
 Senses Darkvision 60 ft., Passive Perception 12
@@ -558,8 +573,10 @@ AC 13 Initiative +3 (13)
 
 HP 1 (1d4 - 1) Speed 10 ft., Fly 60 ft.
 
-STR 5 -3 -3 DEX 16 +3 +3 CON 8 -1 -1
-INT 2 -4 -4 Wis 14 +2 +2 Cha 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 5  | -3 | -3   | DEX | 16 | +3 | +3   | CON | 8  | -1 | -1   |
+| INT | 2  | -4 | -4   | WIS | 14 | +2 | +2   | CHA | 6  | -2 | -2   |
 
 Skills Perception +6 Senses Passive Perception 16 Languages None CR 0 (XP 10; PB +2)
 
@@ -577,9 +594,10 @@ HP 21 (6d4 + 6)
 
 Speed 20 ft., Fly 40 ft.
 
-STR 6 -2 -2 DEX 17 +3 +3 CON 13 +1 +1
-
-INT 11 +0 +0 Wis 12 +1 +1 CHA 14 +2 +2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 6  | -2 | -2   | DEX | 17 | +3 | +3   | CON | 13 | +1 | +1   |
+| INT | 11 | +0 | +0   | WIS | 12 | +1 | +1   | CHA | 14 | +2 | +2   |
 
 Skills Deception +4, Insight +3, Stealth +5
 Resistances Cold
@@ -612,11 +630,10 @@ AC 12 Initiative +2 (12)
 
 HP 22 (4d10) Speed 50 ft.
 
-MOD SAVE MOD SAVE
-
-STR 17 +3 +3 DEX 15 +2 +2 CON 11 +0 +0
-
-INT 3 -4 -4 WIS 12 +1 +1 CHA 8 -1 -1
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +3   | DEX | 15 | +2 | +2   | CON | 11 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 8  | -1 | -1   |
 
 Skills Perception +3, Stealth +4
 Senses Darkvision 60 ft., Passive Perception 13
@@ -653,9 +670,10 @@ HP 2 (1d4)
 
 Speed 20 ft., Climb 20 ft.
 
-STR 2 -4 -4 DEX 11 +0 +0 CON 10 +0 +0
-
-INT 1 -5 -5 Wis 8 -1 -1 CHA 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 11 | +0 | +0   | CON | 10 | +0 | +0   |
+| INT | 1  | -5 | -5   | WIS | 8  | -1 | -1   | CHA | 3  | -4 | -4   |
 
 Senses Darkvision 30 ft., Passive Perception 9 Languages None CR 0 (XP 10; PB +2)
 
@@ -679,9 +697,10 @@ HP 5 (1d8 + 1)
 
 Speed 40 ft.
 
-STR 13 +1 +1 DEX 14 +2 +2 CON 12 +1 +1
-
-INT 3 -4 -4 Wis 12 +1 +3 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 14 | +2 | +2   | CON | 12 | +1 | +1   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +3   | CHA | 7  | -2 | -2   |
 
 Skills Perception +5
 
@@ -705,9 +724,10 @@ Initiative +0 (10)
 
 Speed 40 ft.
 
-STR 14 +2 +4 DEX 10 +0 +0 CON 13 +1 +1
-
-INT 2 -4 -4 WIS 10 +0 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 14 | +2 | +4   | DEX | 10 | +0 | +0   | CON | 13 | +1 | +1   |
+| INT | 2  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 5  | -3 | -3   |
 
 Senses Passive Perception 10 Languages None CR 1/8 (XP 25; PB +2)
 
@@ -731,7 +751,10 @@ HP 3 (1d6)
 
 Speed 5 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 4 -3 -3 DEX 15 +2 +2 CON 11 +0 +0 INT 3 -4 -4 WIS 10 +0 +0 CHA 4 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 4  | -3 | -3   | DEX | 15 | +2 | +2   | CON | 11 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 4  | -3 | -3   |
 
 Skills Perception +2, Stealth +6 Senses Darkvision 30 ft., Passive Perception 12 Languages None CR 0 (XP 10; PB +2)
 
@@ -763,8 +786,10 @@ Initiative +1 (11)
 
 HP 1 (1d4 - 1) Speed 5 ft., Fly 60 ft.
 
-STR 3 -4 -4 DEX 13 +1 +1 CON 8 -1 -1
-INT 2 -4 -4 WIS 12 +1 +1 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 3  | -4 | -4   | DEX | 13 | +1 | +1   | CON | 8  | -1 | -1   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 7  | -2 | -2   |
 
 Skills Perception +5, Stealth +5
 Senses Darkvision 120 ft., Passive Perception 15
@@ -791,11 +816,10 @@ HP 13 (3d8)
 
 Speed 50 ft., Climb 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 14 +2 +2 DEX 15 +2 +2 CON 10 +0 +0
-
-INT 3 -4 -4 Wis 14 +2 +2 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 14 | +2 | +2   | DEX | 15 | +2 | +2   | CON | 10 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 14 | +2 | +2   | CHA | 7  | -2 | -2   |
 
 Skills Perception +4, Stealth +6
 Senses Darkvision 60 ft., Passive Perception 14
@@ -820,11 +844,10 @@ Initiative +0 (10)
 
 HP 11 (2d8 + 2) Speed 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 15 +2 +4 DEX 10 +0 +0 CON 13 +1 +1
-
-INT 2 -4 -4 WIS 11 +0 +0 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 15 | +2 | +4   | DEX | 10 | +0 | +0   | CON | 13 | +1 | +1   |
+| INT | 2  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 7  | -2 | -2   |
 
 Senses Passive Perception 10 Languages None
 
@@ -844,8 +867,10 @@ HP 10 (3d4 + 3)
 
 Speed 15 ft., Fly 60 ft.
 
-STR 6 -2 -2 DEX 15 +2 +2 CON 13 +1 +1
-INT 10 +0 +0 WIS 12 +1 +1 CHA 10 +0 +0
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 6  | -2 | -2   | DEX | 15 | +2 | +2   | CON | 13 | +1 | +1   |
+| INT | 10 | +0 | +0   | WIS | 12 | +1 | +1   | CHA | 10 | +0 | +0   |
 
 Skills Perception +5, Stealth +4
 Senses Blindsight 10 ft., Darkvision 60 ft.,
@@ -878,7 +903,10 @@ Initiative +3 (13) HP 25 (10d4)
 
 Speed 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE STR 5 -3 -3 DEX 17 +3 +3 CON 10 +0 +0 WIS 10 +0 +0 CHA 10 +0 +0 INT 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 5  | -3 | -3   | DEX | 17 | +3 | +3   | CON | 10 | +0 | +0   |
+| INT | 7  | -2 | -2   | WIS | 10 | +0 | +0   | CHA | 10 | +0 | +0   |
 
 Skills Stealth +5 Resistances Cold, Fire, Lightning Immunities Poison; Poisoned
 
@@ -906,7 +934,10 @@ Tiny Beast, Unaligned
 
 AC 10 Initiative +0 (10) HP 1 (1d4 - 1) Speed 20 ft., Climb 20 ft.
 
-MOD SAVE MOD SAVE STR 2 -4 -4 DEX 11 +0 +0 CON 9 -1 -1 INT 2 -4 -4 WIS 10 +0 +0 CHA 4 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 11 | +0 | +0   | CON | 9  | -1 | -1   |
+| INT | 2  | -4 | -4   | WIS | 10 | +0 | +0   | CHA | 4  | -3 | -3   |
 
 Skills Perception +2 Senses Darkvision 30 ft., Passive Perception 12 Languages None CR 0 (XP 10; PB +2)
 
@@ -926,7 +957,10 @@ AC 12 Initiative +2 (12) HP 2 (1d4)
 
 Speed 10 ft., Fly 50 ft.
 
-MOD SAVE MOD SAVE STR 2 -4 -4 DEX 14 +2 +2 CON 10 +0 +0 INT 5 -3 -3 WIS 13 +1 +1 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 14 | +2 | +2   | CON | 10 | +0 | +0   |
+| INT | 5  | -3 | -3   | WIS | 13 | +1 | +1   | CHA | 6  | -2 | -2   |
 
 Skills Perception +3 Senses Passive Perception 13 Languages None CR 0 (XP 10; PB +2)
 
@@ -948,11 +982,10 @@ AC 12 Initiative +2 (12) HP 22 (4d8 + 4)
 
 Speed 5 ft., Swim 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE MOD SAVE
-
-STR 14 +2 +2 DEX 15 +2 +2 CON 13 +1 +1
-
-INT 1 -5 -5 Wis 10 +0 +0 CHA 4 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 14 | +2 | +2   | DEX | 15 | +2 | +2   | CON | 13 | +1 | +1   |
+| INT | 1  | -5 | -5   | WIS | 10 | +0 | +0   | CHA | 4  | -3 | -3   |
 
 Skills Perception +2
 
@@ -978,11 +1011,10 @@ AC 11 Initiative +1 (11)
 
 HP 13 (2d10 + 2) Speed 60 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 16 +3 +3 DEX 13 +1 +1 CON 12 +1 +1
-
-INT 2 -4 -4 WIS 11 +0 +0 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 16 | +3 | +3   | DEX | 13 | +1 | +1   | CON | 12 | +1 | +1   |
+| INT | 2  | -4 | -4   | WIS | 11 | +0 | +0   | CHA | 7  | -2 | -2   |
 
 Senses Passive Perception 10 Languages None CR 1/4 (XP 50; PB +2)
 
@@ -998,8 +1030,10 @@ AC 11 Initiative +0 (10)
 
 HP 1 (1d4 - 1) Speed 10 ft.
 
-STR 2 -4 -4 DEX 11 +0 +0 CON 8 -1 -1
-INT 1 -5 -5 WIS 8 -1 -1 CHA 2 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 11 | +0 | +0   | CON | 8  | -1 | -1   |
+| INT | 1  | -5 | -5   | WIS | 8  | -1 | -1   | CHA | 2  | -4 | -4   |
 
 Senses Blindsight 10 ft., Passive Perception 9 Languages None CR 0 (XP 10; PB +2)
 
@@ -1015,9 +1049,10 @@ AC 13 Initiative +3 (13) HP 13 (2d8 + 4)
 
 Speed 30 ft.
 
-[OCR_REVIEW: STR and DEX scores missing from OCR] CON 15 +2 +2
-
-INT 6 -2 -2 Wis 8 -1 -1 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 10 | +0 | +0   | DEX | 14 | +2 | +2   | CON | 15 | +2 | +2   |
+| INT | 6  | -2 | -2   | WIS | 8  | -1 | -1   | CHA | 5  | -3 | -3   |
 
 Vulnerabilities Bludgeoning
 Immunities Poison; Exhaustion, Poisoned
@@ -1042,8 +1077,10 @@ HP 7 (3d4)
 
 Speed 30 ft., Burrow 10 ft.
 
-STR 7 -2 -2 DEX 15 +2 +2 CON 10 +0 +0
-INT 3 -4 -4 WIS 5 -3 -3 CHA 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 7  | -2 | -2   | DEX | 15 | +2 | +2   | CON | 10 | +0 | +0   |
+| INT | 3  | -4 | -4   | WIS | 5  | -3 | -3   | CHA | 3  | -4 | -4   |
 
 Skills Stealth +4
 
@@ -1065,8 +1102,10 @@ AC 13 Initiative +3 (13) HP 24 (7d4 + 7)
 
 Speed 20 ft., Fly 40 ft.
 
-STR 6 -2 -2 DEX 17 +3 +3 CON 13 +1 +1
-INT 15 +2 +2 Wis 12 +1 +1 CHA 11 +0 +0
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 6  | -2 | -2   | DEX | 17 | +3 | +3   | CON | 13 | +1 | +1   |
+| INT | 15 | +2 | +2   | WIS | 12 | +1 | +1   | CHA | 11 | +0 | +0   |
 
 Skills Arcana +4, Religion +4, Stealth +5
 Resistances Necrotic, Psychic, Radiant
@@ -1096,8 +1135,10 @@ AC 12 Initiative +2 (12) HP 1 (1d4 – 1)
 
 Speed 20 ft., Climb 20 ft.
 
-STR 2 -4 -4 DEX 14 +2 +2 CON 8 -1 -1
-INT 1 -5 -5 WIS 10 +0 +0 CHA 2 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 14 | +2 | +2   | CON | 8  | -1 | -1   |
+| INT | 1  | -5 | -5   | WIS | 10 | +0 | +0   | CHA | 2  | -4 | -4   |
 
 Skills Stealth +4
 Senses Darkvision 30 ft., Passive Perception 10
@@ -1124,10 +1165,10 @@ AC 15 Initiative +4 (14) HP 10 (4d4)
 
 Speed 10 ft., Fly 40 ft.
 
-|     |    | MOD | SAVE |        | MOD | SAVE |        | MOD SAVE |
-|-----|----|-----|------|--------|-----|------|--------|----------|
-| STR | 3  | -4  | -4   | DEX 18 | +4  | +4   | Con 10 | +0 +0    |
-| INT | 14 | +2  | +2   | Wis 13 | +1  | +1   | CHA 11 | +0 +0    |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 3  | -4 | -4   | DEX | 18 | +4 | +4   | CON | 10 | +0 | +0   |
+| INT | 14 | +2 | +2   | WIS | 13 | +1 | +1   | CHA | 11 | +0 | +0   |
 
 Skills Perception +3, Stealth +8
 Senses Passive Perception 13
@@ -1152,8 +1193,10 @@ AC 13 Initiative +3 (13) HP 22 (3d10 + 6)
 
 Speed 40 ft.
 
-STR 17 +3 +3 DEX 16 +3 +3 CON 14 +2 +2
-INT 3 -4 -4 WIS 12 +1 +1 CHA 8 -1 -1
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 17 | +3 | +3   | DEX | 16 | +3 | +3   | CON | 14 | +2 | +2   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 8  | -1 | -1   |
 
 Skills Perception +3, Stealth +7
 Senses Darkvision 60 ft., Passive Perception 13
@@ -1176,8 +1219,10 @@ AC 12 Initiative +2 (12) HP 5 (2d4)
 
 Speed 30 ft., Swim 30 ft.
 
-STR 2 -4 -4 DEX 15 +2 +2 CON 11 +0 +0
-INT 1 -5 -5 WIS 10 +0 +0 CHA 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 2  | -4 | -4   | DEX | 15 | +2 | +2   | CON | 11 | +0 | +0   |
+| INT | 1  | -5 | -5   | WIS | 10 | +0 | +0   | CHA | 3  | -4 | -4   |
 
 Senses Blindsight 10 ft., Passive Perception 10 Languages None CR 1/8 (XP 25; PB +2)
 
@@ -1199,9 +1244,10 @@ HP 19 (3d10 + 3)
 
 Speed 60 ft.
 
-STR 18 +4 +4 DEX 12 +1 +1 CON 13 +1 +1
-
-INT 2 -4 -4 Wis 12 +1 +3 CHA 7 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 18 | +4 | +4   | DEX | 12 | +1 | +1   | CON | 13 | +1 | +1   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +3   | CHA | 7  | -2 | -2   |
 
 Senses Passive Perception 11 Languages None CR 1/2 (XP 100; PB +2)
 
@@ -1219,11 +1265,10 @@ HP 1 (1d4 - 1)
 
 Speed 30 ft., Climb 30 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 3 -4 -4 DEX 16 +3 +3 CON 8 -1 -1
-
-INT 2 -4 -4 Wis 12 +1 +1 CHA 3 -4 -4
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 3  | -4 | -4   | DEX | 16 | +3 | +3   | CON | 8  | -1 | -1   |
+| INT | 2  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 3  | -4 | -4   |
 
 Skills Acrobatics +5, Perception +3, Stealth +5
 Senses Darkvision 60 ft., Passive Perception 13
@@ -1240,11 +1285,10 @@ Medium Beast, Unaligned
 
 AC 12 Initiative +2 (12) HP 11 (2d8 + 2) Speed 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE MOD SAVE
-
-STR 14 +2 +2 DEX 15 +2 +2 CON 12 +1 +1
-
-INT 3 -4 -4 WIS 12 +1 +1 CHA 6 -2 -2
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 14 | +2 | +2   | DEX | 15 | +2 | +2   | CON | 12 | +1 | +1   |
+| INT | 3  | -4 | -4   | WIS | 12 | +1 | +1   | CHA | 6  | -2 | -2   |
 
 Skills Perception +5, Stealth +4
 Senses Darkvision 60 ft., Passive Perception 15
@@ -1265,11 +1309,10 @@ Medium Undead, Neutral Evil
 
 AC 8 Initiative -2 (8) HP 15 (2d8 + 6) Speed 20 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
-
-STR 13 +1 +1 DEX 6 -2 -2 CON 16 +3 +3
-
-INT 3 -4 -4 WIS 6 -2 +0 CHA 5 -3 -3
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 13 | +1 | +1   | DEX | 6  | -2 | -2   | CON | 16 | +3 | +3   |
+| INT | 3  | -4 | -4   | WIS | 6  | -2 | +0   | CHA | 5  | -3 | -3   |
 
 Immunities Poison; Exhaustion, Poisoned
 Senses Darkvision 60 ft., Passive Perception 8

@@ -423,7 +423,7 @@ Duration: Concentration, up to 1 minute
 
 You open a gateway to the Far Realm, a region infested with unspeakable horrors. A 20-foot-radius Sphere of Darkness appears, centered on a point with range and lasting for the duration. The Sphere is Difficult Terrain, and it is filled with strange whispers and slurping noises, which can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the Blinded condition.
 
-Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn in the area takes 2d6 Acid damage. [OCR_REVIEW: possible missing text]
+Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn in the area takes 2d6 Acid damage.
 
 Using a Higher-Level Spell Slot. The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 
@@ -581,11 +581,22 @@ with Disadvantage. You remain aware of the passage of time and can cast spells o
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 Force damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the Prone condition.
 
 
-### MOVE EARTH [OCR_REVIEW]
+### MOVE EARTH
 
-Level 3 Transmutation (Druid, Sorcerer, Wizard) [OCR_REVIEW]
+Level 6 Transmutation (Druid, Sorcerer, Wizard)
 
-[OCR_REVIEW: MOVE EARTH spell content missing - only last sentence recovered]
+Casting Time: Action
+Range: 120 feet
+
+Components: V, S, M (a miniature shovel)
+
+Duration: Concentration, up to 2 hours
+
+Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.
+
+At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect within range.
+
+This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
@@ -652,11 +663,27 @@ Duration: Concentration, up to 1 hour
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
 
-### REINCARNATE [OCR_REVIEW]
+### REINCARNATE
 
-Level 5 Transmutation (Druid) [OCR_REVIEW]
+Level 5 Necromancy (Druid)
 
-[OCR_REVIEW: REINCARNATE spell content missing - only last sentence recovered]
+Casting Time: 1 hour
+
+Range: Touch
+
+Components: V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
+
+Duration: Instantaneous
+
+You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the DM chooses another playable species.
+
+| 1d10 | Species    | 1d10 | Species  |
+|------|------------|------|----------|
+| 1    | Aasimar    | 6    | Goliath  |
+| 2    | Dragonborn | 7    | Halfling |
+| 3    | Dwarf      | 8    | Human    |
+| 4    | Elf        | 9    | Orc      |
+| 5    | Gnome      | 10   | Tiefling |
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
@@ -860,10 +887,10 @@ HP 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level 
 
 Speed 30 ft.; Fly 40 ft. (hover; Ghostly only)
 
-|     |    | MOD | SAVE | - 55  |    | MOD | SAVE | 0 250  | мор | SAVE |
-|-----|----|-----|------|-------|----|-----|------|--------|-----|------|
-| STR | 12 | +1  | +1   | DEX 1 | 16 | +3  | +3   | CON 15 | +2  | +2   |
-| INT | 4  | -3  | -3   | Wis 1 | 0  | +0  | +0   | CHA 9  | -1  | -1   |
+|     |    | MOD | SAVE |     |    | MOD | SAVE |     |    | MOD | SAVE |
+|-----|----|----|------|-----|----|----|------|-----|----|----|------|
+| STR | 12 | +1 | +1   | DEX | 16 | +3 | +3   | CON | 15 | +2 | +2   |
+| INT | 4  | -3 | -3   | WIS | 10 | +0 | +0   | CHA | 9  | -1 | -1   |
 
 Immunities Necrotic, Poison; Exhaustion, Frightened, Paralyzed, Poisoned
 
